@@ -2,139 +2,94 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-08-17 23:48:56 (BD Time)
+# 🕒 Last Updated: 2026-08-18 01:17:03 (BD Time)
 # 📺 Channels Count: 44
 #=================================
-
 #EXTINF:-1 group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1784629064327.png",Somoy tv
 https://akashgo-obiramtv.emonsa4.workers.dev/01.m3u8
-
 #EXTINF:-1 group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560213832.png",Jamuna TV
 https://akashgo-obiramtv.emonsa4.workers.dev/02.m3u8
-
 #EXTINF:-1 group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739964387847.png",Independent TV
 https://akashgo-obiramtv.emonsa4.workers.dev/03.m3u8
-
 #EXTINF:-1 group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186306600.png",DBC News HD
 https://akashgo-obiramtv.emonsa4.workers.dev/04.m3u8
-
 #EXTINF:-1 group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773247382366.png",BTV Shangshad
 https://akashgo-obiramtv.emonsa4.workers.dev/05.m3u8
-
 #EXTINF:-1 group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739963327549.png",Ekattor HD
 https://akashgo-obiramtv.emonsa4.workers.dev/06.m3u8
-
 #EXTINF:-1 group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735556516924.png",Channel 24 HD
 https://akashgo-obiramtv.emonsa4.workers.dev/07.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1784629845642.png",BTV
 https://akashgo-obiramtv.emonsa4.workers.dev/08.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1773680325498.png",Maasranga TV
 https://akashgo-obiramtv.emonsa4.workers.dev/09.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348753896.png",Crazy Ex
 https://akashgo-obiramtv.emonsa4.workers.dev/10.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380601958.png",Sports Range
 https://akashgo-obiramtv.emonsa4.workers.dev/11.m3u8
-
 #EXTINF:-1 group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png",ATN News
 https://akashgo-obiramtv.emonsa4.workers.dev/12.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png",Channel 9 HD
 https://akashgo-obiramtv.emonsa4.workers.dev/13.m3u8
-
 #EXTINF:-1 group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186895850.png",News 24 HD
 https://akashgo-obiramtv.emonsa4.workers.dev/14.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png",Deepto TV HD
 https://akashgo-obiramtv.emonsa4.workers.dev/15.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png",NTV
 https://akashgo-obiramtv.emonsa4.workers.dev/16.m3u8
-
 #EXTINF:-1 group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735547218986.png",Al Jazeera
 https://akashgo-obiramtv.emonsa4.workers.dev/17.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png",Channel I HD
 https://akashgo-obiramtv.emonsa4.workers.dev/18.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735561344354.png",Bangla Vision
 https://akashgo-obiramtv.emonsa4.workers.dev/19.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770377900139.png",Sports Legends
 https://akashgo-obiramtv.emonsa4.workers.dev/20.m3u8
-
 #EXTINF:-1 group-title="Music" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378215384.png",Party Universe
 https://akashgo-obiramtv.emonsa4.workers.dev/21.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380791303.png",Thunder Er
 https://akashgo-obiramtv.emonsa4.workers.dev/22.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380942670.png",Fighters
 https://akashgo-obiramtv.emonsa4.workers.dev/23.m3u8
-
 #EXTINF:-1 group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378074527.png",Flash Guys HD
 https://akashgo-obiramtv.emonsa4.workers.dev/24.m3u8
-
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png",SRK TV
 https://akashgo-obiramtv.emonsa4.workers.dev/25.m3u8
-
 #EXTINF:-1 group-title="Kids" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378704923.png",Nikki
 https://akashgo-obiramtv.emonsa4.workers.dev/26.m3u8
-
 #EXTINF:-1 group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1781163068414.png",Channel 1
 https://akashgo-obiramtv.emonsa4.workers.dev/27.m3u8
-
 #EXTINF:-1 group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770313122372.png",Originals
 https://akashgo-obiramtv.emonsa4.workers.dev/28.m3u8
-
 #EXTINF:-1 group-title="Kids" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378874717.png",Joy
 https://akashgo-obiramtv.emonsa4.workers.dev/29.m3u8
-
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378370876.png",Delicious
-https://akashgo-obiramtv.emonsa4.workers.dev/30.m3u8
-
 #EXTINF:-1 group-title="Kids" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379573329.png",Funny Junior HD
+https://akashgo-obiramtv.emonsa4.workers.dev/30.m3u8
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378370876.png",Delicious
 https://akashgo-obiramtv.emonsa4.workers.dev/31.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381398090.png",Kids Stars
+#EXTINF:-1 group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1782012550123.png",Desh TV
 https://akashgo-obiramtv.emonsa4.workers.dev/32.m3u8
-
 #EXTINF:-1 group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347851305.png",Cineedge HD
 https://akashgo-obiramtv.emonsa4.workers.dev/33.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380126540.png",Crimes
-https://akashgo-obiramtv.emonsa4.workers.dev/34.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770312098339.png",Screem
-https://akashgo-obiramtv.emonsa4.workers.dev/35.m3u8
-
 #EXTINF:-1 group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770348388925.png",Superrix HD
-https://akashgo-obiramtv.emonsa4.workers.dev/36.m3u8
-
+https://akashgo-obiramtv.emonsa4.workers.dev/34.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347327658.png",Uniques HD
-https://akashgo-obiramtv.emonsa4.workers.dev/37.m3u8
-
+https://akashgo-obiramtv.emonsa4.workers.dev/35.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770312098339.png",Screem
+https://akashgo-obiramtv.emonsa4.workers.dev/36.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379038530.png",BuddyStar HD
+https://akashgo-obiramtv.emonsa4.workers.dev/37.m3u8
+#EXTINF:-1 group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380126540.png",Crimes
 https://akashgo-obiramtv.emonsa4.workers.dev/38.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381248531.png",Lucky Family
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378560772.png",Luxell HD
 https://akashgo-obiramtv.emonsa4.workers.dev/39.m3u8
-
-#EXTINF:-1 group-title="Kids" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381107924.png",Smarty
+#EXTINF:-1 group-title="Kids" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381398090.png",Kids Stars
 https://akashgo-obiramtv.emonsa4.workers.dev/40.m3u8
-
-#EXTINF:-1 group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1782012550123.png",Desh TV
+#EXTINF:-1 group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380306806.png",True Stories
 https://akashgo-obiramtv.emonsa4.workers.dev/41.m3u8
-
 #EXTINF:-1 group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380460488.png",Intelligence
 https://akashgo-obiramtv.emonsa4.workers.dev/42.m3u8
-
-#EXTINF:-1 group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380306806.png",True Stories
+#EXTINF:-1 group-title="Kids" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381107924.png",Smarty
 https://akashgo-obiramtv.emonsa4.workers.dev/43.m3u8
-
-#EXTINF:-1 group-title="Infotainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378560772.png",Luxell HD
+#EXTINF:-1 group-title="Kids" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381248531.png",Lucky Family
 https://akashgo-obiramtv.emonsa4.workers.dev/44.m3u8
-
