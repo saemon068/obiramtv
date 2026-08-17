@@ -1,12 +1,12 @@
-name: Auto Update M3U Playlist
+name: Auto Update All Playlists
 
 on:
   schedule:
-    - cron: '* * * * *' # এটি প্রতি মিনিটে চেক করার নির্দেশ দেয়
+    - cron: '* * * * *' # প্রতি মিনিটে চেক করবে
   workflow_dispatch:
 
 jobs:
-  update-playlist:
+  update-playlists:
     runs-on: ubuntu-latest
     permissions:
       contents: write
@@ -15,44 +15,69 @@ jobs:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Download and Process M3U
+      - name: Download and Process All M3U
         run: |
-          # নতুন ফাইলটি একটি টেম্পোরারি ফাইলে ডাউনলোড করা হচ্ছে
-          curl -s -L -o temp.m3u "https://akashgo-obiramtv.emonsa4.workers.dev/akash_secret_list_v1.m3u"
+          CHANGES_DETECTED=false
+          BD_TIME=$(TZ='Asia/Dhaka' date +'%Y-%m-%d %H:%M:%S')
+
+          # একটি ফাংশন তৈরি করা হলো যাতে বারবার একই কোড লিখতে না হয়
+          process_playlist() {
+            local NAME=$1
+            local URL=$2
+            local OUT_FILE=$3
+            local RAW_FILE=".raw_${NAME}.m3u"
+            local TEMP_FILE="temp_${NAME}.m3u"
+
+            # ফাইল ডাউনলোড
+            curl -s -L -o "$TEMP_FILE" "$URL"
+            touch "$RAW_FILE"
+            
+            # আগের ফাইলের সাথে তুলনা
+            if cmp -s "$TEMP_FILE" "$RAW_FILE"; then
+              echo "No changes in $NAME playlist."
+              rm "$TEMP_FILE" # পরিবর্তন না থাকলে টেম্প ফাইল ডিলিট করে দিবে
+            else
+              echo "New code detected in $NAME! Updating..."
+              mv "$TEMP_FILE" "$RAW_FILE"
+              CHANNEL_COUNT=$(grep -c -i "#EXTINF" "$RAW_FILE" || echo 0)
+              
+              # হেডার এবং চ্যানেলের তথ্য তৈরি
+              echo "#EXTM3U" > "$OUT_FILE"
+              echo "#=================================" >> "$OUT_FILE"
+              echo "# 🖥️ Developed by: S.A.Emon" >> "$OUT_FILE"
+              echo "# 🔗 Telegram: https://t.me/Obiram_tv" >> "$OUT_FILE"
+              echo "# 🕒 Last Updated: $BD_TIME (BD Time)" >> "$OUT_FILE"
+              echo "# 📺 Channels Count: $CHANNEL_COUNT" >> "$OUT_FILE"
+              echo "#=================================" >> "$OUT_FILE"
+              grep -v -i "^#EXTM3U" "$RAW_FILE" >> "$OUT_FILE"
+              
+              CHANGES_DETECTED=true
+            fi
+          }
+
+          # ==========================================
+          # এখানে ৪টি লিংক প্রসেস করার কমান্ড দেওয়া হলো
+          # ==========================================
+          process_playlist "akash" "https://akashgo-obiramtv.emonsa4.workers.dev/akash_secret_list_v1.m3u" "akash_playlist.m3u"
           
-          # আগের র-ফাইল (raw file) না থাকলে তৈরি করে নিবে
-          touch .raw_playlist.m3u
+          process_playlist "toffee" "https://toffee-obiramtv.emonsa4.workers.dev/obiram_secret_list_v1.m3u" "toffee_playlist.m3u"
           
-          # নতুন ফাইলের সাথে আগের ফাইলের তুলনা করা হচ্ছে
-          if cmp -s temp.m3u .raw_playlist.m3u; then
-            echo "No new changes in playlist. Skipping update."
-            exit 0
-          else
-            echo "New code detected! Updating playlist..."
-            mv temp.m3u .raw_playlist.m3u
-            
-            # স্বয়ংক্রিয়ভাবে চ্যানেল সংখ্যা গণনা করা হচ্ছে
-            CHANNEL_COUNT=$(grep -c -i "#EXTINF" .raw_playlist.m3u || echo 0)
-            
-            # বাংলাদেশের বর্তমান সময় বের করা হচ্ছে
-            BD_TIME=$(TZ='Asia/Dhaka' date +'%Y-%m-%d %H:%M:%S')
-            
-            # আপনার দেওয়া কাস্টম হেডার তৈরি করা হচ্ছে
-            echo "#EXTM3U" > akash_playlist.m3u
-            echo "#=================================" >> akash_playlist.m3u
-            echo "# 🖥️ Developed by: S.A.Emon" >> akash_playlist.m3u
-            echo "# 🔗 Telegram: https://t.me/Obiram_tv" >> akash_playlist.m3u
-            echo "# 🕒 Last Updated: $BD_TIME (BD Time)" >> akash_playlist.m3u
-            echo "# 📺 Channels Count: $CHANNEL_COUNT" >> akash_playlist.m3u
-            echo "#=================================" >> akash_playlist.m3u
-            
-            # মূল চ্যানেলের লিংকগুলো হেডারের নিচে যুক্ত করা হচ্ছে
-            grep -v -i "^#EXTM3U" .raw_playlist.m3u >> akash_playlist.m3u
-            
-            # গিটহাবে নতুন ফাইল সেভ (commit & push) করা হচ্ছে
+          process_playlist "ay" "https://ay-obiram.emonsa4.workers.dev/akash_secret_list_v1.m3u" "ay_playlist.m3u"
+          
+          process_playlist "roar" "https://roar-obiram.emonsa4.workers.dev/obiram-vip-data" "roar_playlist.m3u"
+
+          # ==========================================
+          # গিটহাবে আপডেট সেভ করা (যদি কোনোটিতে পরিবর্তন হয়)
+          # ==========================================
+          if [ "$CHANGES_DETECTED" = true ]; then
             git config --local user.email "github-actions[bot]@users.noreply.github.com"
             git config --local user.name "github-actions[bot]"
-            git add .raw_playlist.m3u akash_playlist.m3u
-            git commit -m "Auto-updated! Channels: $CHANNEL_COUNT"
+            
+            # নতুন তৈরি হওয়া সব ফাইল গিটহাবে যোগ করা হচ্ছে
+            git add .raw_*.m3u *_playlist.m3u
+            git commit -m "Auto-updated playlists at $BD_TIME"
             git push
+            echo "Successfully pushed updates to GitHub!"
+          else
+            echo "No updates required for any playlist. Skipping push."
           fi
