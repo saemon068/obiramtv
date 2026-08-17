@@ -2,26 +2,57 @@ name: Auto Update M3U Playlist
 
 on:
   schedule:
-    - cron: '0 */12 * * *' # এটি প্রতি ১২ ঘণ্টা পরপর ফাইলটি আপডেট করবে
-  workflow_dispatch: # এর মাধ্যমে আপনি চাইলে ম্যানুয়ালিও রান করতে পারবেন
+    - cron: '* * * * *' # এটি প্রতি মিনিটে চেক করার নির্দেশ দেয়
+  workflow_dispatch:
 
 jobs:
   update-playlist:
     runs-on: ubuntu-latest
     permissions:
-      contents: write # ফাইল সেভ করার পারমিশন
+      contents: write
 
     steps:
       - name: Checkout Repository
         uses: actions/checkout@v4
 
-      - name: Download M3U File
+      - name: Download and Process M3U
         run: |
-          curl -L -o akash_playlist.m3u "https://akashgo-obiramtv.emonsa4.workers.dev/akash_secret_list_v1.m3u"
-
-      - name: Commit and Push changes
-        run: |
-          git config --local user.email "github-actions[bot]@users.noreply.github.com"
-          git config --local user.name "github-actions[bot]"
-          git add akash_playlist.m3u
-          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-updated IPTV playlist" && git push)
+          # নতুন ফাইলটি একটি টেম্পোরারি ফাইলে ডাউনলোড করা হচ্ছে
+          curl -s -L -o temp.m3u "https://akashgo-obiramtv.emonsa4.workers.dev/akash_secret_list_v1.m3u"
+          
+          # আগের র-ফাইল (raw file) না থাকলে তৈরি করে নিবে
+          touch .raw_playlist.m3u
+          
+          # নতুন ফাইলের সাথে আগের ফাইলের তুলনা করা হচ্ছে
+          if cmp -s temp.m3u .raw_playlist.m3u; then
+            echo "No new changes in playlist. Skipping update."
+            exit 0
+          else
+            echo "New code detected! Updating playlist..."
+            mv temp.m3u .raw_playlist.m3u
+            
+            # স্বয়ংক্রিয়ভাবে চ্যানেল সংখ্যা গণনা করা হচ্ছে
+            CHANNEL_COUNT=$(grep -c -i "#EXTINF" .raw_playlist.m3u || echo 0)
+            
+            # বাংলাদেশের বর্তমান সময় বের করা হচ্ছে
+            BD_TIME=$(TZ='Asia/Dhaka' date +'%Y-%m-%d %H:%M:%S')
+            
+            # আপনার দেওয়া কাস্টম হেডার তৈরি করা হচ্ছে
+            echo "#EXTM3U" > akash_playlist.m3u
+            echo "#=================================" >> akash_playlist.m3u
+            echo "# 🖥️ Developed by: S.A.Emon" >> akash_playlist.m3u
+            echo "# 🔗 Telegram: https://t.me/Obiram_tv" >> akash_playlist.m3u
+            echo "# 🕒 Last Updated: $BD_TIME (BD Time)" >> akash_playlist.m3u
+            echo "# 📺 Channels Count: $CHANNEL_COUNT" >> akash_playlist.m3u
+            echo "#=================================" >> akash_playlist.m3u
+            
+            # মূল চ্যানেলের লিংকগুলো হেডারের নিচে যুক্ত করা হচ্ছে
+            grep -v -i "^#EXTM3U" .raw_playlist.m3u >> akash_playlist.m3u
+            
+            # গিটহাবে নতুন ফাইল সেভ (commit & push) করা হচ্ছে
+            git config --local user.email "github-actions[bot]@users.noreply.github.com"
+            git config --local user.name "github-actions[bot]"
+            git add .raw_playlist.m3u akash_playlist.m3u
+            git commit -m "Auto-updated! Channels: $CHANNEL_COUNT"
+            git push
+          fi
