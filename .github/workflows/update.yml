@@ -20,28 +20,34 @@ jobs:
           CHANGES_DETECTED=false
           BD_TIME=$(TZ='Asia/Dhaka' date +'%Y-%m-%d %H:%M:%S')
 
-          # একটি ফাংশন তৈরি করা হলো যাতে বারবার একই কোড লিখতে না হয়
           process_playlist() {
             local NAME=$1
             local URL=$2
             local OUT_FILE=$3
-            local RAW_FILE=".raw_${NAME}.m3u"
             local TEMP_FILE="temp_${NAME}.m3u"
+            local NEW_PAYLOAD="new_payload_${NAME}.txt"
+            local OLD_PAYLOAD="old_payload_${NAME}.txt"
 
-            # ফাইল ডাউনলোড
+            # নতুন ফাইল ডাউনলোড
             curl -s -L -o "$TEMP_FILE" "$URL"
-            touch "$RAW_FILE"
             
-            # আগের ফাইলের সাথে তুলনা
-            if cmp -s "$TEMP_FILE" "$RAW_FILE"; then
+            # নতুন ফাইল থেকে হেডার বাদে মূল চ্যানেল লিংকগুলো আলাদা করা হচ্ছে
+            grep -v -i "^#EXTM3U" "$TEMP_FILE" | grep "\S" > "$NEW_PAYLOAD" || true
+
+            # গিটহাবে থাকা আগের ফাইল থেকে আমাদের বানানো হেডার সরিয়ে মূল চ্যানেলগুলো বের করা হচ্ছে
+            if [ -f "$OUT_FILE" ]; then
+              grep -v -E "^#=================================|^#.*Developed by:|^#.*Telegram:|^#.*Last Updated:|^#.*Channels Count:|^#EXTM3U" "$OUT_FILE" | grep "\S" > "$OLD_PAYLOAD" || true
+            else
+              touch "$OLD_PAYLOAD"
+            fi
+
+            # তুলনা করা (আগের চ্যানেলের সাথে নতুন চ্যানেলের মিল আছে কিনা)
+            if cmp -s "$NEW_PAYLOAD" "$OLD_PAYLOAD"; then
               echo "No changes in $NAME playlist."
-              rm "$TEMP_FILE" # পরিবর্তন না থাকলে টেম্প ফাইল ডিলিট করে দিবে
             else
               echo "New code detected in $NAME! Updating..."
-              mv "$TEMP_FILE" "$RAW_FILE"
-              CHANNEL_COUNT=$(grep -c -i "#EXTINF" "$RAW_FILE" || echo 0)
+              CHANNEL_COUNT=$(grep -c -i "#EXTINF" "$TEMP_FILE" || echo 0)
               
-              # হেডার এবং চ্যানেলের তথ্য তৈরি
               echo "#EXTM3U" > "$OUT_FILE"
               echo "#=================================" >> "$OUT_FILE"
               echo "# 🖥️ Developed by: S.A.Emon" >> "$OUT_FILE"
@@ -49,32 +55,32 @@ jobs:
               echo "# 🕒 Last Updated: $BD_TIME (BD Time)" >> "$OUT_FILE"
               echo "# 📺 Channels Count: $CHANNEL_COUNT" >> "$OUT_FILE"
               echo "#=================================" >> "$OUT_FILE"
-              grep -v -i "^#EXTM3U" "$RAW_FILE" >> "$OUT_FILE"
+              cat "$NEW_PAYLOAD" >> "$OUT_FILE"
               
               CHANGES_DETECTED=true
             fi
           }
 
           # ==========================================
-          # এখানে ৪টি লিংক প্রসেস করার কমান্ড দেওয়া হলো
+          # ৪টি লিংক প্রসেস করা হচ্ছে
           # ==========================================
           process_playlist "akash" "https://akashgo-obiramtv.emonsa4.workers.dev/akash_secret_list_v1.m3u" "akash_playlist.m3u"
-          
           process_playlist "toffee" "https://toffee-obiramtv.emonsa4.workers.dev/obiram_secret_list_v1.m3u" "toffee_playlist.m3u"
-          
           process_playlist "ay" "https://ay-obiram.emonsa4.workers.dev/akash_secret_list_v1.m3u" "ay_playlist.m3u"
-          
           process_playlist "roar" "https://roar-obiram.emonsa4.workers.dev/obiram-vip-data" "roar_playlist.m3u"
 
           # ==========================================
-          # গিটহাবে আপডেট সেভ করা (যদি কোনোটিতে পরিবর্তন হয়)
+          # গিটহাবে শুধু মেইন ৪টি ফাইল সেভ করা হবে
           # ==========================================
           if [ "$CHANGES_DETECTED" = true ]; then
             git config --local user.email "github-actions[bot]@users.noreply.github.com"
             git config --local user.name "github-actions[bot]"
             
-            # নতুন তৈরি হওয়া সব ফাইল গিটহাবে যোগ করা হচ্ছে
-            git add .raw_*.m3u *_playlist.m3u
+            # আগের তৈরি হওয়া .raw_ ফাইলগুলো গিটহাব থেকে ডিলিট করে দেওয়া হচ্ছে (যাতে আর কখনো না দেখায়)
+            git rm --cached .raw_*.m3u 2>/dev/null || true
+            
+            # শুধু আসল ৪টি ফাইল গিটহাবে যোগ করা হচ্ছে
+            git add *_playlist.m3u
             git commit -m "Auto-updated playlists at $BD_TIME"
             git push
             echo "Successfully pushed updates to GitHub!"
