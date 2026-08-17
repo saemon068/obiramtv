@@ -1,0 +1,27 @@
+name: Auto Update M3U Playlist
+
+on:
+  schedule:
+    - cron: '0 */12 * * *' # এটি প্রতি ১২ ঘণ্টা পরপর ফাইলটি আপডেট করবে
+  workflow_dispatch: # এর মাধ্যমে আপনি চাইলে ম্যানুয়ালিও রান করতে পারবেন
+
+jobs:
+  update-playlist:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write # ফাইল সেভ করার পারমিশন
+
+    steps:
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+
+      - name: Download M3U File
+        run: |
+          curl -L -o akash_playlist.m3u "https://akashgo-obiramtv.emonsa4.workers.dev/akash_secret_list_v1.m3u"
+
+      - name: Commit and Push changes
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add akash_playlist.m3u
+          git diff --quiet && git diff --staged --quiet || (git commit -m "Auto-updated IPTV playlist" && git push)
