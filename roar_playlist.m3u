@@ -2,8 +2,8 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-08-17 23:48:56 (BD Time)
-# 📺 Channels Count: 17
+# 🕒 Last Updated: 2026-08-19 22:31:58 (BD Time)
+# 📺 Channels Count: 21
 #=================================
 #EXTINF:-1 group-title="Bangladesh*" tvg-logo="", Somoy TV
 https://roar-obiram.emonsa4.workers.dev/play/somoy-tv
@@ -39,3 +39,11 @@ https://roar-obiram.emonsa4.workers.dev/play/colours-bangla-chinema
 https://roar-obiram.emonsa4.workers.dev/play/sony-aath-2
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sangeet-bangla-in.png", Sangeet Bangla
 https://roar-obiram.emonsa4.workers.dev/play/sangeet-bangla
+#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/F1t6r1gv/20240823_023247.png", Colors HD
+https://roar-obiram.emonsa4.workers.dev/play/colors-hd
+#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/8k3QXzvt/20240823_022853.png", Star Plus HD
+https://roar-obiram.emonsa4.workers.dev/play/star-plus-hd
+#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/6pCXvxyz/20240823_022553.png", Star Gold HD
+https://roar-obiram.emonsa4.workers.dev/play/star-gold-hd
+#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/bYKYDTmy/20240823_023330.png", Star Gold Selected
+https://roar-obiram.emonsa4.workers.dev/play/star-gold-selected
