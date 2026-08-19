@@ -2,8 +2,8 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-08-18 20:05:16 (BD Time)
-# 📺 Channels Count: 44
+# 🕒 Last Updated: 2026-08-19 11:02:27 (BD Time)
+# 📺 Channels Count: 41
 #=================================
 #EXTINF:-1 group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1784629064327.png",Somoy tv
 https://akashgo-obiramtv.emonsa4.workers.dev/somoy-tv.m3u8
@@ -27,12 +27,8 @@ https://akashgo-obiramtv.emonsa4.workers.dev/maasranga-tv.m3u8
 https://akashgo-obiramtv.emonsa4.workers.dev/crazy-ex.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380601958.png",Sports Range
 https://akashgo-obiramtv.emonsa4.workers.dev/sports-range.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1739962961772.png",ATN News
-https://akashgo-obiramtv.emonsa4.workers.dev/atn-news.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770188008067.png",Channel 9 HD
 https://akashgo-obiramtv.emonsa4.workers.dev/channel-9-hd.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770186895850.png",News 24 HD
-https://akashgo-obiramtv.emonsa4.workers.dev/news-24-hd.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1742713000749.png",Deepto TV HD
 https://akashgo-obiramtv.emonsa4.workers.dev/deepto-tv-hd.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png",NTV
@@ -85,8 +81,6 @@ https://akashgo-obiramtv.emonsa4.workers.dev/buddystar-hd.m3u8
 https://akashgo-obiramtv.emonsa4.workers.dev/lucky-family.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381107924.png",Smarty
 https://akashgo-obiramtv.emonsa4.workers.dev/smarty.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1782012550123.png",Desh TV
-https://akashgo-obiramtv.emonsa4.workers.dev/desh-tv.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380460488.png",Intelligence
 https://akashgo-obiramtv.emonsa4.workers.dev/intelligence.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380306806.png",True Stories
