@@ -2,12 +2,24 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-08-19 21:55:26 (BD Time)
-# 📺 Channels Count: 68
+# 🕒 Last Updated: 2026-08-21 18:50:10 (BD Time)
+# 📺 Channels Count: 72
 #=================================
 #EXTINF:-1 group-title="Sports Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/JS1AqZgBNnOkwJLWlwg-/posters/08617b27-2af1-4035-bcc3-d054ce42ca4b.png", EPL channel 1
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
 https://toffee-obiramtv.emonsa4.workers.dev/epl-channel-1.m3u8
+#EXTINF:-1 group-title="Sports Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Mi1QqZgBNnOkwJLWxggo/posters/3e9d4d0a-a346-4b39-92b5-13e9238ad240.png", EPL channel 2
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+https://toffee-obiramtv.emonsa4.workers.dev/epl-channel-2.m3u8
+#EXTINF:-1 group-title="Sports Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Pi1TqZgBNnOkwJLWVggf/posters/d0bb78b5-4690-4c12-9c7b-e785eb8d7336.png", EPL channel 3
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+https://toffee-obiramtv.emonsa4.workers.dev/epl-channel-3.m3u8
+#EXTINF:-1 group-title="Sports Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/OyEz-ZgBEef-9-uVnhcx/posters/f2143475-cf44-441a-b55d-58b2b5569aa5.png", EPL Channel 4
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+https://toffee-obiramtv.emonsa4.workers.dev/epl-channel-4.m3u8
+#EXTINF:-1 group-title="Sports Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/6CHi_5gBEef-9-uV-Bx_/posters/95066512-a117-4532-8569-0d13ffc046ef.png", EPL Channel 5
+#EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
+https://toffee-obiramtv.emonsa4.workers.dev/epl-channel-5.m3u8
 #EXTINF:-1 group-title="Sports Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png", WC Match Recap
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
 https://toffee-obiramtv.emonsa4.workers.dev/wc-match-recap.m3u8
