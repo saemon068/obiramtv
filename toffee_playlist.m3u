@@ -2,13 +2,13 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-08-22 07:42:53 (BD Time)
+# 🕒 Last Updated: 2026-08-22 21:34:57 (BD Time)
 # 📺 Channels Count: 72
 #=================================
 #EXTINF:-1 group-title="Sports Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/JS1AqZgBNnOkwJLWlwg-/posters/218a79cf-7b56-4610-a375-8746e19fca25.png", EPL channel 1
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
 https://toffee-obiramtv.emonsa4.workers.dev/epl-channel-1.m3u8
-#EXTINF:-1 group-title="Sports Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Mi1QqZgBNnOkwJLWxggo/posters/90af331d-72f8-4fbe-a9e9-d4164cbd167b.png", EPL channel 2
+#EXTINF:-1 group-title="Sports Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Mi1QqZgBNnOkwJLWxggo/posters/7bef965d-001d-4a8b-9462-20c47213abbf.png", EPL channel 2
 #EXTVLCOPT:http-user-agent=Toffee (Linux;Android 14)
 https://toffee-obiramtv.emonsa4.workers.dev/epl-channel-2.m3u8
 #EXTINF:-1 group-title="Sports Channels" tvg-logo="https://assets-prod.services.toffeelive.com/f_png,w_300,q_85/Pi1TqZgBNnOkwJLWVggf/posters/56fb3add-9b1d-4d21-b7d4-faaa658121bb.png", EPL channel 3
