@@ -2,7 +2,2276 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-08-23 23:27:05 (BD Time)
-# 📺 Channels Count: 0
-0
+# 🕒 Last Updated: 2026-08-23 23:43:11 (BD Time)
+# 📺 Channels Count: 1135
 #=================================
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/CNBCTV18Prime.png", CNBC TV18 Prime
+https://roar-obiram.emonsa4.workers.dev/play/cnbc-tv18-prime
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ColorsHD.png", Colors HD
+https://roar-obiram.emonsa4.workers.dev/play/colors-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/History_HD.png", History TV18 HD
+https://roar-obiram.emonsa4.workers.dev/play/history-tv18-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Movies_Now_HD.png", Movies Now HD
+https://roar-obiram.emonsa4.workers.dev/play/movies-now-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sony_SAB.png", Sony SAB
+https://roar-obiram.emonsa4.workers.dev/play/sony-sab
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Six_HD.png", Sony Ten 5 HD
+https://roar-obiram.emonsa4.workers.dev/play/sony-ten-5-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Star_Gold_HD.png", Star Gold HD
+https://roar-obiram.emonsa4.workers.dev/play/star-gold-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Ten_HD.png", Sony Ten 1 HD
+https://roar-obiram.emonsa4.workers.dev/play/sony-ten-1-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Travel_XP_HD.png", Travelxp HD
+https://roar-obiram.emonsa4.workers.dev/play/travelxp-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/CNTelugu.png", Cartoon Network Telugu
+https://roar-obiram.emonsa4.workers.dev/play/cartoon-network-telugu
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Aaj_Tak.png", Aaj Tak
+https://roar-obiram.emonsa4.workers.dev/play/aaj-tak
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Aastha.png", Aastha
+https://roar-obiram.emonsa4.workers.dev/play/aastha
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ABP_News_India.png", ABP News India
+https://roar-obiram.emonsa4.workers.dev/play/abp-news-india
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Asianet_News.png", Asianet News
+https://roar-obiram.emonsa4.workers.dev/play/asianet-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/b4u_movies.png", B4U Movies
+https://roar-obiram.emonsa4.workers.dev/play/b4u-movies
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/B4U_Music.png", B4U Music
+https://roar-obiram.emonsa4.workers.dev/play/b4u-music
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/CNBCAwaaz.png", CNBC Awaaz
+https://roar-obiram.emonsa4.workers.dev/play/cnbc-awaaz
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/CNN.png", CNN
+https://roar-obiram.emonsa4.workers.dev/play/cnn
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ColorsGujarati.png", Colors Gujarati
+https://roar-obiram.emonsa4.workers.dev/play/colors-gujarati
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_National.png", DD National
+https://roar-obiram.emonsa4.workers.dev/play/dd-national
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_News.png", DD News
+https://roar-obiram.emonsa4.workers.dev/play/dd-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_Sports.png", DD Sports
+https://roar-obiram.emonsa4.workers.dev/play/dd-sports
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ET_Now.png", ET Now
+https://roar-obiram.emonsa4.workers.dev/play/et-now
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News18Lokmat.png", News18 Marathi
+https://roar-obiram.emonsa4.workers.dev/play/news18-marathi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/India_TV.png", India TV
+https://roar-obiram.emonsa4.workers.dev/play/india-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Discovery_Channel_Eng.png", Discovery English
+https://roar-obiram.emonsa4.workers.dev/play/discovery-english
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/MTV.png", MTV
+https://roar-obiram.emonsa4.workers.dev/play/mtv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Music_India.png", Music India
+https://roar-obiram.emonsa4.workers.dev/play/music-india
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ETV_Cinema.png", ETV Cinema
+https://roar-obiram.emonsa4.workers.dev/play/etv-cinema
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/NDTV_24x7.png", NDTV 24x7
+https://roar-obiram.emonsa4.workers.dev/play/ndtv-24x7
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/NDTV_India.png", NDTV India
+https://roar-obiram.emonsa4.workers.dev/play/ndtv-india
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/NDTV_Profit.png", NDTV Profit
+https://roar-obiram.emonsa4.workers.dev/play/ndtv-profit
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ColorsRishtey.png", Colors Rishtey
+https://roar-obiram.emonsa4.workers.dev/play/colors-rishtey
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/AnimalPlanetHDEng.png", Animal Planet HD English
+https://roar-obiram.emonsa4.workers.dev/play/animal-planet-hd-english
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sanskar.png", Sanskar
+https://roar-obiram.emonsa4.workers.dev/play/sanskar
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sony_Max_SD.png", Sony Max SD
+https://roar-obiram.emonsa4.workers.dev/play/sony-max-sd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/sonic_Tamil.png", sonic Tamil
+https://roar-obiram.emonsa4.workers.dev/play/sonic-tamil
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sony_HD.png", SET HD
+https://roar-obiram.emonsa4.workers.dev/play/set-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Star_Jalsha_HD.png", Star Jalsha HD
+https://roar-obiram.emonsa4.workers.dev/play/star-jalsha-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Star_Pravah_HD.png", Star Pravah HD
+https://roar-obiram.emonsa4.workers.dev/play/star-pravah-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Star_Vijay_HD.png", Star Vijay HD
+https://roar-obiram.emonsa4.workers.dev/play/star-vijay-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Suvarna_HD.png", Suvarna HD
+https://roar-obiram.emonsa4.workers.dev/play/suvarna-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Times_NOW.png", Times NOW
+https://roar-obiram.emonsa4.workers.dev/play/times-now
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/evidya_1.png", PM e Vidya 01
+https://roar-obiram.emonsa4.workers.dev/play/pm-e-vidya-01
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Swayam_Prabha_19.png", Swayam Prabha 19
+https://roar-obiram.emonsa4.workers.dev/play/swayam-prabha-19
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/evidya_2.png", PM e Vidya 02
+https://roar-obiram.emonsa4.workers.dev/play/pm-e-vidya-02
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Swayam_Prabha_20.png", Swayam Prabha 20
+https://roar-obiram.emonsa4.workers.dev/play/swayam-prabha-20
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/evidya_7.png", PM e Vidya 07
+https://roar-obiram.emonsa4.workers.dev/play/pm-e-vidya-07
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/evidya_3.png", PM e Vidya 03
+https://roar-obiram.emonsa4.workers.dev/play/pm-e-vidya-03
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/evidya_4.png", PM e Vidya 04
+https://roar-obiram.emonsa4.workers.dev/play/pm-e-vidya-04
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/evidya_5.png", PM e Vidya 05
+https://roar-obiram.emonsa4.workers.dev/play/pm-e-vidya-05
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/evidya_6.png", PM e Vidya 06
+https://roar-obiram.emonsa4.workers.dev/play/pm-e-vidya-06
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/_evidya_8.png", PM e Vidya 08
+https://roar-obiram.emonsa4.workers.dev/play/pm-e-vidya-08
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/evidya_9.png", PM e Vidya 09
+https://roar-obiram.emonsa4.workers.dev/play/pm-e-vidya-09
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/evidya_10.png", PM e Vidya 10
+https://roar-obiram.emonsa4.workers.dev/play/pm-e-vidya-10
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Wion.png", Wion
+https://roar-obiram.emonsa4.workers.dev/play/wion
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/J_Movies.png", J Movies
+https://roar-obiram.emonsa4.workers.dev/play/j-movies
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Jaya_Plus.png", Jaya Plus
+https://roar-obiram.emonsa4.workers.dev/play/jaya-plus
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Jaya_TV_HD.png", Jaya TV HD
+https://roar-obiram.emonsa4.workers.dev/play/jaya-tv-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Jaya_Max.png", Jaya Max
+https://roar-obiram.emonsa4.workers.dev/play/jaya-max
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Goa365.png", GOA 365
+https://roar-obiram.emonsa4.workers.dev/play/goa-365
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ColorsTamilHD.png", Colors Tamil HD
+https://roar-obiram.emonsa4.workers.dev/play/colors-tamil-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/9XJalwa.png", 9X Jalwa
+https://roar-obiram.emonsa4.workers.dev/play/9x-jalwa
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/9xjhakaas.png", 9x Jhakaas
+https://roar-obiram.emonsa4.workers.dev/play/9x-jhakaas
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Zee_24_Taas.png", Zee 24 Taas
+https://roar-obiram.emonsa4.workers.dev/play/zee-24-taas
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Asianet_HD.png", Asianet HD
+https://roar-obiram.emonsa4.workers.dev/play/asianet-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Jalsa_Movies_HD.png", Jalsha Movies HD
+https://roar-obiram.emonsa4.workers.dev/play/jalsha-movies-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Asianet_Movies_HD.png", Asianet Movies HD
+https://roar-obiram.emonsa4.workers.dev/play/asianet-movies-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DiscoveryHDEng.png", Discovery HD English
+https://roar-obiram.emonsa4.workers.dev/play/discovery-hd-english
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/24_Ghanta_TV.png", Zee 24 Ghanta
+https://roar-obiram.emonsa4.workers.dev/play/zee-24-ghanta
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Jaihind_tv.png", Jaihind tv
+https://roar-obiram.emonsa4.workers.dev/play/jaihind-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Arihant_TV.png", Dharma Sandesh
+https://roar-obiram.emonsa4.workers.dev/play/dharma-sandesh
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/SonySAB.png", Sony SAB HD
+https://roar-obiram.emonsa4.workers.dev/play/sony-sab-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/SonyPAL.png", Sony Pal
+https://roar-obiram.emonsa4.workers.dev/play/sony-pal
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/SonyMAX.png", Sony Max HD
+https://roar-obiram.emonsa4.workers.dev/play/sony-max-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/MNPLUS.png", MN+ HD
+https://roar-obiram.emonsa4.workers.dev/play/mn-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/TLCHDEnglish.png", TLC HD English
+https://roar-obiram.emonsa4.workers.dev/play/tlc-hd-english
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Colors_Cineplex.png", Colors Cineplex
+https://roar-obiram.emonsa4.workers.dev/play/colors-cineplex
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/SonyMAX2.png", Sony MAX2
+https://roar-obiram.emonsa4.workers.dev/play/sony-max2
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/CNBCTV18.png", CNBC TV18
+https://roar-obiram.emonsa4.workers.dev/play/cnbc-tv18
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/CNBCBajar.png", CNBC Bajar
+https://roar-obiram.emonsa4.workers.dev/play/cnbc-bajar
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/MirrorNow.png", Mirror Now
+https://roar-obiram.emonsa4.workers.dev/play/mirror-now
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/CNNNEWS18.png", CNN NEWS18
+https://roar-obiram.emonsa4.workers.dev/play/cnn-news18
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/India_Today.png", India Today
+https://roar-obiram.emonsa4.workers.dev/play/india-today
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/AL_Jazeera.png", AL Jazeera
+https://roar-obiram.emonsa4.workers.dev/play/al-jazeera
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News_X.png", News X
+https://roar-obiram.emonsa4.workers.dev/play/news-x
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/dw.png", dw
+https://roar-obiram.emonsa4.workers.dev/play/dw
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/India_news.png", India news
+https://roar-obiram.emonsa4.workers.dev/play/india-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News_Nation.png", News Nation
+https://roar-obiram.emonsa4.workers.dev/play/news-nation
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News_24.png", News 24
+https://roar-obiram.emonsa4.workers.dev/play/news-24
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Tez.png", Good News Today
+https://roar-obiram.emonsa4.workers.dev/play/good-news-today
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/IBC-24.png", IBC24
+https://roar-obiram.emonsa4.workers.dev/play/ibc24
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Zee_News.png", Zee News
+https://roar-obiram.emonsa4.workers.dev/play/zee-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/VIP_News.png", VIP News
+https://roar-obiram.emonsa4.workers.dev/play/vip-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Mh_One_News.png", Mh One News
+https://roar-obiram.emonsa4.workers.dev/play/mh-one-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/India_News_UP.png", India News UP
+https://roar-obiram.emonsa4.workers.dev/play/india-news-up
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/India_News_Rajasthan.png", India News Rajasthan
+https://roar-obiram.emonsa4.workers.dev/play/india-news-rajasthan
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Ten_1.png", Sony Ten 1
+https://roar-obiram.emonsa4.workers.dev/play/sony-ten-1
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/India_News_MP.png", India News MP
+https://roar-obiram.emonsa4.workers.dev/play/india-news-mp
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/India_News_Haryana.png", India News Haryana
+https://roar-obiram.emonsa4.workers.dev/play/india-news-haryana
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Chardikla_Time_TV.png", Chardikla Time TV
+https://roar-obiram.emonsa4.workers.dev/play/chardikla-time-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sudarshan.png", Sudarshan
+https://roar-obiram.emonsa4.workers.dev/play/sudarshan
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sadhna_News_Plus.png", Sadhna News Plus
+https://roar-obiram.emonsa4.workers.dev/play/sadhna-news-plus
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_Rajyasabha.png", Sansad TV HD
+https://roar-obiram.emonsa4.workers.dev/play/sansad-tv-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Loksabha_TV.png", Sansad TV
+https://roar-obiram.emonsa4.workers.dev/play/sansad-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Ten_2.png", Ten 2
+https://roar-obiram.emonsa4.workers.dev/play/ten-2
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Ten_3.png", Sony Ten 3 Hindi
+https://roar-obiram.emonsa4.workers.dev/play/sony-ten-3-hindi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/IDHindi.png", Investigation Discovery Hindi
+https://roar-obiram.emonsa4.workers.dev/play/investigation-discovery-hindi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_India.png", DD India
+https://roar-obiram.emonsa4.workers.dev/play/dd-india
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News18MPCG.png", News18 MP Chhattisgarh
+https://roar-obiram.emonsa4.workers.dev/play/news18-mp-chhattisgarh
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News18UPUttarakhand.png", News18 UP Uttarakhand
+https://roar-obiram.emonsa4.workers.dev/play/news18-up-uttarakhand
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News18Rajasthan.png", News18 Rajasthan
+https://roar-obiram.emonsa4.workers.dev/play/news18-rajasthan
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Raj_Pariwar.png", Raj Pariwar
+https://roar-obiram.emonsa4.workers.dev/play/raj-pariwar
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_Madhya_Pradesh.png", DD Madhya Pradesh
+https://roar-obiram.emonsa4.workers.dev/play/dd-madhya-pradesh
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_Rajasthan_Jaipur.png", DD Rajasthan (Jaipur)
+https://roar-obiram.emonsa4.workers.dev/play/dd-rajasthan-jaipur
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_Bihar.png", DD Bihar
+https://roar-obiram.emonsa4.workers.dev/play/dd-bihar
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_Uttar_Pradesh.png", DD Uttar Pradesh
+https://roar-obiram.emonsa4.workers.dev/play/dd-uttar-pradesh
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Discovery_Turbo.png", Discovery Turbo
+https://roar-obiram.emonsa4.workers.dev/play/discovery-turbo
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Pogo_Tamil.png", Pogo Tamil
+https://roar-obiram.emonsa4.workers.dev/play/pogo-tamil
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Nick_Telugu.png", Nick Telugu
+https://roar-obiram.emonsa4.workers.dev/play/nick-telugu
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Nick_Junior.png", Nick Junior
+https://roar-obiram.emonsa4.workers.dev/play/nick-junior
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Nick_Hindi.png", Nick Hindi
+https://roar-obiram.emonsa4.workers.dev/play/nick-hindi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Nick_Tamil.png", Nick Tamil
+https://roar-obiram.emonsa4.workers.dev/play/nick-tamil
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Nickelodeon_Jr.png", Nickelodeon Jr.
+https://roar-obiram.emonsa4.workers.dev/play/nickelodeon-jr
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DiscoveryKidsTam.png", Discovery Kids Tamil
+https://roar-obiram.emonsa4.workers.dev/play/discovery-kids-tamil
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/TEST14_HD.png", TEST14 HD
+https://roar-obiram.emonsa4.workers.dev/play/test14-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DiscoveryKidsHin.png", Discovery Kids Hindi
+https://roar-obiram.emonsa4.workers.dev/play/discovery-kids-hindi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Chintu_TV.png", Chintu TV
+https://roar-obiram.emonsa4.workers.dev/play/chintu-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Kochu_TV.png", Kochu TV
+https://roar-obiram.emonsa4.workers.dev/play/kochu-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Chutti_TV.png", Chutti TV
+https://roar-obiram.emonsa4.workers.dev/play/chutti-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Kushi_TV.png", Kushi TV
+https://roar-obiram.emonsa4.workers.dev/play/kushi-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Pogo_Hindi.png", Pogo Hindi
+https://roar-obiram.emonsa4.workers.dev/play/pogo-hindi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/NDTV_Good_Times.png", GOOD TiMES
+https://roar-obiram.emonsa4.workers.dev/play/good-times
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Food_Food.png", Food Food
+https://roar-obiram.emonsa4.workers.dev/play/food-food
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Travel_XP.png", Travelxp HD Hindi
+https://roar-obiram.emonsa4.workers.dev/play/travelxp-hd-hindi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Kaumudy_TV.png", Kaumudy TV
+https://roar-obiram.emonsa4.workers.dev/play/kaumudy-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ETV_Abhiruchi.png", ETV Abhiruchi
+https://roar-obiram.emonsa4.workers.dev/play/etv-abhiruchi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/AnimalPlanetHin.png", Animal Planet Hindi
+https://roar-obiram.emonsa4.workers.dev/play/animal-planet-hindi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/AnimalPlanetEng.png", Animal Planet English
+https://roar-obiram.emonsa4.workers.dev/play/animal-planet-english
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DiscoveryScienceEng.png", Discovery Science English
+https://roar-obiram.emonsa4.workers.dev/play/discovery-science-english
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Discovery_Channel_Tamil.png", D Tamil
+https://roar-obiram.emonsa4.workers.dev/play/d-tamil
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ETV_Life.png", ETV Life
+https://roar-obiram.emonsa4.workers.dev/play/etv-life
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/TLCHindi.png", TLC Hindi
+https://roar-obiram.emonsa4.workers.dev/play/tlc-hindi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Living_Foodz.png", Zee UP UK
+https://roar-obiram.emonsa4.workers.dev/play/zee-up-uk
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Discovery_Channel_Bengali.png", Discovery Bengali
+https://roar-obiram.emonsa4.workers.dev/play/discovery-bengali
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/TLCEnglish.png", TLC English
+https://roar-obiram.emonsa4.workers.dev/play/tlc-english
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Discovery_Channel_Hindi.png", Discovery Hindi
+https://roar-obiram.emonsa4.workers.dev/play/discovery-hindi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Discovery_Channel_Telugu.png", Discovery Telugu
+https://roar-obiram.emonsa4.workers.dev/play/discovery-telugu
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/History_18_Telugu.png", History TV18 HD Telugu
+https://roar-obiram.emonsa4.workers.dev/play/history-tv18-hd-telugu
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/History_18_Hindi.png", History TV18 HD Hindi
+https://roar-obiram.emonsa4.workers.dev/play/history-tv18-hd-hindi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/History_18_Tamil.png", History TV18 HD Tamil
+https://roar-obiram.emonsa4.workers.dev/play/history-tv18-hd-tamil
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_bharati.png", DD bharati
+https://roar-obiram.emonsa4.workers.dev/play/dd-bharati
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_Kisan.png", DD Kisan
+https://roar-obiram.emonsa4.workers.dev/play/dd-kisan
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/9xm.png", 9XM
+https://roar-obiram.emonsa4.workers.dev/play/9xm
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/E_24.png", E 24
+https://roar-obiram.emonsa4.workers.dev/play/e-24
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Zoom.png", ZOOM
+https://roar-obiram.emonsa4.workers.dev/play/zoom
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sadhna.png", Sadhna
+https://roar-obiram.emonsa4.workers.dev/play/sadhna
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Aastha_Bhajan.png", Aastha Bhajan
+https://roar-obiram.emonsa4.workers.dev/play/aastha-bhajan
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Prarthana_Life.png", Prarthana Life
+https://roar-obiram.emonsa4.workers.dev/play/prarthana-life
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Jinvani_TV.png", Jinvani TV
+https://roar-obiram.emonsa4.workers.dev/play/jinvani-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Satsang_TV.png", Satsang TV
+https://roar-obiram.emonsa4.workers.dev/play/satsang-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sri_Venkateshwar_Bhakti.png", Sri Venkateshwar Bhakti
+https://roar-obiram.emonsa4.workers.dev/play/sri-venkateshwar-bhakti
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Disha_tv.png", Disha tv
+https://roar-obiram.emonsa4.workers.dev/play/disha-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Ishwar_TV.png", Ishwar TV
+https://roar-obiram.emonsa4.workers.dev/play/ishwar-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Paras_tv.png", Paras tv
+https://roar-obiram.emonsa4.workers.dev/play/paras-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Nambikkai.png", Nambikkai
+https://roar-obiram.emonsa4.workers.dev/play/nambikkai
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Channel_Win.png", Channel Win
+https://roar-obiram.emonsa4.workers.dev/play/channel-win
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Shalom.png", Shalom
+https://roar-obiram.emonsa4.workers.dev/play/shalom
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Subhavartha_TV.png", Subhavartha TV
+https://roar-obiram.emonsa4.workers.dev/play/subhavartha-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Shubhsandesh_TV.png", Shubhsandesh TV
+https://roar-obiram.emonsa4.workers.dev/play/shubhsandesh-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/mh1_Shraddha.png", mh1 Shraddha
+https://roar-obiram.emonsa4.workers.dev/play/mh1-shraddha
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Darshan_24.png", Darshan 24
+https://roar-obiram.emonsa4.workers.dev/play/darshan-24
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ABP_Majha.png", ABP Majha
+https://roar-obiram.emonsa4.workers.dev/play/abp-majha
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Newslive.png", Newslive
+https://roar-obiram.emonsa4.workers.dev/play/newslive
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ETV_Andhra_pradesh.png", ETV Andhra pradesh
+https://roar-obiram.emonsa4.workers.dev/play/etv-andhra-pradesh
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News18TamilNadu.png", News18 Tamil nadu
+https://roar-obiram.emonsa4.workers.dev/play/news18-tamil-nadu
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Tv_9_Gujarat.png", TV9 Gujarati
+https://roar-obiram.emonsa4.workers.dev/play/tv9-gujarati
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/TV9_Maharashtra.png", TV9 Marathi
+https://roar-obiram.emonsa4.workers.dev/play/tv9-marathi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/TV9_Telugu_News.png", TV9 Telugu
+https://roar-obiram.emonsa4.workers.dev/play/tv9-telugu
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/TV9_Karnataka.png", TV9 Kannada
+https://roar-obiram.emonsa4.workers.dev/play/tv9-kannada
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News18Gujarati.png", News18 Gujarati
+https://roar-obiram.emonsa4.workers.dev/play/news18-gujarati
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Rang.png", Rang
+https://roar-obiram.emonsa4.workers.dev/play/rang
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Prag_News.png", Prag News
+https://roar-obiram.emonsa4.workers.dev/play/prag-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Suvarna_News.png", Suvarna News
+https://roar-obiram.emonsa4.workers.dev/play/suvarna-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News18AssamNE.png", News18 Assam NE
+https://roar-obiram.emonsa4.workers.dev/play/news18-assam-ne
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ETV_Telugu.png", ETV Telugu
+https://roar-obiram.emonsa4.workers.dev/play/etv-telugu
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ETV_Telangana.png", ETV Telangana
+https://roar-obiram.emonsa4.workers.dev/play/etv-telangana
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/MBC.png", MBC
+https://roar-obiram.emonsa4.workers.dev/play/mbc
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sakshi_tv.png", Sakshi tv
+https://roar-obiram.emonsa4.workers.dev/play/sakshi-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DY_365.png", DY 365
+https://roar-obiram.emonsa4.workers.dev/play/dy-365
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Flower_TV.png", Flower TV
+https://roar-obiram.emonsa4.workers.dev/play/flower-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Polimer_News.png", Polimer News
+https://roar-obiram.emonsa4.workers.dev/play/polimer-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/North_East_Live.png", North East Live
+https://roar-obiram.emonsa4.workers.dev/play/north-east-live
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Ramdhenu.png", Ramdhenu
+https://roar-obiram.emonsa4.workers.dev/play/ramdhenu
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ABP_Asmita.png", ABP Asmita
+https://roar-obiram.emonsa4.workers.dev/play/abp-asmita
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/VTV_Gujarati.png", VTV Gujarati
+https://roar-obiram.emonsa4.workers.dev/play/vtv-gujarati
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/GS_TV.png", GS TV
+https://roar-obiram.emonsa4.workers.dev/play/gs-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/NTV.png", NTV
+https://roar-obiram.emonsa4.workers.dev/play/ntv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Pratidin_News.png", Pratidin Time
+https://roar-obiram.emonsa4.workers.dev/play/pratidin-time
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Mazhavil_Manorama.png", Mazhavil Manorama
+https://roar-obiram.emonsa4.workers.dev/play/mazhavil-manorama
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Raj_News_Malayalam.png", Raj News Malayalam
+https://roar-obiram.emonsa4.workers.dev/play/raj-news-malayalam
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Raj_News_Kannada.png", Raj News Kannada
+https://roar-obiram.emonsa4.workers.dev/play/raj-news-kannada
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Zee_SANGAM.png", Zee Bharat
+https://roar-obiram.emonsa4.workers.dev/play/zee-bharat
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News18Kannada.png", News18 Kannada
+https://roar-obiram.emonsa4.workers.dev/play/news18-kannada
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Zee_Punjabi_HP_Haryana.png", Zee Punjab Haryana HP
+https://roar-obiram.emonsa4.workers.dev/play/zee-punjab-haryana-hp
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News18PunjabHaryana.png", News18 Punjab Haryana Himachal
+https://roar-obiram.emonsa4.workers.dev/play/news18-punjab-haryana-himachal
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News9.png", News 9
+https://roar-obiram.emonsa4.workers.dev/play/news-9
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Zee_Business.png", Zee Business
+https://roar-obiram.emonsa4.workers.dev/play/zee-business
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Zee_News_MP_Chattisgarh.png", Zee MP Chattisgarh
+https://roar-obiram.emonsa4.workers.dev/play/zee-mp-chattisgarh
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Zee_Rajasthan.png", Zee Rajasthan
+https://roar-obiram.emonsa4.workers.dev/play/zee-rajasthan
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Zee_Purvaiya.png", Zee Bihar Jharkhand
+https://roar-obiram.emonsa4.workers.dev/play/zee-bihar-jharkhand
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Manorama_News.png", Manorama News
+https://roar-obiram.emonsa4.workers.dev/play/manorama-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Raj_News_Telugu.png", Raj News Telugu
+https://roar-obiram.emonsa4.workers.dev/play/raj-news-telugu
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/HM_TV.png", HM TV
+https://roar-obiram.emonsa4.workers.dev/play/hm-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ABN_Andhra_Jyothi.png", ABN Andhra Jyothi
+https://roar-obiram.emonsa4.workers.dev/play/abn-andhra-jyothi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/T_News.png", T News
+https://roar-obiram.emonsa4.workers.dev/play/t-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/TV_5_News.png", TV 5 News
+https://roar-obiram.emonsa4.workers.dev/play/tv-5-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/6_TV.png", 6 TV
+https://roar-obiram.emonsa4.workers.dev/play/6-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sathiyam.png", Sathiyam TV
+https://roar-obiram.emonsa4.workers.dev/play/sathiyam-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ABP_Ananda.png", ABP Ananda
+https://roar-obiram.emonsa4.workers.dev/play/abp-ananda
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News7_Tamil.png", News7 Tamil
+https://roar-obiram.emonsa4.workers.dev/play/news7-tamil
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Assam_Talks.png", Assam Talks
+https://roar-obiram.emonsa4.workers.dev/play/assam-talks
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sun_News.png", Sun News
+https://roar-obiram.emonsa4.workers.dev/play/sun-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Puthiya_Thalimurai.png", Puthiya Thalimurai
+https://roar-obiram.emonsa4.workers.dev/play/puthiya-thalimurai
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Udaya_Movies.png", Sun Udaya Movies
+https://roar-obiram.emonsa4.workers.dev/play/sun-udaya-movies
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sun_Life.png", Sun Life
+https://roar-obiram.emonsa4.workers.dev/play/sun-life
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Raj_Digital_Plus.png", Raj Digital Plus
+https://roar-obiram.emonsa4.workers.dev/play/raj-digital-plus
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Gemini_Life.png", Sun Gemini Life
+https://roar-obiram.emonsa4.workers.dev/play/sun-gemini-life
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Alankar_TV.png", Alankar
+https://roar-obiram.emonsa4.workers.dev/play/alankar
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News_Time_TV.png", News Time TV
+https://roar-obiram.emonsa4.workers.dev/play/news-time-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_Bangla.png", DD Bangla
+https://roar-obiram.emonsa4.workers.dev/play/dd-bangla
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Saam_Tv.png", Saam Tv
+https://roar-obiram.emonsa4.workers.dev/play/saam-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ETV_Plus.png", ETV Plus
+https://roar-obiram.emonsa4.workers.dev/play/etv-plus
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News18BiharJK.png", news18 Bihar Jharkhand
+https://roar-obiram.emonsa4.workers.dev/play/news18-bihar-jharkhand
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News18JKLH.png", News18 Delhi NCR JK
+https://roar-obiram.emonsa4.workers.dev/play/news18-delhi-ncr-jk
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_Sahayadri.png", DD Sahayadri
+https://roar-obiram.emonsa4.workers.dev/play/dd-sahayadri
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News18odia.png", News18 Odia
+https://roar-obiram.emonsa4.workers.dev/play/news18-odia
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/SonyAATH.png", Sony aath
+https://roar-obiram.emonsa4.workers.dev/play/sony-aath
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Aakaash_bangla.png", Aakash Aath
+https://roar-obiram.emonsa4.workers.dev/play/aakash-aath
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_Malayalam.png", DD Malayalam
+https://roar-obiram.emonsa4.workers.dev/play/dd-malayalam
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_Oriya.png", DD Oriya
+https://roar-obiram.emonsa4.workers.dev/play/dd-oriya
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Tarang_TV.png", Tarang
+https://roar-obiram.emonsa4.workers.dev/play/tarang
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/OTV_Odisha_TV.png", OTV
+https://roar-obiram.emonsa4.workers.dev/play/otv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Polimer_TV.png", Polimer TV
+https://roar-obiram.emonsa4.workers.dev/play/polimer-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_Saptagiri.png", DD Saptagiri
+https://roar-obiram.emonsa4.workers.dev/play/dd-saptagiri
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Raj_TV.png", Raj TV
+https://roar-obiram.emonsa4.workers.dev/play/raj-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Makkal_TV.png", Makkal TV
+https://roar-obiram.emonsa4.workers.dev/play/makkal-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Adithya_TV.png", Adithya TV
+https://roar-obiram.emonsa4.workers.dev/play/adithya-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Kairali_TV.png", Kairali TV
+https://roar-obiram.emonsa4.workers.dev/play/kairali-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_urdu.png", DD urdu
+https://roar-obiram.emonsa4.workers.dev/play/dd-urdu
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD9_chandana_kannada.png", DD9 chandana (kannada)
+https://roar-obiram.emonsa4.workers.dev/play/dd9-chandana-kannada
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_Girnar.png", DD Girnar
+https://roar-obiram.emonsa4.workers.dev/play/dd-girnar
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_Punjabi.png", DD Punjabi
+https://roar-obiram.emonsa4.workers.dev/play/dd-punjabi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_Kashir.png", DD Kashir
+https://roar-obiram.emonsa4.workers.dev/play/dd-kashir
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News18Bangla.png", News18 Bangla
+https://roar-obiram.emonsa4.workers.dev/play/news18-bangla
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Kanak_TV.png", Kanak News
+https://roar-obiram.emonsa4.workers.dev/play/kanak-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Nepal_one.png", Nepal one
+https://roar-obiram.emonsa4.workers.dev/play/nepal-one
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Amrita_TV.png", Amrita TV
+https://roar-obiram.emonsa4.workers.dev/play/amrita-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Zee_Kalinga.png", Zee Delhi NCR Haryana
+https://roar-obiram.emonsa4.workers.dev/play/zee-delhi-ncr-haryana
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Kairali_People_TV.png", Kairali News
+https://roar-obiram.emonsa4.workers.dev/play/kairali-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD5_Podhigai.png", DD5 Podhigai
+https://roar-obiram.emonsa4.workers.dev/play/dd5-podhigai
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Vasanth_TV.png", Vasanth TV
+https://roar-obiram.emonsa4.workers.dev/play/vasanth-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Salaam_TV.png", Salaam TV
+https://roar-obiram.emonsa4.workers.dev/play/salaam-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Gemini_Comedy.png", Sun Gemini Comedy
+https://roar-obiram.emonsa4.workers.dev/play/sun-gemini-comedy
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Kairali_WE_TV.png", Kairali WE TV
+https://roar-obiram.emonsa4.workers.dev/play/kairali-we-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/9xTashan.png", 9X Tashan
+https://roar-obiram.emonsa4.workers.dev/play/9x-tashan
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Udaya_Comedy.png", Sun Udaya Comedy
+https://roar-obiram.emonsa4.workers.dev/play/sun-udaya-comedy
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Vissa_TV.png", Vissa TV
+https://roar-obiram.emonsa4.workers.dev/play/vissa-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sangeet_Marathi.png", Sangeet Marathi
+https://roar-obiram.emonsa4.workers.dev/play/sangeet-marathi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Raj_Music_Telugu.png", Raj Music Telugu
+https://roar-obiram.emonsa4.workers.dev/play/raj-music-telugu
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Raj_Music_Malayalam.png", Raj Music Malayalam
+https://roar-obiram.emonsa4.workers.dev/play/raj-music-malayalam
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sangeet_Bangla.png", Sangeet Bangla
+https://roar-obiram.emonsa4.workers.dev/play/sangeet-bangla
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sangeet_Bhojpuri.png", Sangeet Bhojpuri
+https://roar-obiram.emonsa4.workers.dev/play/sangeet-bhojpuri
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Raj_Music_Kannada.png", Raj Music Kannada
+https://roar-obiram.emonsa4.workers.dev/play/raj-music-kannada
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Udaya_Music.png", Sun Udaya Music
+https://roar-obiram.emonsa4.workers.dev/play/sun-udaya-music
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Surya_Music.png", Sun Surya Music
+https://roar-obiram.emonsa4.workers.dev/play/sun-surya-music
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Raj_Musix.png", Raj Musix
+https://roar-obiram.emonsa4.workers.dev/play/raj-musix
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Tarang_Music.png", Tarang Music
+https://roar-obiram.emonsa4.workers.dev/play/tarang-music
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Colors_Marathi_HD.png", Colors Marathi HD
+https://roar-obiram.emonsa4.workers.dev/play/colors-marathi-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Colors_Bengali_HD.png", Colors Bangla HD
+https://roar-obiram.emonsa4.workers.dev/play/colors-bangla-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Colors_Kannada_HD.png", Colors Kannada HD
+https://roar-obiram.emonsa4.workers.dev/play/colors-kannada-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Maa_Movies_HD.png", Maa Movies HD
+https://roar-obiram.emonsa4.workers.dev/play/maa-movies-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/SonyPIX.png", Sony Pix HD
+https://roar-obiram.emonsa4.workers.dev/play/sony-pix-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Channel_News_Asia_International.png", Channel News Asia International
+https://roar-obiram.emonsa4.workers.dev/play/channel-news-asia-international
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Jonack.png", Jonack
+https://roar-obiram.emonsa4.workers.dev/play/jonack
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Raj_News_24x7.png", Raj News 24x7
+https://roar-obiram.emonsa4.workers.dev/play/raj-news-24x7
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Jan_TV.png", Jan TV
+https://roar-obiram.emonsa4.workers.dev/play/jan-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/V6_News.png", V6 News
+https://roar-obiram.emonsa4.workers.dev/play/v6-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Kashish_News.png", Kashish News
+https://roar-obiram.emonsa4.workers.dev/play/kashish-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Live_Today.png", Live Today
+https://roar-obiram.emonsa4.workers.dev/play/live-today
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/CVR_OM_Spiritual.png", CVR OM Spiritual
+https://roar-obiram.emonsa4.workers.dev/play/cvr-om-spiritual
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Public_Music.png", Public Music
+https://roar-obiram.emonsa4.workers.dev/play/public-music
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/CVR_Health.png", CVR Health
+https://roar-obiram.emonsa4.workers.dev/play/cvr-health
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Vanitha.png", Vanitha
+https://roar-obiram.emonsa4.workers.dev/play/vanitha
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Bhakti_TV.png", Bhakti TV
+https://roar-obiram.emonsa4.workers.dev/play/bhakti-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Aradhana_TV.png", Aradhana TV
+https://roar-obiram.emonsa4.workers.dev/play/aradhana-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Public_TV.png", Public TV
+https://roar-obiram.emonsa4.workers.dev/play/public-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Prameya_News_7.png", Prameya News 7
+https://roar-obiram.emonsa4.workers.dev/play/prameya-news-7
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Mathrubhumi_News.png", Mathrubhumi News
+https://roar-obiram.emonsa4.workers.dev/play/mathrubhumi-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Kalinga_TV.png", Kalinga TV
+https://roar-obiram.emonsa4.workers.dev/play/kalinga-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sandesh_News.png", Sandesh News
+https://roar-obiram.emonsa4.workers.dev/play/sandesh-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/K_News_India.png", K News India
+https://roar-obiram.emonsa4.workers.dev/play/k-news-india
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/CVR_News.png", CVR News
+https://roar-obiram.emonsa4.workers.dev/play/cvr-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ColorsSuper.png", Colors Super
+https://roar-obiram.emonsa4.workers.dev/play/colors-super
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Kappa_TV.png", Kappa TV
+https://roar-obiram.emonsa4.workers.dev/play/kappa-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/CVR_English.png", CVR English
+https://roar-obiram.emonsa4.workers.dev/play/cvr-english
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/India_Voice.png", India Voice
+https://roar-obiram.emonsa4.workers.dev/play/india-voice
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/JK_24x7_News.png", JK 24x7 News
+https://roar-obiram.emonsa4.workers.dev/play/jk-24x7-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/I_News.png", I News
+https://roar-obiram.emonsa4.workers.dev/play/i-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Taaza_TV.png", Taaza TV
+https://roar-obiram.emonsa4.workers.dev/play/taaza-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News_State_UK_UP.png", News State UK UP
+https://roar-obiram.emonsa4.workers.dev/play/news-state-uk-up
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Peace_of_Mind.png", Peace of Mind
+https://roar-obiram.emonsa4.workers.dev/play/peace-of-mind
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Wellness.png", testa
+https://roar-obiram.emonsa4.workers.dev/play/testa
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Peppers_TV.png", Peppers TV
+https://roar-obiram.emonsa4.workers.dev/play/peppers-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Divya_TV.png", Divya TV
+https://roar-obiram.emonsa4.workers.dev/play/divya-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Tunes_6.png", Tunes 6
+https://roar-obiram.emonsa4.workers.dev/play/tunes-6
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Samachar_Plus.png", Samachar Plus
+https://roar-obiram.emonsa4.workers.dev/play/samachar-plus
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Gulistan_News.png", Gulistan News
+https://roar-obiram.emonsa4.workers.dev/play/gulistan-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Hindi_Khabar.png", Hindi Khabar
+https://roar-obiram.emonsa4.workers.dev/play/hindi-khabar
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Maha_Movies.png", Maha Movies
+https://roar-obiram.emonsa4.workers.dev/play/maha-movies
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Janam_TV.png", Janam TV
+https://roar-obiram.emonsa4.workers.dev/play/janam-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Travel_XP_Tamil.png", Travelxp Tamil
+https://roar-obiram.emonsa4.workers.dev/play/travelxp-tamil
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/sonic_Hindi.png", Sonic Hindi
+https://roar-obiram.emonsa4.workers.dev/play/sonic-hindi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/CNHindi.png", Cartoon Network Hindi
+https://roar-obiram.emonsa4.workers.dev/play/cartoon-network-hindi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/CNTamil.png", Cartoon Network Tamil
+https://roar-obiram.emonsa4.workers.dev/play/cartoon-network-tamil
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sony_BBC_Earth_SD.png", Sony BBC Earth SD
+https://roar-obiram.emonsa4.workers.dev/play/sony-bbc-earth-sd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Puthu_Yugam.png", Puthu Yugam
+https://roar-obiram.emonsa4.workers.dev/play/puthu-yugam
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Malai_Murasu.png", Malaimurasu Seithigal
+https://roar-obiram.emonsa4.workers.dev/play/malaimurasu-seithigal
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Shubh_TV.png", Shubh TV
+https://roar-obiram.emonsa4.workers.dev/play/shubh-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sri_Sankara.png", Sri Sankara
+https://roar-obiram.emonsa4.workers.dev/play/sri-sankara
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Thanthi_TV.png", Thanthi TV
+https://roar-obiram.emonsa4.workers.dev/play/thanthi-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Living_India_News.png", Living India News
+https://roar-obiram.emonsa4.workers.dev/play/living-india-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/10_TV.png", 10 TV
+https://roar-obiram.emonsa4.workers.dev/play/10-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Angel_TV_HD.png", Angel TV HD
+https://roar-obiram.emonsa4.workers.dev/play/angel-tv-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Euro_News.png", Euro News
+https://roar-obiram.emonsa4.workers.dev/play/euro-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/France_24.png", France 24
+https://roar-obiram.emonsa4.workers.dev/play/france-24
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Jeevan_TV.png", Jeevan TV
+https://roar-obiram.emonsa4.workers.dev/play/jeevan-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Madhimugam_TV.png", Madhimugam TV
+https://roar-obiram.emonsa4.workers.dev/play/madhimugam-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Mazavali_Manorama_HD.png", Mazhavil Manorama HD
+https://roar-obiram.emonsa4.workers.dev/play/mazhavil-manorama-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/MK_News.png", MKN News
+https://roar-obiram.emonsa4.workers.dev/play/mkn-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News_India_24_X_7.png", News India 24x7
+https://roar-obiram.emonsa4.workers.dev/play/news-india-24x7
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/SMBC_TV.png", SMBC TV
+https://roar-obiram.emonsa4.workers.dev/play/smbc-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/SonyBBCEarthEng.png", Sony BBC Earth HD English
+https://roar-obiram.emonsa4.workers.dev/play/sony-bbc-earth-hd-english
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Total_TV.png", Total TV
+https://roar-obiram.emonsa4.workers.dev/play/total-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Vedic_TV.png", Vedic TV
+https://roar-obiram.emonsa4.workers.dev/play/vedic-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Vendhar_TV.png", Vendhar TV
+https://roar-obiram.emonsa4.workers.dev/play/vendhar-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Republic_TV.png", Republic TV
+https://roar-obiram.emonsa4.workers.dev/play/republic-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Jio_Exclusive.png", Jio Exclusive HD
+https://roar-obiram.emonsa4.workers.dev/play/jio-exclusive-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Jio_Events.png", Jio Events HD
+https://roar-obiram.emonsa4.workers.dev/play/jio-events-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/SonyYAYHin.png", Sony Yay Hindi
+https://roar-obiram.emonsa4.workers.dev/play/sony-yay-hindi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/SonyYAYTam.png", Sony Yay Tamil
+https://roar-obiram.emonsa4.workers.dev/play/sony-yay-tamil
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/SonyYAYTel.png", Sony Yay Telugu
+https://roar-obiram.emonsa4.workers.dev/play/sony-yay-telugu
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Dsports_HD.png", Eurosport HD
+https://roar-obiram.emonsa4.workers.dev/play/eurosport-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Times_Now_HD.png", Times Now World
+https://roar-obiram.emonsa4.workers.dev/play/times-now-world
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Movies_Now2_HD.png", MNX HD
+https://roar-obiram.emonsa4.workers.dev/play/mnx-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Harekrsna.png", Hare krsna
+https://roar-obiram.emonsa4.workers.dev/play/hare-krsna
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Janta_TV.png", Janta TV
+https://roar-obiram.emonsa4.workers.dev/play/janta-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News11.png", News11
+https://roar-obiram.emonsa4.workers.dev/play/news11
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Osar_Movies.png", Oscar Movies
+https://roar-obiram.emonsa4.workers.dev/play/oscar-movies
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/TV_5_Monde.png", TV5 Monde
+https://roar-obiram.emonsa4.workers.dev/play/tv5-monde
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Lakshya_TV.png", Lakshya TV
+https://roar-obiram.emonsa4.workers.dev/play/lakshya-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/swarshreejio.png", Vedant Ras Swar Shree
+https://roar-obiram.emonsa4.workers.dev/play/vedant-ras-swar-shree
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/RILAGM26.png", RIL AGM 2026
+https://roar-obiram.emonsa4.workers.dev/play/ril-agm-2026
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Ten2_HD.png", Sony Ten 2 HD
+https://roar-obiram.emonsa4.workers.dev/play/sony-ten-2-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Ten3_HD.png", Sony Ten 3 HD Hindi
+https://roar-obiram.emonsa4.workers.dev/play/sony-ten-3-hd-hindi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/KTV_HD.png", KTV HD
+https://roar-obiram.emonsa4.workers.dev/play/ktv-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sun_Music_HD.png", Sun Music HD
+https://roar-obiram.emonsa4.workers.dev/play/sun-music-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sun_TV_HD.png", Sun TV HD
+https://roar-obiram.emonsa4.workers.dev/play/sun-tv-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Gemini_TV_HD.png", Sun Gemini HD
+https://roar-obiram.emonsa4.workers.dev/play/sun-gemini-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Gemini_Music_HD.png", Sun Gemini Music HD
+https://roar-obiram.emonsa4.workers.dev/play/sun-gemini-music-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Gemini_Movies_HD.png", Sun Gemini Movies HD
+https://roar-obiram.emonsa4.workers.dev/play/sun-gemini-movies-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Surya_HD.png", Sun Surya HD
+https://roar-obiram.emonsa4.workers.dev/play/sun-surya-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Udaya_HD.png", Sun Udaya HD
+https://roar-obiram.emonsa4.workers.dev/play/sun-udaya-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Only_Music.png", Only Music
+https://roar-obiram.emonsa4.workers.dev/play/only-music
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sanjha_TV.png", Sanjha TV
+https://roar-obiram.emonsa4.workers.dev/play/sanjha-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Desi_Channel.png", Desi Channel
+https://roar-obiram.emonsa4.workers.dev/play/desi-channel
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/GoodNews_Channel.png", GoodNews Channel
+https://roar-obiram.emonsa4.workers.dev/play/goodnews-channel
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Indradhanu.png", Newslive Bangla
+https://roar-obiram.emonsa4.workers.dev/play/newslive-bangla
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Media_One_TV.png", Media One TV
+https://roar-obiram.emonsa4.workers.dev/play/media-one-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Khabar_Fast.png", Khabar Fast
+https://roar-obiram.emonsa4.workers.dev/play/khabar-fast
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/TV_100.png", TV 100
+https://roar-obiram.emonsa4.workers.dev/play/tv-100
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Bharat_Samachar.png", Bharat Samachar
+https://roar-obiram.emonsa4.workers.dev/play/bharat-samachar
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Anjan_TV.png", Anjan TV
+https://roar-obiram.emonsa4.workers.dev/play/anjan-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Prime_News.png", Prime News
+https://roar-obiram.emonsa4.workers.dev/play/prime-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/R.Kannada.png", R.Kannada
+https://roar-obiram.emonsa4.workers.dev/play/r-kannada
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Rujumargam_TV.png", Mercy TV
+https://roar-obiram.emonsa4.workers.dev/play/mercy-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/First_India_News.png", First India News
+https://roar-obiram.emonsa4.workers.dev/play/first-india-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Zee_24_Kalak.png", Zee 24 Kalak
+https://roar-obiram.emonsa4.workers.dev/play/zee-24-kalak
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Star_Bharat_HD.png", Star Bharat HD
+https://roar-obiram.emonsa4.workers.dev/play/star-bharat-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/4_TV.png", 4 TV
+https://roar-obiram.emonsa4.workers.dev/play/4-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Divya_Vani.png", Divya Vani
+https://roar-obiram.emonsa4.workers.dev/play/divya-vani
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News_1_India.png", News 1 India
+https://roar-obiram.emonsa4.workers.dev/play/news-1-india
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/SaiTV.png", Sai TV
+https://roar-obiram.emonsa4.workers.dev/play/sai-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Bhaktisagar.png", Bhakti Sagar TV
+https://roar-obiram.emonsa4.workers.dev/play/bhakti-sagar-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Mantavya_News.png", Mantavya News
+https://roar-obiram.emonsa4.workers.dev/play/mantavya-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Pitaara.png", Pitaara
+https://roar-obiram.emonsa4.workers.dev/play/pitaara
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/RPLUS.png", R Plus
+https://roar-obiram.emonsa4.workers.dev/play/r-plus
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/livesamacharbharat.png", Live Samachar Bharat
+https://roar-obiram.emonsa4.workers.dev/play/live-samachar-bharat
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/garvgurbani.png", Garv Punjabi Gurbani
+https://roar-obiram.emonsa4.workers.dev/play/garv-punjabi-gurbani
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Propex_TV.png", Propex TV
+https://roar-obiram.emonsa4.workers.dev/play/propex-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Hindu_Dharmam.png", Hindu Dharmam
+https://roar-obiram.emonsa4.workers.dev/play/hindu-dharmam
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/TV_5_Kannada.png", TV 5 Kannada
+https://roar-obiram.emonsa4.workers.dev/play/tv-5-kannada
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/INH_24x7.png", INH 24x7
+https://roar-obiram.emonsa4.workers.dev/play/inh-24x7
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DNN.png", DNN
+https://roar-obiram.emonsa4.workers.dev/play/dnn
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/JUSPunjabi.png", JUS PUNJABI HD
+https://roar-obiram.emonsa4.workers.dev/play/jus-punjabi-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/JUS_HINDI.png", JUS HINDI HD
+https://roar-obiram.emonsa4.workers.dev/play/jus-hindi-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/JUSOne.png", JUS ONE HD
+https://roar-obiram.emonsa4.workers.dev/play/jus-one-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Boogle_Bollywood.png", Boogle Bollywood
+https://roar-obiram.emonsa4.workers.dev/play/boogle-bollywood
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Arre.png", Arre HD
+https://roar-obiram.emonsa4.workers.dev/play/arre-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Om_Shanti.png", Om Shanti
+https://roar-obiram.emonsa4.workers.dev/play/om-shanti
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News18Kerala.png", News18 Kerala
+https://roar-obiram.emonsa4.workers.dev/play/news18-kerala
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Win_TV.png", Win TV
+https://roar-obiram.emonsa4.workers.dev/play/win-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Vaanavil_TV.png", Vaanavil TV
+https://roar-obiram.emonsa4.workers.dev/play/vaanavil-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sarv_Dharam_Sangam.png", Sarv Dharam Sangam
+https://roar-obiram.emonsa4.workers.dev/play/sarv-dharam-sangam
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Jantantra.png", Jantantra
+https://roar-obiram.emonsa4.workers.dev/play/jantantra
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Calvary.png", Calvary
+https://roar-obiram.emonsa4.workers.dev/play/calvary
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/TEST1_HD.png", TEST1 HD
+https://roar-obiram.emonsa4.workers.dev/play/test1-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/TEST2_HD.png", TEST2 HD
+https://roar-obiram.emonsa4.workers.dev/play/test2-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Swayam_Prabha_01.png", Swayam Prabha 01
+https://roar-obiram.emonsa4.workers.dev/play/swayam-prabha-01
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Swayam_Prabha_02.png", Swayam Prabha 02
+https://roar-obiram.emonsa4.workers.dev/play/swayam-prabha-02
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Swayam_Prabha_03.png", Swayam Prabha 03
+https://roar-obiram.emonsa4.workers.dev/play/swayam-prabha-03
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Swayam_Prabha_08.png", Swayam Prabha 08
+https://roar-obiram.emonsa4.workers.dev/play/swayam-prabha-08
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Swayam_Prabha_04.png", Swayam Prabha 04
+https://roar-obiram.emonsa4.workers.dev/play/swayam-prabha-04
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Swayam_Prabha_07.png", Swayam Prabha 07
+https://roar-obiram.emonsa4.workers.dev/play/swayam-prabha-07
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Swayam_Prabha_05.png", Swayam Prabha 05
+https://roar-obiram.emonsa4.workers.dev/play/swayam-prabha-05
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Swayam_Prabha_06.png", Swayam Prabha 06
+https://roar-obiram.emonsa4.workers.dev/play/swayam-prabha-06
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Swayam_Prabha_09.png", Swayam Prabha 09
+https://roar-obiram.emonsa4.workers.dev/play/swayam-prabha-09
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Swayam_Prabha_10.png", Swayam Prabha 10
+https://roar-obiram.emonsa4.workers.dev/play/swayam-prabha-10
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Swayam_Prabha_11.png", Swayam Prabha 11
+https://roar-obiram.emonsa4.workers.dev/play/swayam-prabha-11
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Swayam_Prabha_12.png", Swayam Prabha 12
+https://roar-obiram.emonsa4.workers.dev/play/swayam-prabha-12
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Swayam_Prabha_13.png", Swayam Prabha 13
+https://roar-obiram.emonsa4.workers.dev/play/swayam-prabha-13
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Swayam_Prabha_14.png", Swayam Prabha 14
+https://roar-obiram.emonsa4.workers.dev/play/swayam-prabha-14
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Swayam_Prabha_16.png", Swayam Prabha 16
+https://roar-obiram.emonsa4.workers.dev/play/swayam-prabha-16
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Swayam_Prabha_15.png", Swayam Prabha 15
+https://roar-obiram.emonsa4.workers.dev/play/swayam-prabha-15
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Swayam_Prabha_17.png", Swayam Prabha 17
+https://roar-obiram.emonsa4.workers.dev/play/swayam-prabha-17
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Swayam_Prabha_21.png", Swayam Prabha 21
+https://roar-obiram.emonsa4.workers.dev/play/swayam-prabha-21
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Swayam_Prabha_22.png", Swayam Prabha 22
+https://roar-obiram.emonsa4.workers.dev/play/swayam-prabha-22
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Swayam_Prabha_18.png", Swayam Prabha 18
+https://roar-obiram.emonsa4.workers.dev/play/swayam-prabha-18
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Test03_HD.png", TEST3 HD
+https://roar-obiram.emonsa4.workers.dev/play/test3-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/TEST5_HD.png", TEST5 HD
+https://roar-obiram.emonsa4.workers.dev/play/test5-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Vande_Gujarat_1.png", Vande Gujarat 1
+https://roar-obiram.emonsa4.workers.dev/play/vande-gujarat-1
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Vande_Gujarat_2.png", Vande Gujarat 2
+https://roar-obiram.emonsa4.workers.dev/play/vande-gujarat-2
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Vande_Gujarat_4.png", Vande Gujarat 4
+https://roar-obiram.emonsa4.workers.dev/play/vande-gujarat-4
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Ayush_TV.png", Ayush TV
+https://roar-obiram.emonsa4.workers.dev/play/ayush-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Soham_TV.png", Soham TV
+https://roar-obiram.emonsa4.workers.dev/play/soham-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/CNHDEnglish.png", Cartoon Network HD+ English
+https://roar-obiram.emonsa4.workers.dev/play/cartoon-network-hd-english
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/CNHDTelugu.png", Cartoon Network HD+ Telugu
+https://roar-obiram.emonsa4.workers.dev/play/cartoon-network-hd-telugu
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/CNHDTamil.png", Cartoon Network HD+ Tamil
+https://roar-obiram.emonsa4.workers.dev/play/cartoon-network-hd-tamil
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Vande_Gujarat_3.png", Vande Gujarat 3
+https://roar-obiram.emonsa4.workers.dev/play/vande-gujarat-3
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Vande_Gujarat_5.png", Vande Gujarat 5
+https://roar-obiram.emonsa4.workers.dev/play/vande-gujarat-5
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Vande_Gujarat_6.png", Vande Gujarat 6
+https://roar-obiram.emonsa4.workers.dev/play/vande-gujarat-6
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Vande_Gujarat_7.png", Vande Gujarat 7
+https://roar-obiram.emonsa4.workers.dev/play/vande-gujarat-7
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Vande_Gujarat_8.png", Vande Gujarat 8
+https://roar-obiram.emonsa4.workers.dev/play/vande-gujarat-8
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Vande_Gujarat_9.png", Vande Gujarat 9
+https://roar-obiram.emonsa4.workers.dev/play/vande-gujarat-9
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Vande_Gujarat_10.png", Vande Gujarat 10
+https://roar-obiram.emonsa4.workers.dev/play/vande-gujarat-10
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Vande_Gujarat_11.png", Vande Gujarat 11
+https://roar-obiram.emonsa4.workers.dev/play/vande-gujarat-11
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Vande_Gujarat_12.png", Vande Gujarat 12
+https://roar-obiram.emonsa4.workers.dev/play/vande-gujarat-12
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Vande_Gujarat_13.png", Vande Gujarat 13
+https://roar-obiram.emonsa4.workers.dev/play/vande-gujarat-13
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Vande_Gujarat_14.png", Vande Gujarat 14
+https://roar-obiram.emonsa4.workers.dev/play/vande-gujarat-14
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Vande_Gujarat_15.png", Vande Gujarat 15
+https://roar-obiram.emonsa4.workers.dev/play/vande-gujarat-15
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Vande_Gujarat_16.png", Vande Gujarat 16
+https://roar-obiram.emonsa4.workers.dev/play/vande-gujarat-16
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/RDX_News.png", RDX Goa
+https://roar-obiram.emonsa4.workers.dev/play/rdx-goa
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/PEACE_MUSIC.png", PEACE MUSIC
+https://roar-obiram.emonsa4.workers.dev/play/peace-music
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Star_Movies_HD.png", Star Movies HD
+https://roar-obiram.emonsa4.workers.dev/play/star-movies-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Star_Movies_Select_HD.png", Star Movies Select HD
+https://roar-obiram.emonsa4.workers.dev/play/star-movies-select-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Maa_HD.png", Maa HD
+https://roar-obiram.emonsa4.workers.dev/play/maa-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Star_Gold_Select_HD.png", Star Gold Select HD
+https://roar-obiram.emonsa4.workers.dev/play/star-gold-select-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Maa_Music.png", Maa Music
+https://roar-obiram.emonsa4.workers.dev/play/maa-music
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Star_Plus_HD.png", Star Plus HD
+https://roar-obiram.emonsa4.workers.dev/play/star-plus-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Star_Utsav_Movies.png", Star Utsav Movies
+https://roar-obiram.emonsa4.workers.dev/play/star-utsav-movies
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Maa_Gold.png", Maa Gold
+https://roar-obiram.emonsa4.workers.dev/play/maa-gold
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Asianet_Plus.png", Asianet Plus
+https://roar-obiram.emonsa4.workers.dev/play/asianet-plus
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Suvarna_Plus.png", Suvarna Plus
+https://roar-obiram.emonsa4.workers.dev/play/suvarna-plus
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/MTV_HD_Plus.png", MTV HD
+https://roar-obiram.emonsa4.workers.dev/play/mtv-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/SonyMarathi.png", Sony Marathi SD
+https://roar-obiram.emonsa4.workers.dev/play/sony-marathi-sd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/TEST8_HD.png", TEST8 HD
+https://roar-obiram.emonsa4.workers.dev/play/test8-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Colors_Infinity_HD.png", Colors Infinity HD
+https://roar-obiram.emonsa4.workers.dev/play/colors-infinity-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Tulja_Bhavani.png", Tulja Bhavani
+https://roar-obiram.emonsa4.workers.dev/play/tulja-bhavani
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Jio_Esports_HD.png", JioGames HD
+https://roar-obiram.emonsa4.workers.dev/play/jiogames-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/PTC_News.png", PTC News
+https://roar-obiram.emonsa4.workers.dev/play/ptc-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/PTC_Punjabi.png", PTC Punjabi
+https://roar-obiram.emonsa4.workers.dev/play/ptc-punjabi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/PTC_Chak_De.png", PTC Chak De
+https://roar-obiram.emonsa4.workers.dev/play/ptc-chak-de
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Fateh_TV.png", Fateh TV
+https://roar-obiram.emonsa4.workers.dev/play/fateh-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Awakening.png", Awakening
+https://roar-obiram.emonsa4.workers.dev/play/awakening
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Bansal_News.png", Bansal News
+https://roar-obiram.emonsa4.workers.dev/play/bansal-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Swadesh_News.png", Swadesh News
+https://roar-obiram.emonsa4.workers.dev/play/swadesh-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Kartavya_Tv.png", Kartavya TV
+https://roar-obiram.emonsa4.workers.dev/play/kartavya-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Valambhakti.png", Valam TV
+https://roar-obiram.emonsa4.workers.dev/play/valam-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/PTC_Music.png", PTC Music
+https://roar-obiram.emonsa4.workers.dev/play/ptc-music
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/PTC_Punjabi_Gold.png", PTC Punjabi Gold
+https://roar-obiram.emonsa4.workers.dev/play/ptc-punjabi-gold
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Brit_Asia.png", Brit Asia
+https://roar-obiram.emonsa4.workers.dev/play/brit-asia
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Hare_Krsna_music.png", Hare Krsna Music
+https://roar-obiram.emonsa4.workers.dev/play/hare-krsna-music
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ABP_Ganga.png", ABP Ganga
+https://roar-obiram.emonsa4.workers.dev/play/abp-ganga
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Kalaignar_TV.png", Kalaignar TV
+https://roar-obiram.emonsa4.workers.dev/play/kalaignar-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Kalaignar_Seithigal_.png", Kalaignar Seithigal
+https://roar-obiram.emonsa4.workers.dev/play/kalaignar-seithigal
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Hare_Krsna_Pravachan.png", Hare Krsna Pravachan
+https://roar-obiram.emonsa4.workers.dev/play/hare-krsna-pravachan
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/AnimalPlanetHDTam.png", Animal Planet HD Tamil
+https://roar-obiram.emonsa4.workers.dev/play/animal-planet-hd-tamil
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Rajyoga_Malayalam.png", Rajyoga TV Kannada
+https://roar-obiram.emonsa4.workers.dev/play/rajyoga-tv-kannada
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Dagdusheth_Pune.png", Dagdusheth Ganpati - Pune
+https://roar-obiram.emonsa4.workers.dev/play/dagdusheth-ganpati-pune
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/nimbarktv.png", Nimbark TV
+https://roar-obiram.emonsa4.workers.dev/play/nimbark-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Nick_HD_Plus.png", Nick HD+
+https://roar-obiram.emonsa4.workers.dev/play/nick-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Digishala.png", Digishala
+https://roar-obiram.emonsa4.workers.dev/play/digishala
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/TEST9_HD.png", TEST9 HD
+https://roar-obiram.emonsa4.workers.dev/play/test9-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/VR_360.png", PTC VR
+https://roar-obiram.emonsa4.workers.dev/play/ptc-vr
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Hi_Dost.png", Hi Dost!
+https://roar-obiram.emonsa4.workers.dev/play/hi-dost
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/TEST10_HD.png", TEST10 HD
+https://roar-obiram.emonsa4.workers.dev/play/test10-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/God_TV.png", God TV
+https://roar-obiram.emonsa4.workers.dev/play/god-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sonic_Telugu.png", Sonic Telugu
+https://roar-obiram.emonsa4.workers.dev/play/sonic-telugu
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sonic_Kannada.png", Sonic Kannada
+https://roar-obiram.emonsa4.workers.dev/play/sonic-kannada
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Nick_Kannada.png", Nick Kannada
+https://roar-obiram.emonsa4.workers.dev/play/nick-kannada
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Headlines_Tripura.png", Headlines Tripura
+https://roar-obiram.emonsa4.workers.dev/play/headlines-tripura
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/TWENTY_FOUR_NEWS.png", Twenty Four News
+https://roar-obiram.emonsa4.workers.dev/play/twenty-four-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/TV9_Bharatvarsh.png", TV9 Bharatvarsh
+https://roar-obiram.emonsa4.workers.dev/play/tv9-bharatvarsh
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Aastha_Telugu.png", Aastha Telugu
+https://roar-obiram.emonsa4.workers.dev/play/aastha-telugu
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Aastha_Tamil.png", Aastha Gujarati
+https://roar-obiram.emonsa4.workers.dev/play/aastha-gujarati
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Aastha_Kannada.png", Aastha Kannada
+https://roar-obiram.emonsa4.workers.dev/play/aastha-kannada
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Surya_Samachar.png", Surya Samachar
+https://roar-obiram.emonsa4.workers.dev/play/surya-samachar
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/CTVN_AKD_Plus.png", Ctvn Akd Plus
+https://roar-obiram.emonsa4.workers.dev/play/ctvn-akd-plus
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Calcutta_News.png", Calcutta News
+https://roar-obiram.emonsa4.workers.dev/play/calcutta-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Total_Tv_Haryana.png", BRK News
+https://roar-obiram.emonsa4.workers.dev/play/brk-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Global_Sanjh.png", Global Sanjh
+https://roar-obiram.emonsa4.workers.dev/play/global-sanjh
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Gomantak_TV.png", Gomantak TV
+https://roar-obiram.emonsa4.workers.dev/play/gomantak-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Prarthana_Bhawan.png", Prarthana Bhawan
+https://roar-obiram.emonsa4.workers.dev/play/prarthana-bhawan
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Insync.png", Insync
+https://roar-obiram.emonsa4.workers.dev/play/insync
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ANBNews.png", ANB News
+https://roar-obiram.emonsa4.workers.dev/play/anb-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Lokshahi_News.png", Lokshahi News
+https://roar-obiram.emonsa4.workers.dev/play/lokshahi-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Dsports.png", Eurosport
+https://roar-obiram.emonsa4.workers.dev/play/eurosport
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/B4U_Kadak.png", B4U Kadak
+https://roar-obiram.emonsa4.workers.dev/play/b4u-kadak
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/B4U_Bhojpuri.png", B4U Bhojpuri
+https://roar-obiram.emonsa4.workers.dev/play/b4u-bhojpuri
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/HHDL.png", HHDL
+https://roar-obiram.emonsa4.workers.dev/play/hhdl
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Colors_Gujarati_Cinema.png", Colors Gujarati Cinema
+https://roar-obiram.emonsa4.workers.dev/play/colors-gujarati-cinema
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Colors_Infinity_SD.png", Colors Infinity SD
+https://roar-obiram.emonsa4.workers.dev/play/colors-infinity-sd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Colors_Marathi_SD.png", Colors Marathi SD
+https://roar-obiram.emonsa4.workers.dev/play/colors-marathi-sd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_Arunprabha.png", DD Arunprabha
+https://roar-obiram.emonsa4.workers.dev/play/dd-arunprabha
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_Gyandarshan.png", DD Gyandarshan
+https://roar-obiram.emonsa4.workers.dev/play/dd-gyandarshan
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Nat_Geo_Wild_HD.png", Nat Geo Wild HD
+https://roar-obiram.emonsa4.workers.dev/play/nat-geo-wild-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/National_Geographic_HD.png", National Geographic HD
+https://roar-obiram.emonsa4.workers.dev/play/national-geographic-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/RT_TV.png", RT India
+https://roar-obiram.emonsa4.workers.dev/play/rt-india
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Nick_Malayalam.png", Nick Malayalam
+https://roar-obiram.emonsa4.workers.dev/play/nick-malayalam
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Nick_Bangla.png", Nick Bangla
+https://roar-obiram.emonsa4.workers.dev/play/nick-bangla
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Nick_Marathi.png", Nick Marathi
+https://roar-obiram.emonsa4.workers.dev/play/nick-marathi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sonic_Malayalam.png", Sonic Malayalam
+https://roar-obiram.emonsa4.workers.dev/play/sonic-malayalam
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sonic_Bangla.png", Sonic Bangla
+https://roar-obiram.emonsa4.workers.dev/play/sonic-bangla
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sonic_Marathi.png", Sonic Marathi
+https://roar-obiram.emonsa4.workers.dev/play/sonic-marathi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Colors_SD.png", Colors SD
+https://roar-obiram.emonsa4.workers.dev/play/colors-sd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Colors_Bangla_SD.png", Colors Bangla SD
+https://roar-obiram.emonsa4.workers.dev/play/colors-bangla-sd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Colors_Kannada_SD.png", Colors Kannada SD
+https://roar-obiram.emonsa4.workers.dev/play/colors-kannada-sd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Colors_Tamil.png", Colors Tamil
+https://roar-obiram.emonsa4.workers.dev/play/colors-tamil
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Disney_Channel.png", Disney Channel
+https://roar-obiram.emonsa4.workers.dev/play/disney-channel
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Disney_Junior.png", Disney Junior
+https://roar-obiram.emonsa4.workers.dev/play/disney-junior
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Disney_International_HD.png", Disney International HD
+https://roar-obiram.emonsa4.workers.dev/play/disney-international-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Goodness_TV.png", Goodness
+https://roar-obiram.emonsa4.workers.dev/play/goodness
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Hungama.png", Hungama
+https://roar-obiram.emonsa4.workers.dev/play/hungama
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Super_Hungama.png", Super Hungama
+https://roar-obiram.emonsa4.workers.dev/play/super-hungama
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/SonyWAH.png", Sony Wah
+https://roar-obiram.emonsa4.workers.dev/play/sony-wah
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Jai_Maharashtra.png", Jai Maharashtra
+https://roar-obiram.emonsa4.workers.dev/play/jai-maharashtra
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sony_SD.png", Set SD
+https://roar-obiram.emonsa4.workers.dev/play/set-sd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Romedy_Now_HD.png", Romedy Now
+https://roar-obiram.emonsa4.workers.dev/play/romedy-now
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Republic_Bharat.png", Republic Bharat
+https://roar-obiram.emonsa4.workers.dev/play/republic-bharat
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/NHK_World_Japan.png", NHK World Japan
+https://roar-obiram.emonsa4.workers.dev/play/nhk-world-japan
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sai_Leela.png", Sai Leela
+https://roar-obiram.emonsa4.workers.dev/play/sai-leela
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Reporter_TV.png", Reporter TV
+https://roar-obiram.emonsa4.workers.dev/play/reporter-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/evidya_11.png", PM e Vidya 11
+https://roar-obiram.emonsa4.workers.dev/play/pm-e-vidya-11
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Prati_Shirdi_Saibaba.png", Prati Shirdi Saibaba
+https://roar-obiram.emonsa4.workers.dev/play/prati-shirdi-saibaba
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Ganga_Darshan_Varanasi.png", Ganga Darshan Varanasi
+https://roar-obiram.emonsa4.workers.dev/play/ganga-darshan-varanasi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/SVBC2.png", SVBC2
+https://roar-obiram.emonsa4.workers.dev/play/svbc2
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Ichhapuran_Balaji_Rajasthan.png", Ichhapuran Balaji Rajasthan
+https://roar-obiram.emonsa4.workers.dev/play/ichhapuran-balaji-rajasthan
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Santvani.png", Santvani
+https://roar-obiram.emonsa4.workers.dev/play/santvani
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Nandighosha.png", Nandighosha
+https://roar-obiram.emonsa4.workers.dev/play/nandighosha
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/KITE_Victers.png", KITE VICTERS
+https://roar-obiram.emonsa4.workers.dev/play/kite-victers
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/BBC_Hindi.png", BBC News Hindi
+https://roar-obiram.emonsa4.workers.dev/play/bbc-news-hindi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/India_Science.png", India Science
+https://roar-obiram.emonsa4.workers.dev/play/india-science
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Krishna_Vani.png", Krishna Vani
+https://roar-obiram.emonsa4.workers.dev/play/krishna-vani
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ColorsCineplexSuperhit.png", Colors Cineplex Superhit
+https://roar-obiram.emonsa4.workers.dev/play/colors-cineplex-superhit
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/9_Bharat_Samachar.png", 9 Bharat Samachar
+https://roar-obiram.emonsa4.workers.dev/play/9-bharat-samachar
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Shemaroo_MarathiBana.png", Shemaroo MarathiBana
+https://roar-obiram.emonsa4.workers.dev/play/shemaroo-marathibana
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Balle_Balle_TV.png", Balle Balle TV
+https://roar-obiram.emonsa4.workers.dev/play/balle-balle-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/shikshatvhd.png", Shiksha TV
+https://roar-obiram.emonsa4.workers.dev/play/shiksha-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Janapriyam_News.png", Janapriyam
+https://roar-obiram.emonsa4.workers.dev/play/janapriyam
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News_Only.png", News Only
+https://roar-obiram.emonsa4.workers.dev/play/news-only
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Gurkebaani.png", Gurkibani
+https://roar-obiram.emonsa4.workers.dev/play/gurkibani
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/History_TV18_SD.png", History TV18
+https://roar-obiram.emonsa4.workers.dev/play/history-tv18
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/TEST11_HD.png", TEST11 HD
+https://roar-obiram.emonsa4.workers.dev/play/test11-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/TEST12_HD.png", TEST12 HD
+https://roar-obiram.emonsa4.workers.dev/play/test12-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ColorsCineplexHD.png", Colors Cineplex HD
+https://roar-obiram.emonsa4.workers.dev/play/colors-cineplex-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Argus_TV.png", Argus News
+https://roar-obiram.emonsa4.workers.dev/play/argus-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Bhoomi_TV.png", BHOOMI 24x7
+https://roar-obiram.emonsa4.workers.dev/play/bhoomi-24x7
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News_J.png", News J
+https://roar-obiram.emonsa4.workers.dev/play/news-j
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_Yadagiri.png", DD Yadagiri
+https://roar-obiram.emonsa4.workers.dev/play/dd-yadagiri
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Moon_Tv.png", Moon TV
+https://roar-obiram.emonsa4.workers.dev/play/moon-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Birla_Brainiacs.png", Birla Brainiacs
+https://roar-obiram.emonsa4.workers.dev/play/birla-brainiacs
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/TEST13_HD.png", TEST13 HD
+https://roar-obiram.emonsa4.workers.dev/play/test13-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Haryanvi_Hits.png", Haryanvi Hits
+https://roar-obiram.emonsa4.workers.dev/play/haryanvi-hits
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/evidya_12.png", PM e Vidya 12
+https://roar-obiram.emonsa4.workers.dev/play/pm-e-vidya-12
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/RadheKrishna_TV.png", RadheKrishna TV
+https://roar-obiram.emonsa4.workers.dev/play/radhekrishna-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Samachar_Today.png", Samachar Today
+https://roar-obiram.emonsa4.workers.dev/play/samachar-today
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Subharti.png", Subharti
+https://roar-obiram.emonsa4.workers.dev/play/subharti
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Punjab_School_TV.png", Punjab School TV
+https://roar-obiram.emonsa4.workers.dev/play/punjab-school-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DharmaGranth_TV.png", Dharm Granth TV
+https://roar-obiram.emonsa4.workers.dev/play/dharm-granth-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/abnews.png", AB News
+https://roar-obiram.emonsa4.workers.dev/play/ab-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/P_News.png", P News
+https://roar-obiram.emonsa4.workers.dev/play/p-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Malnadu_TV.png", Malanadu TV
+https://roar-obiram.emonsa4.workers.dev/play/malanadu-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/abstarnews.png", AB Star News
+https://roar-obiram.emonsa4.workers.dev/play/ab-star-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/sanatan.png", Sanatan TV
+https://roar-obiram.emonsa4.workers.dev/play/sanatan-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/35mm.png", 35mm
+https://roar-obiram.emonsa4.workers.dev/play/35mm
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/sristitv.png", Sristi TV
+https://roar-obiram.emonsa4.workers.dev/play/sristi-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/atmadarshantv.png", Atmadarshan TV
+https://roar-obiram.emonsa4.workers.dev/play/atmadarshan-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/samachar24.png", Samachar 24
+https://roar-obiram.emonsa4.workers.dev/play/samachar-24
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/FTV_HD.png", FTV HD
+https://roar-obiram.emonsa4.workers.dev/play/ftv-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Bangla_Bhakti.png", Bangla Bhakti
+https://roar-obiram.emonsa4.workers.dev/play/bangla-bhakti
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Manav_Dharam.png", Manav Dharam
+https://roar-obiram.emonsa4.workers.dev/play/manav-dharam
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/MP_News.png", MP News
+https://roar-obiram.emonsa4.workers.dev/play/mp-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Divyang_News.png", Divyang News
+https://roar-obiram.emonsa4.workers.dev/play/divyang-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/taratv.png", Tara TV
+https://roar-obiram.emonsa4.workers.dev/play/tara-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Real_News_Kerala.png", Real News Kerala
+https://roar-obiram.emonsa4.workers.dev/play/real-news-kerala
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ColorsKannadaCinema.png", Colors Kannada Cinema
+https://roar-obiram.emonsa4.workers.dev/play/colors-kannada-cinema
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Public_Movies.png", Public Movies
+https://roar-obiram.emonsa4.workers.dev/play/public-movies
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sirikannada.png", Siri Kannada
+https://roar-obiram.emonsa4.workers.dev/play/siri-kannada
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News_State_MPCG.png", News State MPCG
+https://roar-obiram.emonsa4.workers.dev/play/news-state-mpcg
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Harvest_TV_24x7.png", Harvest TV 24x7
+https://roar-obiram.emonsa4.workers.dev/play/harvest-tv-24x7
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Powervision_TV.png", Powervision TV
+https://roar-obiram.emonsa4.workers.dev/play/powervision-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/MK_Six.png", MK Six
+https://roar-obiram.emonsa4.workers.dev/play/mk-six
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Madha_TV.png", Madha TV
+https://roar-obiram.emonsa4.workers.dev/play/madha-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Colors_Bangla_Cinema.png", Colors Bangla Cinema
+https://roar-obiram.emonsa4.workers.dev/play/colors-bangla-cinema
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Surya_Comedy.png", Sun Surya Comedy
+https://roar-obiram.emonsa4.workers.dev/play/sun-surya-comedy
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ETV_Cinema_HD.png", ETV Cinema HD
+https://roar-obiram.emonsa4.workers.dev/play/etv-cinema-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Safari_TV.png", Safari TV
+https://roar-obiram.emonsa4.workers.dev/play/safari-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/cnews.png", C News Bharat
+https://roar-obiram.emonsa4.workers.dev/play/c-news-bharat
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/BVTV.png", BVTV
+https://roar-obiram.emonsa4.workers.dev/play/bvtv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/primetv.png", Prime TV
+https://roar-obiram.emonsa4.workers.dev/play/prime-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/FM_News.png", FM News
+https://roar-obiram.emonsa4.workers.dev/play/fm-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/IND_24.png", IND 24
+https://roar-obiram.emonsa4.workers.dev/play/ind-24
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/annnewssrt.png", ANN News
+https://roar-obiram.emonsa4.workers.dev/play/ann-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Shri_Hingulambika_Devi_Temple.png", Shri Hingulambika Devi Temple
+https://roar-obiram.emonsa4.workers.dev/play/shri-hingulambika-devi-temple
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Shri_Mangal_Dev_Grah_Temple.png", Shri Mangal Dev Grah Temple
+https://roar-obiram.emonsa4.workers.dev/play/shri-mangal-dev-grah-temple
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/24hourstv.png", 24Hrs TV
+https://roar-obiram.emonsa4.workers.dev/play/24hrs-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Anaadi_TV.png", Anaadi TV
+https://roar-obiram.emonsa4.workers.dev/play/anaadi-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ND24.png", ND 24
+https://roar-obiram.emonsa4.workers.dev/play/nd-24
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Luxe_TV.png", LUXE TV
+https://roar-obiram.emonsa4.workers.dev/play/luxe-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Bharat_AtoZ.png", Bharat AtoZ
+https://roar-obiram.emonsa4.workers.dev/play/bharat-atoz
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sanskrit_Ganga_TV.png", Sanskrit Ganga
+https://roar-obiram.emonsa4.workers.dev/play/sanskrit-ganga
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Hornbill_TV.png", Hornbill TV
+https://roar-obiram.emonsa4.workers.dev/play/hornbill-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/India_News_Gujarat.png", India News Gujarat
+https://roar-obiram.emonsa4.workers.dev/play/india-news-gujarat
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Surya_Movies.png", Sun Surya Movies
+https://roar-obiram.emonsa4.workers.dev/play/sun-surya-movies
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/NK_TV.png", NK TV Plus
+https://roar-obiram.emonsa4.workers.dev/play/nk-tv-plus
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Buletin_India.png", Buletin India
+https://roar-obiram.emonsa4.workers.dev/play/buletin-india
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Aryan_TV_National.png", Aryan TV National
+https://roar-obiram.emonsa4.workers.dev/play/aryan-tv-national
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Channel_Vision.png", Channel Vision
+https://roar-obiram.emonsa4.workers.dev/play/channel-vision
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ColorsCineplexBollywood.png", Colors Cineplex Bollywood
+https://roar-obiram.emonsa4.workers.dev/play/colors-cineplex-bollywood
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Dadabhagwan.png", Dada Bhagwan Foundation
+https://roar-obiram.emonsa4.workers.dev/play/dada-bhagwan-foundation
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Express_News.png", Express News
+https://roar-obiram.emonsa4.workers.dev/play/express-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Ten_4_Tamil.png", Sony Ten 4 Tamil
+https://roar-obiram.emonsa4.workers.dev/play/sony-ten-4-tamil
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Ten_4_Telugu.png", Sony Ten 4 Telugu
+https://roar-obiram.emonsa4.workers.dev/play/sony-ten-4-telugu
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Bharat_News.png", Bharat News TV
+https://roar-obiram.emonsa4.workers.dev/play/bharat-news-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Hoopla_Kids_TV.png", HooplaKidz TV
+https://roar-obiram.emonsa4.workers.dev/play/hooplakidz-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Yeshuaa.png", Yeshuaa TV
+https://roar-obiram.emonsa4.workers.dev/play/yeshuaa-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Dada_Bhagwan_Foundation_Gujarati.png", Dada Bhagwan Foundation Gujarati
+https://roar-obiram.emonsa4.workers.dev/play/dada-bhagwan-foundation-gujarati
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/VRLive.png", VR Live
+https://roar-obiram.emonsa4.workers.dev/play/vr-live
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/National_News_Sattaxpress.png", National News Sattaxpress
+https://roar-obiram.emonsa4.workers.dev/play/national-news-sattaxpress
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Mangalmaylive.png", Mangalmay Live
+https://roar-obiram.emonsa4.workers.dev/play/mangalmay-live
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Shri_Amarnath_Shrine_Board.png", Shri Amarnathji Shrine Board
+https://roar-obiram.emonsa4.workers.dev/play/shri-amarnathji-shrine-board
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Anand_Barta.png", Ananda Barta
+https://roar-obiram.emonsa4.workers.dev/play/ananda-barta
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DA_News_Plus.png", DA News Plus
+https://roar-obiram.emonsa4.workers.dev/play/da-news-plus
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Pasand.png", Pasand
+https://roar-obiram.emonsa4.workers.dev/play/pasand
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Studio_Yuva_Alpha.png", Studio Yuva Alpha
+https://roar-obiram.emonsa4.workers.dev/play/studio-yuva-alpha
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/jansetunews.png", Jan Setu News
+https://roar-obiram.emonsa4.workers.dev/play/jan-setu-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/NEWS_24_MPCG.png", NEWS 24 MPCG
+https://roar-obiram.emonsa4.workers.dev/play/news-24-mpcg
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Swarlasika.png", Swaralasika Sangeetalaya
+https://roar-obiram.emonsa4.workers.dev/play/swaralasika-sangeetalaya
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Green_Chillies_TV.png", Green Chillies
+https://roar-obiram.emonsa4.workers.dev/play/green-chillies
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Harpal_TV.png", Z10 TV
+https://roar-obiram.emonsa4.workers.dev/play/z10-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/SVBC.png", SVBC
+https://roar-obiram.emonsa4.workers.dev/play/svbc
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News11_Bharat.png", News11 Bharat
+https://roar-obiram.emonsa4.workers.dev/play/news11-bharat
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/STV_Haryana_News.png", STV Haryana News
+https://roar-obiram.emonsa4.workers.dev/play/stv-haryana-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/NL_TV.png", NL TV
+https://roar-obiram.emonsa4.workers.dev/play/nl-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/prathamkhabar24x7.png", Pratham Khabar 24x7
+https://roar-obiram.emonsa4.workers.dev/play/pratham-khabar-24x7
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/SVBC3.png", SVBC3
+https://roar-obiram.emonsa4.workers.dev/play/svbc3
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/SVBC4.png", SVBC4
+https://roar-obiram.emonsa4.workers.dev/play/svbc4
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Punjab_Plus.png", Punjab Plus
+https://roar-obiram.emonsa4.workers.dev/play/punjab-plus
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/7X_Music.png", 7X Music
+https://roar-obiram.emonsa4.workers.dev/play/7x-music
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Pogo_Telugu.png", Pogo Telugu
+https://roar-obiram.emonsa4.workers.dev/play/pogo-telugu
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Kripa_TV.png", Kripa TV
+https://roar-obiram.emonsa4.workers.dev/play/kripa-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sansad_TV_RajyaSabha.png", Sansad TV Rajya Sabha
+https://roar-obiram.emonsa4.workers.dev/play/sansad-tv-rajya-sabha
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Tribe_TV.png", KTV Bangla
+https://roar-obiram.emonsa4.workers.dev/play/ktv-bangla
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Today_24_News.png", Today 24 News
+https://roar-obiram.emonsa4.workers.dev/play/today-24-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Pulse_24.png", Pulse 24
+https://roar-obiram.emonsa4.workers.dev/play/pulse-24
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ENB.png", Express News Bharat
+https://roar-obiram.emonsa4.workers.dev/play/express-news-bharat
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/adhyatmatv.png", Adhyatma TV
+https://roar-obiram.emonsa4.workers.dev/play/adhyatma-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Times_Now_Navbharat.png", Times Now Navbharat
+https://roar-obiram.emonsa4.workers.dev/play/times-now-navbharat
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ET_Now_Swadesh.png", ET Now Swadesh
+https://roar-obiram.emonsa4.workers.dev/play/et-now-swadesh
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/MH1_DilSe.png", MH1 Dil Se
+https://roar-obiram.emonsa4.workers.dev/play/mh1-dil-se
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News_Tamil_24x7.png", News Tamil 24x7
+https://roar-obiram.emonsa4.workers.dev/play/news-tamil-24x7
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Food_XP.png", Foodxp
+https://roar-obiram.emonsa4.workers.dev/play/foodxp
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sidharth_TV.png", Sidharth TV
+https://roar-obiram.emonsa4.workers.dev/play/sidharth-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sidharth_Gold.png", Sidharth Gold
+https://roar-obiram.emonsa4.workers.dev/play/sidharth-gold
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sidharth_Bhakti.png", Sidharth Bhakti
+https://roar-obiram.emonsa4.workers.dev/play/sidharth-bhakti
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Global_India.png", Global India
+https://roar-obiram.emonsa4.workers.dev/play/global-india
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Shemaroo_TV.png", Shemaroo TV
+https://roar-obiram.emonsa4.workers.dev/play/shemaroo-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Amaar_Bangla.png", Amar Bangla TV
+https://roar-obiram.emonsa4.workers.dev/play/amar-bangla-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/abcnews.png", ABC News
+https://roar-obiram.emonsa4.workers.dev/play/abc-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/VNM_News.png", VNM TV
+https://roar-obiram.emonsa4.workers.dev/play/vnm-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/PMC_Hindi.png", PMC Hindi
+https://roar-obiram.emonsa4.workers.dev/play/pmc-hindi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/topnewsmarathi.png", Top News Marathi
+https://roar-obiram.emonsa4.workers.dev/play/top-news-marathi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ETV_HD.png", ETV HD
+https://roar-obiram.emonsa4.workers.dev/play/etv-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Gujarat_First_24x7.png", Gujarat 1st 24x7
+https://roar-obiram.emonsa4.workers.dev/play/gujarat-1st-24x7
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Raftaar_Media.png", Raftaar Media
+https://roar-obiram.emonsa4.workers.dev/play/raftaar-media
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Aadinath_TV.png", Aadinath TV
+https://roar-obiram.emonsa4.workers.dev/play/aadinath-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/3_0_TV.png", 3.0 TV
+https://roar-obiram.emonsa4.workers.dev/play/3-0-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/in24news.png", IN 24 News
+https://roar-obiram.emonsa4.workers.dev/play/in-24-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/BS9_News.png", BS9 News
+https://roar-obiram.emonsa4.workers.dev/play/bs9-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/news21.png", News 21
+https://roar-obiram.emonsa4.workers.dev/play/news-21
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/NewsIndiaTV.png", News India TV
+https://roar-obiram.emonsa4.workers.dev/play/news-india-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Munsif_TV.png", Munsif TV
+https://roar-obiram.emonsa4.workers.dev/play/munsif-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Samachar_Nation.png", Samachar Nation
+https://roar-obiram.emonsa4.workers.dev/play/samachar-nation
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Global_Punjab.png", Global Punjab
+https://roar-obiram.emonsa4.workers.dev/play/global-punjab
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/HNN24x7.png", HNN 24x7
+https://roar-obiram.emonsa4.workers.dev/play/hnn-24x7
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Asom_Live_24.png", Asom Live 24
+https://roar-obiram.emonsa4.workers.dev/play/asom-live-24
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/raatdinbangla.png", Raatdin Bangla
+https://roar-obiram.emonsa4.workers.dev/play/raatdin-bangla
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Aaryaa_Bhakti.png", Aaryaa Bhakti
+https://roar-obiram.emonsa4.workers.dev/play/aaryaa-bhakti
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Aaryaa_News.png", Aaryaa News
+https://roar-obiram.emonsa4.workers.dev/play/aaryaa-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Fashion_India.png", Fashion India
+https://roar-obiram.emonsa4.workers.dev/play/fashion-india
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Merchant_Records.png", Merchant Records
+https://roar-obiram.emonsa4.workers.dev/play/merchant-records
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Gangaur.png", Gangaur
+https://roar-obiram.emonsa4.workers.dev/play/gangaur
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Shemaroo_Umang.png", Shemaroo Umang
+https://roar-obiram.emonsa4.workers.dev/play/shemaroo-umang
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Bharat_24.png", Bharat 24
+https://roar-obiram.emonsa4.workers.dev/play/bharat-24
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/TV27_News.png", TV27 News
+https://roar-obiram.emonsa4.workers.dev/play/tv27-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/22Scope_News.png", 22Scope News
+https://roar-obiram.emonsa4.workers.dev/play/22scope-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/India24x7.png", India 24x7
+https://roar-obiram.emonsa4.workers.dev/play/india-24x7
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/U_Bangla.png", U Bangla
+https://roar-obiram.emonsa4.workers.dev/play/u-bangla
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Swatantra_News.png", Swatantra News
+https://roar-obiram.emonsa4.workers.dev/play/swatantra-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Globe_TV.png", Globe TV
+https://roar-obiram.emonsa4.workers.dev/play/globe-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Aaryaa_Cinema.png", Aaryaa Cinema
+https://roar-obiram.emonsa4.workers.dev/play/aaryaa-cinema
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/India_News_Punjab.png", India News Punjab
+https://roar-obiram.emonsa4.workers.dev/play/india-news-punjab
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/TV24.png", TV24
+https://roar-obiram.emonsa4.workers.dev/play/tv24
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/samaykolkata.png", Samay Kolkata
+https://roar-obiram.emonsa4.workers.dev/play/samay-kolkata
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Bhojpuri_Junction.png", Bhojpuri Junction
+https://roar-obiram.emonsa4.workers.dev/play/bhojpuri-junction
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Jio_Specials_HD.png", Jio Specials HD
+https://roar-obiram.emonsa4.workers.dev/play/jio-specials-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Desi_Music_Station.png", Desi Music Station
+https://roar-obiram.emonsa4.workers.dev/play/desi-music-station
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Media9.png", Media9
+https://roar-obiram.emonsa4.workers.dev/play/media9
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/RRN_News.png", Raftaar Samay
+https://roar-obiram.emonsa4.workers.dev/play/raftaar-samay
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Animax.png", Animax
+https://roar-obiram.emonsa4.workers.dev/play/animax
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Divyalok_TV.png", Divyalok TV
+https://roar-obiram.emonsa4.workers.dev/play/divyalok-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ttn24.png", TTN24
+https://roar-obiram.emonsa4.workers.dev/play/ttn24
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Punjabi_Melodies.png", Punjabi Melodies
+https://roar-obiram.emonsa4.workers.dev/play/punjabi-melodies
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Firstpost.png", Firstpost
+https://roar-obiram.emonsa4.workers.dev/play/firstpost
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Lionsgate_Play.png", Lionsgate Play
+https://roar-obiram.emonsa4.workers.dev/play/lionsgate-play
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/CyberPeace_TV.png", CyberPeace TV
+https://roar-obiram.emonsa4.workers.dev/play/cyberpeace-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Narikaa.png", Narikaa
+https://roar-obiram.emonsa4.workers.dev/play/narikaa
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Bharat_Express.png", Bharat Express
+https://roar-obiram.emonsa4.workers.dev/play/bharat-express
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/vandebharatnews.png", Vande Bharat News
+https://roar-obiram.emonsa4.workers.dev/play/vande-bharat-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sun_Marathi.png", Sun Marathi
+https://roar-obiram.emonsa4.workers.dev/play/sun-marathi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/E_News79.png", E News79
+https://roar-obiram.emonsa4.workers.dev/play/e-news79
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/M_Nadu.png", M Nadu
+https://roar-obiram.emonsa4.workers.dev/play/m-nadu
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Spondon.png", Spondon
+https://roar-obiram.emonsa4.workers.dev/play/spondon
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Prime_9_News.png", Prime 9 News
+https://roar-obiram.emonsa4.workers.dev/play/prime-9-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/VistaraNews.png", Vistara News
+https://roar-obiram.emonsa4.workers.dev/play/vistara-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ShriDishaBhakti.png", Shri Disha Bhakti
+https://roar-obiram.emonsa4.workers.dev/play/shri-disha-bhakti
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Zee_Kannada_News.png", Zee Kannada News
+https://roar-obiram.emonsa4.workers.dev/play/zee-kannada-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Power_TV.png", Power TV
+https://roar-obiram.emonsa4.workers.dev/play/power-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Saga_Music_Haryanvi.png", Saga Music Haryanvi
+https://roar-obiram.emonsa4.workers.dev/play/saga-music-haryanvi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Ghaint_Punjab.png", Ghaint Punjab
+https://roar-obiram.emonsa4.workers.dev/play/ghaint-punjab
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/YRF_Music.png", YRF Music
+https://roar-obiram.emonsa4.workers.dev/play/yrf-music
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sikh_Ratnavali.png", Sikh Ratnavali
+https://roar-obiram.emonsa4.workers.dev/play/sikh-ratnavali
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_North_East.png", DD North East
+https://roar-obiram.emonsa4.workers.dev/play/dd-north-east
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/NewsState_Bihar_JH.png", News State Bihar Jharkhand
+https://roar-obiram.emonsa4.workers.dev/play/news-state-bihar-jharkhand
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/BSTV.png", BSTV
+https://roar-obiram.emonsa4.workers.dev/play/bstv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Brave_TV.png", BRAVE TV
+https://roar-obiram.emonsa4.workers.dev/play/brave-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sacchi_Report.png", Sacchi Report
+https://roar-obiram.emonsa4.workers.dev/play/sacchi-report
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Jothi_TV.png", Jothi TV
+https://roar-obiram.emonsa4.workers.dev/play/jothi-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sadhna_News_MP_CG.png", Sadhna News MP CG
+https://roar-obiram.emonsa4.workers.dev/play/sadhna-news-mp-cg
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/India_Daily_24x7.png", India Daily 24x7
+https://roar-obiram.emonsa4.workers.dev/play/india-daily-24x7
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/aajkikhabar.png", Aaj Ki Khabar
+https://roar-obiram.emonsa4.workers.dev/play/aaj-ki-khabar
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Power_Kids_TV.png", Power Kids TV
+https://roar-obiram.emonsa4.workers.dev/play/power-kids-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Grace_TV.png", Grace TV
+https://roar-obiram.emonsa4.workers.dev/play/grace-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Tabbar_Hits.png", Tabbar Hits
+https://roar-obiram.emonsa4.workers.dev/play/tabbar-hits
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Red_Bull_TV.png", Red Bull TV
+https://roar-obiram.emonsa4.workers.dev/play/red-bull-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/R_Bangla.png", R Bangla
+https://roar-obiram.emonsa4.workers.dev/play/r-bangla
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ABC_Australia.png", ABC Australia
+https://roar-obiram.emonsa4.workers.dev/play/abc-australia
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Big_TV.png", Big TV
+https://roar-obiram.emonsa4.workers.dev/play/big-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ISKCON_Bangalore.png", ISKCON Bangalore
+https://roar-obiram.emonsa4.workers.dev/play/iskcon-bangalore
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/IN24_Live.png", IN24 Live
+https://roar-obiram.emonsa4.workers.dev/play/in24-live
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/KCM.png", KCM
+https://roar-obiram.emonsa4.workers.dev/play/kcm
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/bhichannel.png", BHI Channel
+https://roar-obiram.emonsa4.workers.dev/play/bhi-channel
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Daily_Post_PHH.png", Daily Post PHH
+https://roar-obiram.emonsa4.workers.dev/play/daily-post-phh
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sadhna_Gold.png", Sadhna Gold
+https://roar-obiram.emonsa4.workers.dev/play/sadhna-gold
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/WPN_World_Punjabi_News.png", WPN World Punjabi News
+https://roar-obiram.emonsa4.workers.dev/play/wpn-world-punjabi-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/99TV.png", 99 TV
+https://roar-obiram.emonsa4.workers.dev/play/99-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/NKTV_Bangla.png", NK TV Bangla
+https://roar-obiram.emonsa4.workers.dev/play/nk-tv-bangla
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Punjabi_Hits.png", Punjabi Hits
+https://roar-obiram.emonsa4.workers.dev/play/punjabi-hits
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Pudhari_News.png", Pudhari News
+https://roar-obiram.emonsa4.workers.dev/play/pudhari-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Oye_Music.png", Oye Music
+https://roar-obiram.emonsa4.workers.dev/play/oye-music
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Update_India.png", Update India
+https://roar-obiram.emonsa4.workers.dev/play/update-india
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Tar_TV.png", Tar TV
+https://roar-obiram.emonsa4.workers.dev/play/tar-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/National_News.png", Rashtra Live Prime
+https://roar-obiram.emonsa4.workers.dev/play/rashtra-live-prime
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Jeewan_Bhakti.png", Jeewan Bhakti
+https://roar-obiram.emonsa4.workers.dev/play/jeewan-bhakti
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/tv45.png", TV45
+https://roar-obiram.emonsa4.workers.dev/play/tv45
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ETV_Plus_HD.png", ETV Plus HD
+https://roar-obiram.emonsa4.workers.dev/play/etv-plus-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Public_First.png", Public First
+https://roar-obiram.emonsa4.workers.dev/play/public-first
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Tamilan_Television.png", Tamilan Television
+https://roar-obiram.emonsa4.workers.dev/play/tamilan-television
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/No_Filter_Neha.png", NoFilterNeha
+https://roar-obiram.emonsa4.workers.dev/play/nofilterneha
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Velicham_Tv.png", Velicham Tv
+https://roar-obiram.emonsa4.workers.dev/play/velicham-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Rupashi_Bangla.png", Rupashi Bangla
+https://roar-obiram.emonsa4.workers.dev/play/rupashi-bangla
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Dhoom_Music_Bangla.png", Dhoom Music Bangla
+https://roar-obiram.emonsa4.workers.dev/play/dhoom-music-bangla
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/AMV.png", AMV
+https://roar-obiram.emonsa4.workers.dev/play/amv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Maya_Tv.png", Maya Tv
+https://roar-obiram.emonsa4.workers.dev/play/maya-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Lancs_TV_HD.png", Lancs TV HD
+https://roar-obiram.emonsa4.workers.dev/play/lancs-tv-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/IPN_News.png", IPN News
+https://roar-obiram.emonsa4.workers.dev/play/ipn-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/TNI24.png", TNI24
+https://roar-obiram.emonsa4.workers.dev/play/tni24
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News_Hour.png", News Hour
+https://roar-obiram.emonsa4.workers.dev/play/news-hour
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News_360.png", News 360
+https://roar-obiram.emonsa4.workers.dev/play/news-360
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Bangla_Jago.png", Bangla Jago
+https://roar-obiram.emonsa4.workers.dev/play/bangla-jago
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Unique_Tv.png", Unique TV
+https://roar-obiram.emonsa4.workers.dev/play/unique-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Janadesh_News.png", Janadesh News
+https://roar-obiram.emonsa4.workers.dev/play/janadesh-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/IndiaTV_Yoga.png", India TV Yoga Channel
+https://roar-obiram.emonsa4.workers.dev/play/india-tv-yoga-channel
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Aap_Ki_Adalat.png", India TV Aap Ki Adalat
+https://roar-obiram.emonsa4.workers.dev/play/india-tv-aap-ki-adalat
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Speed_News.png", India TV Speed News
+https://roar-obiram.emonsa4.workers.dev/play/india-tv-speed-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/BHStyle_Icon.png", BH Style Icons Awards
+https://roar-obiram.emonsa4.workers.dev/play/bh-style-icons-awards
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/bollywoodmasala.png", Bollywood Masala
+https://roar-obiram.emonsa4.workers.dev/play/bollywood-masala
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Zee_Telugu_News.png", Zee Telugu News
+https://roar-obiram.emonsa4.workers.dev/play/zee-telugu-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Pogo_Kan.png", Pogo Kannada
+https://roar-obiram.emonsa4.workers.dev/play/pogo-kannada
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Pogo_Mal.png", Pogo Malayalam
+https://roar-obiram.emonsa4.workers.dev/play/pogo-malayalam
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Pogo_Mar.png", Pogo Marathi
+https://roar-obiram.emonsa4.workers.dev/play/pogo-marathi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/CNKannada.png", Cartoon Network Kannada
+https://roar-obiram.emonsa4.workers.dev/play/cartoon-network-kannada
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/CNMalayalam.png", Cartoon Network Malayalam
+https://roar-obiram.emonsa4.workers.dev/play/cartoon-network-malayalam
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Kalyan_TV.png", Kalyan TV
+https://roar-obiram.emonsa4.workers.dev/play/kalyan-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Amritwani_TV.png", Amritwani TV
+https://roar-obiram.emonsa4.workers.dev/play/amritwani-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Garvi_Gujarat.png", Garvi Gujarat
+https://roar-obiram.emonsa4.workers.dev/play/garvi-gujarat
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News_24x7.png", News 24x7
+https://roar-obiram.emonsa4.workers.dev/play/news-24x7
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Prime_Asia_HD.png", Prime Asia HD
+https://roar-obiram.emonsa4.workers.dev/play/prime-asia-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Janam_Tamil.png", Tamil Janam
+https://roar-obiram.emonsa4.workers.dev/play/tamil-janam
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/BVG.png", BVG
+https://roar-obiram.emonsa4.workers.dev/play/bvg
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/TNI_Awaaz.png", TNI Awaaz
+https://roar-obiram.emonsa4.workers.dev/play/tni-awaaz
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/indiannews.png", Indian News
+https://roar-obiram.emonsa4.workers.dev/play/indian-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/TNPNews.png", TNP News
+https://roar-obiram.emonsa4.workers.dev/play/tnp-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/NewsCapital_Gujarat.png", News Capital Gujarat
+https://roar-obiram.emonsa4.workers.dev/play/news-capital-gujarat
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Thanti_One.png", Thanthi One
+https://roar-obiram.emonsa4.workers.dev/play/thanthi-one
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Hiff_Movies.png", Hiff Movies
+https://roar-obiram.emonsa4.workers.dev/play/hiff-movies
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/PR_News.png", PR News
+https://roar-obiram.emonsa4.workers.dev/play/pr-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Nav_Sanskruti_News.png", Navsarjan Sanskruti News
+https://roar-obiram.emonsa4.workers.dev/play/navsarjan-sanskruti-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Bharat_Nation.png", Bharat Nation
+https://roar-obiram.emonsa4.workers.dev/play/bharat-nation
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Today_TV24_UPUK.png", Today 24 News UPUK
+https://roar-obiram.emonsa4.workers.dev/play/today-24-news-upuk
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Bharat_Update.png", Bharat Update
+https://roar-obiram.emonsa4.workers.dev/play/bharat-update
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Captain.png", Captain
+https://roar-obiram.emonsa4.workers.dev/play/captain
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Vistaar_News.png", Vistaar News
+https://roar-obiram.emonsa4.workers.dev/play/vistaar-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/smrfgn.png", Shemaroo Filmy Gaane
+https://roar-obiram.emonsa4.workers.dev/play/shemaroo-filmy-gaane
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/smrbol.png", Shemaroo Bollywood
+https://roar-obiram.emonsa4.workers.dev/play/shemaroo-bollywood
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sundrani_TV.png", Sundrani TV
+https://roar-obiram.emonsa4.workers.dev/play/sundrani-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Taiwan_Plus.png", Taiwan Plus
+https://roar-obiram.emonsa4.workers.dev/play/taiwan-plus
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Naxatra_News_Hindi.png", Naxatra News Hindi
+https://roar-obiram.emonsa4.workers.dev/play/naxatra-news-hindi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sai_TV_Telugu.png", Sai TV Telugu
+https://roar-obiram.emonsa4.workers.dev/play/sai-tv-telugu
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/SUN_Neo.png", Sun Neo HD
+https://roar-obiram.emonsa4.workers.dev/play/sun-neo-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/kbcnews.png", KBC News
+https://roar-obiram.emonsa4.workers.dev/play/kbc-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/NDTV_Marathi.png", NDTV Marathi
+https://roar-obiram.emonsa4.workers.dev/play/ndtv-marathi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Star_Gold_2_HD.png", Star Gold 2 HD
+https://roar-obiram.emonsa4.workers.dev/play/star-gold-2-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Star_Gold_Romance.png", Star Gold Romance
+https://roar-obiram.emonsa4.workers.dev/play/star-gold-romance
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Star_Gold_Thrills.png", Star Gold Thrills
+https://roar-obiram.emonsa4.workers.dev/play/star-gold-thrills
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Star_Pravah_Picture_HD.png", Star Pravah Picture HD
+https://roar-obiram.emonsa4.workers.dev/play/star-pravah-picture-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Smriti_Patra.png", Smriti Patra TV
+https://roar-obiram.emonsa4.workers.dev/play/smriti-patra-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/National_Tv_India.png", National Tv India
+https://roar-obiram.emonsa4.workers.dev/play/national-tv-india
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/bhakhtisiri.png", Bhakthi Siri
+https://roar-obiram.emonsa4.workers.dev/play/bhakthi-siri
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Garvi_Gujarat_Gujarati.png", Garvi Gujarat Gujarati
+https://roar-obiram.emonsa4.workers.dev/play/garvi-gujarat-gujarati
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/SB_News_24x7.png", SB News 24x7
+https://roar-obiram.emonsa4.workers.dev/play/sb-news-24x7
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ATV_INDIA_NEWS.png", ATV India News
+https://roar-obiram.emonsa4.workers.dev/play/atv-india-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/sanmargtv.png", Sanmarg Tv
+https://roar-obiram.emonsa4.workers.dev/play/sanmarg-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Jk_Samachar_24x7.png", Jk Samachar News 24x7
+https://roar-obiram.emonsa4.workers.dev/play/jk-samachar-news-24x7
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Jay_Jagannath.png", Jay Jagannath
+https://roar-obiram.emonsa4.workers.dev/play/jay-jagannath
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Rajya_24_News.png", Rajya 24 News
+https://roar-obiram.emonsa4.workers.dev/play/rajya-24-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_SWAYAM_PRABHA_23.png", DD Swayam Prabha 23
+https://roar-obiram.emonsa4.workers.dev/play/dd-swayam-prabha-23
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_SWAYAM_PRABHA_24.png", DD Swayam Prabha 24
+https://roar-obiram.emonsa4.workers.dev/play/dd-swayam-prabha-24
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_SWAYAM_PRABHA_25.png", DD Swayam Prabha 25
+https://roar-obiram.emonsa4.workers.dev/play/dd-swayam-prabha-25
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_SWAYAM_PRABHA_26.png", DD Swayam Prabha 26
+https://roar-obiram.emonsa4.workers.dev/play/dd-swayam-prabha-26
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_SWAYAM_PRABHA_27.png", DD Swayam Prabha 27
+https://roar-obiram.emonsa4.workers.dev/play/dd-swayam-prabha-27
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_SWAYAM_PRABHA_28.png", DD Swayam Prabha 28
+https://roar-obiram.emonsa4.workers.dev/play/dd-swayam-prabha-28
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_SWAYAM_PRABHA_29.png", DD Swayam Prabha 29
+https://roar-obiram.emonsa4.workers.dev/play/dd-swayam-prabha-29
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_SWAYAM_PRABHA_30.png", DD Swayam Prabha 30
+https://roar-obiram.emonsa4.workers.dev/play/dd-swayam-prabha-30
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_SWAYAM_PRABHA_31.png", DD Swayam Prabha 31
+https://roar-obiram.emonsa4.workers.dev/play/dd-swayam-prabha-31
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_SWAYAM_PRABHA_32.png", DD Swayam Prabha 32
+https://roar-obiram.emonsa4.workers.dev/play/dd-swayam-prabha-32
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_SWAYAM_PRABHA_33.png", DD Swayam Prabha 33
+https://roar-obiram.emonsa4.workers.dev/play/dd-swayam-prabha-33
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_SWAYAM_PRABHA_34.png", DD Swayam Prabha 34
+https://roar-obiram.emonsa4.workers.dev/play/dd-swayam-prabha-34
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_SWAYAM_PRABHA_35.png", DD Swayam Prabha 35
+https://roar-obiram.emonsa4.workers.dev/play/dd-swayam-prabha-35
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_SWAYAM_PRABHA_36.png", DD Swayam Prabha 36
+https://roar-obiram.emonsa4.workers.dev/play/dd-swayam-prabha-36
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_SWAYAM_PRABHA_37.png", DD Swayam Prabha 37
+https://roar-obiram.emonsa4.workers.dev/play/dd-swayam-prabha-37
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_SWAYAM_PRABHA_38.png", DD Swayam Prabha 38
+https://roar-obiram.emonsa4.workers.dev/play/dd-swayam-prabha-38
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_SWAYAM_PRABHA_39.png", DD Swayam Prabha 39
+https://roar-obiram.emonsa4.workers.dev/play/dd-swayam-prabha-39
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_SWAYAM_PRABHA_40.png", DD Swayam Prabha 40
+https://roar-obiram.emonsa4.workers.dev/play/dd-swayam-prabha-40
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_SATHEE_1.png", DD Sathee 1
+https://roar-obiram.emonsa4.workers.dev/play/dd-sathee-1
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_SATHEE_2.png", DD Sathee 2
+https://roar-obiram.emonsa4.workers.dev/play/dd-sathee-2
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_SATHEE_3.png", DD Sathee 3
+https://roar-obiram.emonsa4.workers.dev/play/dd-sathee-3
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_SATHEE_4.png", DD Sathee 4
+https://roar-obiram.emonsa4.workers.dev/play/dd-sathee-4
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_SATHEE_5.png", DD Sathee 5
+https://roar-obiram.emonsa4.workers.dev/play/dd-sathee-5
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_SATHEE_6.png", DD Sathee 6
+https://roar-obiram.emonsa4.workers.dev/play/dd-sathee-6
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_SATHEE_7.png", DD Sathee 7
+https://roar-obiram.emonsa4.workers.dev/play/dd-sathee-7
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Mahaa_Max.png", Mahaa Max
+https://roar-obiram.emonsa4.workers.dev/play/mahaa-max
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DD_SATHEE_8.png", DD Sathee 8
+https://roar-obiram.emonsa4.workers.dev/play/dd-sathee-8
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/AWSN.png", All Women's Sports Network
+https://roar-obiram.emonsa4.workers.dev/play/all-women-s-sports-network
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News_State_PB_HR_HM.png", News State Punjab Haryana Himachal
+https://roar-obiram.emonsa4.workers.dev/play/news-state-punjab-haryana-himachal
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Bloomberg_Originals.png", Bloomberg Originals
+https://roar-obiram.emonsa4.workers.dev/play/bloomberg-originals
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Bloomberg_TV.png", Bloomberg TV+
+https://roar-obiram.emonsa4.workers.dev/play/bloomberg-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Prabhu_Vani_Tv.png", Prabhu Vani Tv
+https://roar-obiram.emonsa4.workers.dev/play/prabhu-vani-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Khabar_24x7_News.png", Khabar 24x7 News
+https://roar-obiram.emonsa4.workers.dev/play/khabar-24x7-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Shri_News.png", Shri News
+https://roar-obiram.emonsa4.workers.dev/play/shri-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Lok_manch_Marathi.png", Lok manch Marathi
+https://roar-obiram.emonsa4.workers.dev/play/lok-manch-marathi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sky_India_Tv.png", Sky India Tv
+https://roar-obiram.emonsa4.workers.dev/play/sky-india-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News_24_Tass.png", News 24 Tass
+https://roar-obiram.emonsa4.workers.dev/play/news-24-tass
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Khabar_70.png", Khabar 70
+https://roar-obiram.emonsa4.workers.dev/play/khabar-70
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Aap_Tak_tv.png", India 24x7 Aap Tak TV
+https://roar-obiram.emonsa4.workers.dev/play/india-24x7-aap-tak-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Malyalam_Naaptol.png", Malyalam Naaptol
+https://roar-obiram.emonsa4.workers.dev/play/malyalam-naaptol
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Tamil_Naaptol.png", Tamil Naaptol
+https://roar-obiram.emonsa4.workers.dev/play/tamil-naaptol
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Telugu_Naaptol.png", Telugu Naaptol
+https://roar-obiram.emonsa4.workers.dev/play/telugu-naaptol
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Adhya_Bhakti.png", Adhya Bhakti
+https://roar-obiram.emonsa4.workers.dev/play/adhya-bhakti
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Ishwar_Vani_Tv.png", Ishwar Vani Tv
+https://roar-obiram.emonsa4.workers.dev/play/ishwar-vani-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/newsmarathi.png", News Marathi 24x7
+https://roar-obiram.emonsa4.workers.dev/play/news-marathi-24x7
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News_Nation_81.png", News Nation 81
+https://roar-obiram.emonsa4.workers.dev/play/news-nation-81
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/AnimalPlanetHDTel.png", Animal Planet HD Telugu
+https://roar-obiram.emonsa4.workers.dev/play/animal-planet-hd-telugu
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/AnimalPlanetTel.png", Animal Planet Telugu
+https://roar-obiram.emonsa4.workers.dev/play/animal-planet-telugu
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News_Malayalam.png", News Malayalam
+https://roar-obiram.emonsa4.workers.dev/play/news-malayalam
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Kolkata_News.png", Kolkata News
+https://roar-obiram.emonsa4.workers.dev/play/kolkata-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Public_Asia.png", Public Asia
+https://roar-obiram.emonsa4.workers.dev/play/public-asia
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Prabhu_Sandesh.png", Prabhu Sandesh
+https://roar-obiram.emonsa4.workers.dev/play/prabhu-sandesh
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Shesh_Khabar.png", Shesh Khabar
+https://roar-obiram.emonsa4.workers.dev/play/shesh-khabar
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Chanakya_News_Ind_Raj.png", Chanakya News India Rajasthan
+https://roar-obiram.emonsa4.workers.dev/play/chanakya-news-india-rajasthan
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Chanakya_News_National.png", Chanakya News National
+https://roar-obiram.emonsa4.workers.dev/play/chanakya-news-national
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Bharat_Times.png", S Bharat
+https://roar-obiram.emonsa4.workers.dev/play/s-bharat
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Aone_News.png", AOne News
+https://roar-obiram.emonsa4.workers.dev/play/aone-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/T_TV.png", T TV
+https://roar-obiram.emonsa4.workers.dev/play/t-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Patnagar_News_Network.png", Patnagar Network News
+https://roar-obiram.emonsa4.workers.dev/play/patnagar-network-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/sanatv.png", Sana TV
+https://roar-obiram.emonsa4.workers.dev/play/sana-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Nation_Khabar.png", Nation Khabar
+https://roar-obiram.emonsa4.workers.dev/play/nation-khabar
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Penta_TV.png", Penta TV
+https://roar-obiram.emonsa4.workers.dev/play/penta-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Gusto_TV.png", Gusto TV
+https://roar-obiram.emonsa4.workers.dev/play/gusto-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Vertent_Samachar_Plus_24x7.png", Vertent Samachar Plus 24x7
+https://roar-obiram.emonsa4.workers.dev/play/vertent-samachar-plus-24x7
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/krishipitara.png", Krishi Pitaara
+https://roar-obiram.emonsa4.workers.dev/play/krishi-pitaara
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/NE_News.png", NE News
+https://roar-obiram.emonsa4.workers.dev/play/ne-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Prajatantra_TV_Bharat.png", Prajatantra TV Bharat
+https://roar-obiram.emonsa4.workers.dev/play/prajatantra-tv-bharat
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Prime_Bharat_News.png", Prime Bharat News
+https://roar-obiram.emonsa4.workers.dev/play/prime-bharat-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sri_Naga_Sai_Mandir.png", Sri Naga Sai Mandir
+https://roar-obiram.emonsa4.workers.dev/play/sri-naga-sai-mandir
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/SharkTankIndia.png", Shark Tank India S5
+https://roar-obiram.emonsa4.workers.dev/play/shark-tank-india-s5
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Rhindustan_TV.png", R Hindustan Tv News
+https://roar-obiram.emonsa4.workers.dev/play/r-hindustan-tv-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Today_India_News.png", Today India News
+https://roar-obiram.emonsa4.workers.dev/play/today-india-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Apex_News_India.png", Apex News India
+https://roar-obiram.emonsa4.workers.dev/play/apex-news-india
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Apex_Entertainment.png", Apex Entertainment
+https://roar-obiram.emonsa4.workers.dev/play/apex-entertainment
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sadhguru_Television_HD_Dolby.png", Sadhguru Television Dolby
+https://roar-obiram.emonsa4.workers.dev/play/sadhguru-television-dolby
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Chanakya_News_Jharkhand.png", Chanakya News Jharkhand
+https://roar-obiram.emonsa4.workers.dev/play/chanakya-news-jharkhand
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Chanakya_News_UPUK.png", Chanakya News UPUK
+https://roar-obiram.emonsa4.workers.dev/play/chanakya-news-upuk
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Bhakti_Dhara.png", Bhakti Dhara
+https://roar-obiram.emonsa4.workers.dev/play/bhakti-dhara
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/nammatv.png", Namma Bangalore
+https://roar-obiram.emonsa4.workers.dev/play/namma-bangalore
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Yoga_for_Beginners.png", Yoga for Beginners
+https://roar-obiram.emonsa4.workers.dev/play/yoga-for-beginners
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Mahaa_Bhakthi.png", Mahaa Bhakthi
+https://roar-obiram.emonsa4.workers.dev/play/mahaa-bhakthi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News_X_World.png", News X World
+https://roar-obiram.emonsa4.workers.dev/play/news-x-world
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/BHP_News.png", BHP News
+https://roar-obiram.emonsa4.workers.dev/play/bhp-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Pickleball_Now.png", Pickleball Now
+https://roar-obiram.emonsa4.workers.dev/play/pickleball-now
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sanatan_Bharat.png", Sanatan Bharat
+https://roar-obiram.emonsa4.workers.dev/play/sanatan-bharat
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Manage_Stress.png", Manage Stress
+https://roar-obiram.emonsa4.workers.dev/play/manage-stress
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Weight_Loss_Yoga.png", Weight Loss Yoga
+https://roar-obiram.emonsa4.workers.dev/play/weight-loss-yoga
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Guided_Meditation.png", Guided Meditation
+https://roar-obiram.emonsa4.workers.dev/play/guided-meditation
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Flexibility_Yoga.png", Flexibility Yoga
+https://roar-obiram.emonsa4.workers.dev/play/flexibility-yoga
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Restful_Sleep.png", Restful Sleep
+https://roar-obiram.emonsa4.workers.dev/play/restful-sleep
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Muscle_Strength.png", Muscle Strength
+https://roar-obiram.emonsa4.workers.dev/play/muscle-strength
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/unmute.png", The Unmute
+https://roar-obiram.emonsa4.workers.dev/play/the-unmute
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/voicetvurdu.png", Voice TV Urdu
+https://roar-obiram.emonsa4.workers.dev/play/voice-tv-urdu
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ATN_Samachar.png", ATN Samachar
+https://roar-obiram.emonsa4.workers.dev/play/atn-samachar
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/p_pktflm.png", Pocket Films
+https://roar-obiram.emonsa4.workers.dev/play/pocket-films
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sanatan_Sandesh.png", Sanatan Sandesh TV
+https://roar-obiram.emonsa4.workers.dev/play/sanatan-sandesh-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Samrat_News_TV.png", Samrat News TV
+https://roar-obiram.emonsa4.workers.dev/play/samrat-news-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Nation_Star_News.png", Nation World News
+https://roar-obiram.emonsa4.workers.dev/play/nation-world-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Vijay_Super_HD.png", Vijay Super HD
+https://roar-obiram.emonsa4.workers.dev/play/vijay-super-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Nation_NE.png", Nation NE
+https://roar-obiram.emonsa4.workers.dev/play/nation-ne
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Vijay_Takkar.png", Vijay Takkar
+https://roar-obiram.emonsa4.workers.dev/play/vijay-takkar
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/OM_TV.png", OM TV
+https://roar-obiram.emonsa4.workers.dev/play/om-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/soochnaindia.png", Soochna India
+https://roar-obiram.emonsa4.workers.dev/play/soochna-india
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/mahuaplay.png", Mahua Play
+https://roar-obiram.emonsa4.workers.dev/play/mahua-play
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/mahuakhabar.png", Mahua Khabar
+https://roar-obiram.emonsa4.workers.dev/play/mahua-khabar
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Rozana_Spokesman.png", Rozana Spokesman 24x7
+https://roar-obiram.emonsa4.workers.dev/play/rozana-spokesman-24x7
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/naturescape-a003s-dhaka.png", Stingray Naturescape
+https://roar-obiram.emonsa4.workers.dev/play/stingray-naturescape
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/zenlife-zen001-seoul.png", ZenLIFE by Stingray
+https://roar-obiram.emonsa4.workers.dev/play/zenlife-by-stingray
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/holidayscapes-hol001ads_hol001-tokyo.png", Holidaycapes by Stingray
+https://roar-obiram.emonsa4.workers.dev/play/holidaycapes-by-stingray
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/cmusic-cme004-dhaka.png", Movie Music by Stingray
+https://roar-obiram.emonsa4.workers.dev/play/movie-music-by-stingray
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/qello-qello001-dhaka.png", Qello Concerts by Stingray
+https://roar-obiram.emonsa4.workers.dev/play/qello-concerts-by-stingray
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/djazz-djaads-dhaka.png", Stingray Djazz
+https://roar-obiram.emonsa4.workers.dev/play/stingray-djazz
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/NBS_Live_TV.png", NBS Live TV
+https://roar-obiram.emonsa4.workers.dev/play/nbs-live-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/anandtv.png", Anand TV
+https://roar-obiram.emonsa4.workers.dev/play/anand-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Mahotsav_TV.png", Mahotsav TV
+https://roar-obiram.emonsa4.workers.dev/play/mahotsav-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Amar_Digital_TV.png", Amar Digital TV
+https://roar-obiram.emonsa4.workers.dev/play/amar-digital-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Mon_TV_Bangla.png", Mon TV Bangla
+https://roar-obiram.emonsa4.workers.dev/play/mon-tv-bangla
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News_Plus_24x7.png", News_Plus_24x7
+https://roar-obiram.emonsa4.workers.dev/play/news-plus-24x7
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/R_TV_Bhakthi.png", R TV Bhakthi
+https://roar-obiram.emonsa4.workers.dev/play/r-tv-bhakthi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/tsatnipuna.png", T SAT Nipuna
+https://roar-obiram.emonsa4.workers.dev/play/t-sat-nipuna
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/tsatvidya.png", T SAT Vidya
+https://roar-obiram.emonsa4.workers.dev/play/t-sat-vidya
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/mnsnewstv.png", MNS News
+https://roar-obiram.emonsa4.workers.dev/play/mns-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Gj_Desi_News.png", Gj Desi News
+https://roar-obiram.emonsa4.workers.dev/play/gj-desi-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Love_World.png", LOVEWORLD TV
+https://roar-obiram.emonsa4.workers.dev/play/loveworld-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Gujarat_Wild_TV.png", Gujarat  Wild TV
+https://roar-obiram.emonsa4.workers.dev/play/gujarat-wild-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/zillarbarta.png", Zillar Barta
+https://roar-obiram.emonsa4.workers.dev/play/zillar-barta
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/zbmusic.png", ZB Music
+https://roar-obiram.emonsa4.workers.dev/play/zb-music
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/zbbhakti.png", ZB Bhakti
+https://roar-obiram.emonsa4.workers.dev/play/zb-bhakti
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/zbcatun.png", ZB Cartoon
+https://roar-obiram.emonsa4.workers.dev/play/zb-cartoon
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ZBCINEMA.png", ZB Cinema
+https://roar-obiram.emonsa4.workers.dev/play/zb-cinema
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ose-122ads-montreal.png", Stingray The Spa
+https://roar-obiram.emonsa4.workers.dev/play/stingray-the-spa
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ose-317ads-montreal.png", Stingray Todays K-Pop
+https://roar-obiram.emonsa4.workers.dev/play/stingray-todays-k-pop
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ose-137ads-montreal.png", Stingray Easy Listening
+https://roar-obiram.emonsa4.workers.dev/play/stingray-easy-listening
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ose-232ads-montreal.png", Stingray 2000s
+https://roar-obiram.emonsa4.workers.dev/play/stingray-2000s
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/aagaaztimes.png", Aagaaz Times
+https://roar-obiram.emonsa4.workers.dev/play/aagaaz-times
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Mirror_Media.png", Mirror Media
+https://roar-obiram.emonsa4.workers.dev/play/mirror-media
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Ten_News.png", Ten News
+https://roar-obiram.emonsa4.workers.dev/play/ten-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/sailendar.png", STV Bangla
+https://roar-obiram.emonsa4.workers.dev/play/stv-bangla
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/awaazindia.png", Awaaz India TV
+https://roar-obiram.emonsa4.workers.dev/play/awaaz-india-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Sanatan_Vedic_TV.png", Sanatan Vedic TV
+https://roar-obiram.emonsa4.workers.dev/play/sanatan-vedic-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/p_supjio.png", Superfine Films
+https://roar-obiram.emonsa4.workers.dev/play/superfine-films
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Yahoo_Finance.png", Yahoo Finance
+https://roar-obiram.emonsa4.workers.dev/play/yahoo-finance
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/janataanews.png", Janataa TV Kannada
+https://roar-obiram.emonsa4.workers.dev/play/janataa-tv-kannada
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/nebharat24.png", NE Bharat24
+https://roar-obiram.emonsa4.workers.dev/play/ne-bharat24
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Fast1.png", Fast1
+https://roar-obiram.emonsa4.workers.dev/play/fast1
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/suriyantvtamil.png", Rock TV
+https://roar-obiram.emonsa4.workers.dev/play/rock-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/dharshantvtamil.png", Dharsan TV
+https://roar-obiram.emonsa4.workers.dev/play/dharsan-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/aanadhamtvtamil.png", Bhagyam TV
+https://roar-obiram.emonsa4.workers.dev/play/bhagyam-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/sanaplus.png", Sana Plus
+https://roar-obiram.emonsa4.workers.dev/play/sana-plus
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/subintvtamil.png", Subin TV
+https://roar-obiram.emonsa4.workers.dev/play/subin-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Shri_Shyam_TV.png", Shri Shyam TV
+https://roar-obiram.emonsa4.workers.dev/play/shri-shyam-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Newz_Room_Gujarat.png", Newz Room Gujarat
+https://roar-obiram.emonsa4.workers.dev/play/newz-room-gujarat
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Mega9TV.png", Mega9TV
+https://roar-obiram.emonsa4.workers.dev/play/mega9tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/News_TV_India.png", News TV India
+https://roar-obiram.emonsa4.workers.dev/play/news-tv-india
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/TV13_Gujarati.png", TV13 Gujarati
+https://roar-obiram.emonsa4.workers.dev/play/tv13-gujarati
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/gospeltv.png", Gospel TV
+https://roar-obiram.emonsa4.workers.dev/play/gospel-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/G18_News.png", G18 News
+https://roar-obiram.emonsa4.workers.dev/play/g18-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Headlines_Kolkata.png", Headlines Kolkata
+https://roar-obiram.emonsa4.workers.dev/play/headlines-kolkata
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Pradesh24_Gujarati.png", Pradesh24 Gujarati
+https://roar-obiram.emonsa4.workers.dev/play/pradesh24-gujarati
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Brio_TV.png", Brio TV
+https://roar-obiram.emonsa4.workers.dev/play/brio-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/EPIC_TV.png", EPIC TV
+https://roar-obiram.emonsa4.workers.dev/play/epic-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Nazara.png", Epic Bharat
+https://roar-obiram.emonsa4.workers.dev/play/epic-bharat
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Filamchi_Bhojpuri.png", EPIC Bhojpuri
+https://roar-obiram.emonsa4.workers.dev/play/epic-bhojpuri
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Gubbare.png", Epic Kids
+https://roar-obiram.emonsa4.workers.dev/play/epic-kids
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Inwild.png", INWILD
+https://roar-obiram.emonsa4.workers.dev/play/inwild
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Intravel.png", INTRAVEL
+https://roar-obiram.emonsa4.workers.dev/play/intravel
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ntvtamil.png", NTC TV
+https://roar-obiram.emonsa4.workers.dev/play/ntc-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/aryatvtamil.png", Aaryaa TV
+https://roar-obiram.emonsa4.workers.dev/play/aaryaa-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Swastik_Stories.png", Swastik Stories
+https://roar-obiram.emonsa4.workers.dev/play/swastik-stories
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DocuBay.png", DocuBay
+https://roar-obiram.emonsa4.workers.dev/play/docubay
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/BHP_News_Gujarat.png", BHP News Gujarati
+https://roar-obiram.emonsa4.workers.dev/play/bhp-news-gujarati
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/metrotv.png", Metro TV
+https://roar-obiram.emonsa4.workers.dev/play/metro-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/rojatv.png", Roja TV
+https://roar-obiram.emonsa4.workers.dev/play/roja-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/rojamovies.png", Roja Movies
+https://roar-obiram.emonsa4.workers.dev/play/roja-movies
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DiscoveryMal.png", Discovery Malayalam
+https://roar-obiram.emonsa4.workers.dev/play/discovery-malayalam
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/SansadTV1HD.png", Sansad TV 1 HD
+https://roar-obiram.emonsa4.workers.dev/play/sansad-tv-1-hd
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DiscoveryHDBen.png", Discovery HD Bengali
+https://roar-obiram.emonsa4.workers.dev/play/discovery-hd-bengali
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DiscoveryKan.png", Discovery Kannada
+https://roar-obiram.emonsa4.workers.dev/play/discovery-kannada
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DiscoveryTam.png", Discovery Tamil
+https://roar-obiram.emonsa4.workers.dev/play/discovery-tamil
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DiscoveryHDMal.png", Discovery HD Malayalam
+https://roar-obiram.emonsa4.workers.dev/play/discovery-hd-malayalam
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DiscoveryHDKan.png", Discovery HD Kannada
+https://roar-obiram.emonsa4.workers.dev/play/discovery-hd-kannada
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DiscoveryKidsKan.png", Discovery Kids Kannada
+https://roar-obiram.emonsa4.workers.dev/play/discovery-kids-kannada
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/IDHDHindi.png", Investigation Discovery HD Hindi
+https://roar-obiram.emonsa4.workers.dev/play/investigation-discovery-hd-hindi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/IDHDEnglish.png", Investigation Discovery HD English
+https://roar-obiram.emonsa4.workers.dev/play/investigation-discovery-hd-english
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/CNHDHindi.png", Cartoon Network HD+ Hindi
+https://roar-obiram.emonsa4.workers.dev/play/cartoon-network-hd-hindi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/nationnews.png", Nation News
+https://roar-obiram.emonsa4.workers.dev/play/nation-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ekhonkolkata.png", Akhon kolkata
+https://roar-obiram.emonsa4.workers.dev/play/akhon-kolkata
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/raatdintripura.png", Raatdin Tripura
+https://roar-obiram.emonsa4.workers.dev/play/raatdin-tripura
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DiscoveryHDHin.png", Discovery HD Hindi
+https://roar-obiram.emonsa4.workers.dev/play/discovery-hd-hindi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DiscoveryHDTam.png", Discovery HD Tamil
+https://roar-obiram.emonsa4.workers.dev/play/discovery-hd-tamil
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DiscoveryHDTel.png", Discovery HD Telugu
+https://roar-obiram.emonsa4.workers.dev/play/discovery-hd-telugu
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DiscoveryKidsTel.png", Discovery Kids Telugu
+https://roar-obiram.emonsa4.workers.dev/play/discovery-kids-telugu
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DiscoveryKidsMal.png", Discovery Kids Malayalam
+https://roar-obiram.emonsa4.workers.dev/play/discovery-kids-malayalam
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/AnimalPlanetTam.png", Animal Planet Tamil
+https://roar-obiram.emonsa4.workers.dev/play/animal-planet-tamil
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/AnimalPlanetHDHin.png", Animal Planet HD Hindi
+https://roar-obiram.emonsa4.workers.dev/play/animal-planet-hd-hindi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/IDEnglish.png", Investigation Discovery English
+https://roar-obiram.emonsa4.workers.dev/play/investigation-discovery-english
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DiscoveryScienceHin.png", Discovery Science Hindi
+https://roar-obiram.emonsa4.workers.dev/play/discovery-science-hindi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/CNMarathi.png", Cartoon Network Marathi
+https://roar-obiram.emonsa4.workers.dev/play/cartoon-network-marathi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/CNHDKannada.png", Cartoon Network HD+ Kannada
+https://roar-obiram.emonsa4.workers.dev/play/cartoon-network-hd-kannada
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/CNHDMalayalam.png", Cartoon Network HD+ Malayalam
+https://roar-obiram.emonsa4.workers.dev/play/cartoon-network-hd-malayalam
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/CNHDMarathi.png", Cartoon Network HD+ Marathi
+https://roar-obiram.emonsa4.workers.dev/play/cartoon-network-hd-marathi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/TLCHDHindi.png", TLC HD Hindi
+https://roar-obiram.emonsa4.workers.dev/play/tlc-hd-hindi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/swastiktv.png", Swastik TV
+https://roar-obiram.emonsa4.workers.dev/play/swastik-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/G94News.png", G94 News
+https://roar-obiram.emonsa4.workers.dev/play/g94-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/newsbeatkarnataka.png", Karnataka News Beat
+https://roar-obiram.emonsa4.workers.dev/play/karnataka-news-beat
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/NationUpdate.png", Nation Update
+https://roar-obiram.emonsa4.workers.dev/play/nation-update
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/TimesofMaharashtra.png", Times of Maharashtra
+https://roar-obiram.emonsa4.workers.dev/play/times-of-maharashtra
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/GuaranteeNews.png", Guarantee News
+https://roar-obiram.emonsa4.workers.dev/play/guarantee-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/greengold.png", Green Gold TV
+https://roar-obiram.emonsa4.workers.dev/play/green-gold-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/nsc9.png", NSC9 News
+https://roar-obiram.emonsa4.workers.dev/play/nsc9-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/GTCPunjabi.png", GTC Punjabi
+https://roar-obiram.emonsa4.workers.dev/play/gtc-punjabi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/PunjabiShorts.png", Punjabi Shorts
+https://roar-obiram.emonsa4.workers.dev/play/punjabi-shorts
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ose-101ads-montreal.png", Stingray Classic Rock
+https://roar-obiram.emonsa4.workers.dev/play/stingray-classic-rock
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ose-155ads-montreal.png", Stingray Greatest Hits
+https://roar-obiram.emonsa4.workers.dev/play/stingray-greatest-hits
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/cozycafe-400ads_cafe001-tokyo.png", Stingray Cozy Cafe
+https://roar-obiram.emonsa4.workers.dev/play/stingray-cozy-cafe
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/amarujala.png", Amar Ujala
+https://roar-obiram.emonsa4.workers.dev/play/amar-ujala
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/TheHind24News.png", The Hind24 News
+https://roar-obiram.emonsa4.workers.dev/play/the-hind24-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/NationalToday24x7.png", National Today 24x7
+https://roar-obiram.emonsa4.workers.dev/play/national-today-24x7
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/MPToday.png", MP Today
+https://roar-obiram.emonsa4.workers.dev/play/mp-today
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/GTCNews.png", GTC News
+https://roar-obiram.emonsa4.workers.dev/play/gtc-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/alrght.png", AlrightTV
+https://roar-obiram.emonsa4.workers.dev/play/alrighttv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ShreeSanatan_TV.png", Shree Sanatan TV
+https://roar-obiram.emonsa4.workers.dev/play/shree-sanatan-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/villagetvhd.png", Village TV
+https://roar-obiram.emonsa4.workers.dev/play/village-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/IndiaAhead.png", India Ahead
+https://roar-obiram.emonsa4.workers.dev/play/india-ahead
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/World_Chess.png", World Chess
+https://roar-obiram.emonsa4.workers.dev/play/world-chess
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Kadak.png", Kadak
+https://roar-obiram.emonsa4.workers.dev/play/kadak
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/rmaxx.png", R Maxx Kannada
+https://roar-obiram.emonsa4.workers.dev/play/r-maxx-kannada
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/thevoicetv.png", The Voice TV
+https://roar-obiram.emonsa4.workers.dev/play/the-voice-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ValamTVDayro.png", Valam TV Dayro
+https://roar-obiram.emonsa4.workers.dev/play/valam-tv-dayro
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Cine_Jomjomat.png", Cine Jomjomat
+https://roar-obiram.emonsa4.workers.dev/play/cine-jomjomat
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ShreeSalangpurDham.png", Shree Salangpur Dham
+https://roar-obiram.emonsa4.workers.dev/play/shree-salangpur-dham
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/amg02159c11.png", Journy
+https://roar-obiram.emonsa4.workers.dev/play/journy
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/4sites.png", 4 SiDES TV
+https://roar-obiram.emonsa4.workers.dev/play/4-sides-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/UIPMPentathlonWC.png", UIPM Pentathlon World Cup
+https://roar-obiram.emonsa4.workers.dev/play/uipm-pentathlon-world-cup
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ITNNational.png", ITN National
+https://roar-obiram.emonsa4.workers.dev/play/itn-national
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/dicmed.png", Dice Media
+https://roar-obiram.emonsa4.workers.dev/play/dice-media
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/fltrcopy.png", FilterCopy
+https://roar-obiram.emonsa4.workers.dev/play/filtercopy
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/MrBean.png", Mr. Bean
+https://roar-obiram.emonsa4.workers.dev/play/mr-bean
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/anandwari.png", Anand Wari TV
+https://roar-obiram.emonsa4.workers.dev/play/anand-wari-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/DuckTV.png", Duck TV
+https://roar-obiram.emonsa4.workers.dev/play/duck-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/RPlusGold.png", R Plus Gold
+https://roar-obiram.emonsa4.workers.dev/play/r-plus-gold
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/tvfvo.png", TV5 Voyage
+https://roar-obiram.emonsa4.workers.dev/play/tv5-voyage
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/tvfm.png", TV5 Info
+https://roar-obiram.emonsa4.workers.dev/play/tv5-info
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/tv5ch.png", TV5 Chefs
+https://roar-obiram.emonsa4.workers.dev/play/tv5-chefs
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/blywcm.png", Eros Universe Bollywood Cinema
+https://roar-obiram.emonsa4.workers.dev/play/eros-universe-bollywood-cinema
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ersent.png", Eros Universe Entertainment
+https://roar-obiram.emonsa4.workers.dev/play/eros-universe-entertainment
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/FIATCRWorldTour.png", FIA TCR World Tour
+https://roar-obiram.emonsa4.workers.dev/play/fia-tcr-world-tour
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/NKRTV.png", NKR TV
+https://roar-obiram.emonsa4.workers.dev/play/nkr-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/YugAbhiyanTimes.jpg", Yug Abhiyan Times
+https://roar-obiram.emonsa4.workers.dev/play/yug-abhiyan-times
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/nijamtv.png", Nijam TV
+https://roar-obiram.emonsa4.workers.dev/play/nijam-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/BBC_Gujarati.png", BBC News Gujarati
+https://roar-obiram.emonsa4.workers.dev/play/bbc-news-gujarati
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/BBC_Marathi.png", BBC News Marathi
+https://roar-obiram.emonsa4.workers.dev/play/bbc-news-marathi
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/PadeltimeTV.png", Padel Time TV
+https://roar-obiram.emonsa4.workers.dev/play/padel-time-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/vedantras.png", Vedant Ras
+https://roar-obiram.emonsa4.workers.dev/play/vedant-ras
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/KnockTV.png", Knock TV
+https://roar-obiram.emonsa4.workers.dev/play/knock-tv
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/KnockNews.png", Knock News
+https://roar-obiram.emonsa4.workers.dev/play/knock-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/lokmatbharat.png", Lokmat Bharat
+https://roar-obiram.emonsa4.workers.dev/play/lokmat-bharat
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ETV_News.png", ETV News
+https://roar-obiram.emonsa4.workers.dev/play/etv-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ETV_Music.png", ETV Music
+https://roar-obiram.emonsa4.workers.dev/play/etv-music
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ETV_Josh.png", ETV Josh
+https://roar-obiram.emonsa4.workers.dev/play/etv-josh
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/debjit.png", Akhon Kolkata Plus
+https://roar-obiram.emonsa4.workers.dev/play/akhon-kolkata-plus
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/PurePink.png", Pure Pink
+https://roar-obiram.emonsa4.workers.dev/play/pure-pink
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/Rashtram.png", Rashtram
+https://roar-obiram.emonsa4.workers.dev/play/rashtram
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/GlobeonTelevision.png", Globeon Television
+https://roar-obiram.emonsa4.workers.dev/play/globeon-television
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/KnockBhakti.png", Knock Bhakti
+https://roar-obiram.emonsa4.workers.dev/play/knock-bhakti
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/BigTV24x7.png", Big TV 24x7
+https://roar-obiram.emonsa4.workers.dev/play/big-tv-24x7
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/onkarnews.png", Onkar News
+https://roar-obiram.emonsa4.workers.dev/play/onkar-news
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/banglahunttv.png", Bangla Hunt
+https://roar-obiram.emonsa4.workers.dev/play/bangla-hunt
+#EXTINF:-1 group-title="Live TV" tvg-logo="http://103.159.180.34:5001/jtvimage/ANNEntertainment.png", ANN Entertainment
+https://roar-obiram.emonsa4.workers.dev/play/ann-entertainment
