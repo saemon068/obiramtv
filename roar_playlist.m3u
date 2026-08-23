@@ -2,48 +2,138 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-08-19 22:31:58 (BD Time)
-# 📺 Channels Count: 21
+# 🕒 Last Updated: 2026-08-23 21:10:05 (BD Time)
+# 📺 Channels Count: 66
 #=================================
-#EXTINF:-1 group-title="Bangladesh*" tvg-logo="", Somoy TV
-https://roar-obiram.emonsa4.workers.dev/play/somoy-tv
-#EXTINF:-1 group-title="Bangladeshi " tvg-logo="", BTV
-https://roar-obiram.emonsa4.workers.dev/play/btv
-#EXTINF:-1 group-title="Kolkata Bangla Movies" tvg-logo="", Jalsha Movies
-https://roar-obiram.emonsa4.workers.dev/play/jalsha-movies
-#EXTINF:-1 group-title="Drama" tvg-logo="https://i.imgur.com/HVZHZGl.png", Colors Bangla HD
-https://roar-obiram.emonsa4.workers.dev/play/colors-bangla-hd
-#EXTINF:-1 group-title="Drama" tvg-logo="", Colors Bangla Cinema
-https://roar-obiram.emonsa4.workers.dev/play/colors-bangla-cinema
-#EXTINF:-1 group-title="Movies" tvg-logo="", Enterr10 Bangla
-https://roar-obiram.emonsa4.workers.dev/play/enterr10-bangla
-#EXTINF:-1 group-title="Drama" tvg-logo="", Sony AATH
-https://roar-obiram.emonsa4.workers.dev/play/sony-aath
-#EXTINF:-1 group-title="Kids" tvg-logo="", Nick
-https://roar-obiram.emonsa4.workers.dev/play/nick
-#EXTINF:-1 group-title="Kids" tvg-logo="", Sonic
-https://roar-obiram.emonsa4.workers.dev/play/sonic
-#EXTINF:-1 group-title="Documentary" tvg-logo="", Discovery
-https://roar-obiram.emonsa4.workers.dev/play/discovery
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://raw.githubusercontent.com/shamimpipon/ROAR/main/Star%20Jalsha.png", Star Jalsa
-https://roar-obiram.emonsa4.workers.dev/play/star-jalsa
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://raw.githubusercontent.com/shamimpipon/ROAR/refs/heads/main/Zee%20Bangla%20hd.jpg", Zee Bangla
-https://roar-obiram.emonsa4.workers.dev/play/zee-bangla
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/main/India/jalsha-movies-hd-in.png", জলসা Movie HD
-https://roar-obiram.emonsa4.workers.dev/play/movie-hd
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/colors-bangla-hd-in.png", Colors Bangla
-https://roar-obiram.emonsa4.workers.dev/play/colors-bangla
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://jiotv.catchup.cdn.jio.com/dare_images/images/Colors_Bangla_Cinema.png", Colours Bangla Chinema
-https://roar-obiram.emonsa4.workers.dev/play/colours-bangla-chinema
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sony-aath-in.png", Sony Aath
-https://roar-obiram.emonsa4.workers.dev/play/sony-aath-2
-#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://raw.githubusercontent.com/AsimDipto/Logo-box/refs/heads/main/India/sangeet-bangla-in.png", Sangeet Bangla
-https://roar-obiram.emonsa4.workers.dev/play/sangeet-bangla
-#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/F1t6r1gv/20240823_023247.png", Colors HD
+#EXTINF:-1 group-title="-" tvg-logo="", BBC EARTH HD
+https://roar-obiram.emonsa4.workers.dev/play/bbc-earth-hd
+#EXTINF:-1 group-title="-" tvg-logo="", TEN 2 HD
+https://roar-obiram.emonsa4.workers.dev/play/ten-2-hd
+#EXTINF:-1 group-title="-" tvg-logo="", &Prive HD
+https://roar-obiram.emonsa4.workers.dev/play/prive-hd
+#EXTINF:-1 group-title="-" tvg-logo="", &flix HD
+https://roar-obiram.emonsa4.workers.dev/play/flix-hd
+#EXTINF:-1 group-title="-" tvg-logo="", &pictures HD
+https://roar-obiram.emonsa4.workers.dev/play/pictures-hd
+#EXTINF:-1 group-title="-" tvg-logo="", &tv HD
+https://roar-obiram.emonsa4.workers.dev/play/tv-hd
+#EXTINF:-1 group-title="-" tvg-logo="", Cartoon Network
+https://roar-obiram.emonsa4.workers.dev/play/cartoon-network
+#EXTINF:-1 group-title="-" tvg-logo="", Colors Cineplex
+https://roar-obiram.emonsa4.workers.dev/play/colors-cineplex
+#EXTINF:-1 group-title="-" tvg-logo="", Colors Cineplex Bollywood
+https://roar-obiram.emonsa4.workers.dev/play/colors-cineplex-bollywood
+#EXTINF:-1 group-title="-" tvg-logo="", Colors Cineplex HD
+https://roar-obiram.emonsa4.workers.dev/play/colors-cineplex-hd
+#EXTINF:-1 group-title="-" tvg-logo="", Colors HD
 https://roar-obiram.emonsa4.workers.dev/play/colors-hd
-#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/8k3QXzvt/20240823_022853.png", Star Plus HD
-https://roar-obiram.emonsa4.workers.dev/play/star-plus-hd
-#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/6pCXvxyz/20240823_022553.png", Star Gold HD
+#EXTINF:-1 group-title="-" tvg-logo="", Colors Tamil HD
+https://roar-obiram.emonsa4.workers.dev/play/colors-tamil-hd
+#EXTINF:-1 group-title="-" tvg-logo="", D Tamil
+https://roar-obiram.emonsa4.workers.dev/play/d-tamil
+#EXTINF:-1 group-title="-" tvg-logo="", Discovery HD
+https://roar-obiram.emonsa4.workers.dev/play/discovery-hd
+#EXTINF:-1 group-title="-" tvg-logo="", Discovery Kids
+https://roar-obiram.emonsa4.workers.dev/play/discovery-kids
+#EXTINF:-1 group-title="-" tvg-logo="", Discovery Science
+https://roar-obiram.emonsa4.workers.dev/play/discovery-science
+#EXTINF:-1 group-title="-" tvg-logo="", Discovery Turbo
+https://roar-obiram.emonsa4.workers.dev/play/discovery-turbo
+#EXTINF:-1 group-title="-" tvg-logo="", Disney Channel
+https://roar-obiram.emonsa4.workers.dev/play/disney-channel
+#EXTINF:-1 group-title="-" tvg-logo="", Disney International HD
+https://roar-obiram.emonsa4.workers.dev/play/disney-international-hd
+#EXTINF:-1 group-title="-" tvg-logo="", Disney Junior
+https://roar-obiram.emonsa4.workers.dev/play/disney-junior
+#EXTINF:-1 group-title="-" tvg-logo="", ETV HD
+https://roar-obiram.emonsa4.workers.dev/play/etv-hd
+#EXTINF:-1 group-title="-" tvg-logo="", Eurosport HD
+https://roar-obiram.emonsa4.workers.dev/play/eurosport-hd
+#EXTINF:-1 group-title="-" tvg-logo="", History TV18 HD
+https://roar-obiram.emonsa4.workers.dev/play/history-tv18-hd
+#EXTINF:-1 group-title="-" tvg-logo="", Investigation Discovery
+https://roar-obiram.emonsa4.workers.dev/play/investigation-discovery
+#EXTINF:-1 group-title="-" tvg-logo="", MNX
+https://roar-obiram.emonsa4.workers.dev/play/mnx
+#EXTINF:-1 group-title="-" tvg-logo="", MTV HD
+https://roar-obiram.emonsa4.workers.dev/play/mtv-hd
+#EXTINF:-1 group-title="-" tvg-logo="", Movies Now HD
+https://roar-obiram.emonsa4.workers.dev/play/movies-now-hd
+#EXTINF:-1 group-title="-" tvg-logo="", NATIONAL GEOGRAPHIC HD
+https://roar-obiram.emonsa4.workers.dev/play/national-geographic-hd
+#EXTINF:-1 group-title="-" tvg-logo="", Nat Geo Wild HD
+https://roar-obiram.emonsa4.workers.dev/play/nat-geo-wild-hd
+#EXTINF:-1 group-title="-" tvg-logo="", Nick
+https://roar-obiram.emonsa4.workers.dev/play/nick
+#EXTINF:-1 group-title="-" tvg-logo="", Nick Jr.
+https://roar-obiram.emonsa4.workers.dev/play/nick-jr
+#EXTINF:-1 group-title="-" tvg-logo="", Romedy Now
+https://roar-obiram.emonsa4.workers.dev/play/romedy-now
+#EXTINF:-1 group-title="-" tvg-logo="", SET HD
+https://roar-obiram.emonsa4.workers.dev/play/set-hd
+#EXTINF:-1 group-title="-" tvg-logo="", SONY MAX HD
+https://roar-obiram.emonsa4.workers.dev/play/sony-max-hd
+#EXTINF:-1 group-title="-" tvg-logo="", SONY PIX HD
+https://roar-obiram.emonsa4.workers.dev/play/sony-pix-hd
+#EXTINF:-1 group-title="-" tvg-logo="", SONY SAB HD
+https://roar-obiram.emonsa4.workers.dev/play/sony-sab-hd
+#EXTINF:-1 group-title="-" tvg-logo="", SONY SPORTS TEN 1 HD
+https://roar-obiram.emonsa4.workers.dev/play/sony-sports-ten-1-hd
+#EXTINF:-1 group-title="-" tvg-logo="", SONY SPORTS TEN 3 Hindi HD
+https://roar-obiram.emonsa4.workers.dev/play/sony-sports-ten-3-hindi-hd
+#EXTINF:-1 group-title="-" tvg-logo="", SONY SPORTS TEN 5 HD
+https://roar-obiram.emonsa4.workers.dev/play/sony-sports-ten-5-hd
+#EXTINF:-1 group-title="-" tvg-logo="", STAR GOLD HD
 https://roar-obiram.emonsa4.workers.dev/play/star-gold-hd
-#EXTINF:-1 group-title="𝐈𝐧𝐝𝐢𝐚𝐧 𝐇𝐢𝐧𝐝𝐢" tvg-logo="https://i.postimg.cc/bYKYDTmy/20240823_023330.png", Star Gold Selected
-https://roar-obiram.emonsa4.workers.dev/play/star-gold-selected
+#EXTINF:-1 group-title="-" tvg-logo="", STAR Maa HD
+https://roar-obiram.emonsa4.workers.dev/play/star-maa-hd
+#EXTINF:-1 group-title="-" tvg-logo="", STAR Movies HD
+https://roar-obiram.emonsa4.workers.dev/play/star-movies-hd
+#EXTINF:-1 group-title="-" tvg-logo="", STAR Movies Select HD
+https://roar-obiram.emonsa4.workers.dev/play/star-movies-select-hd
+#EXTINF:-1 group-title="-" tvg-logo="", STAR Plus HD
+https://roar-obiram.emonsa4.workers.dev/play/star-plus-hd
+#EXTINF:-1 group-title="-" tvg-logo="", Sonic
+https://roar-obiram.emonsa4.workers.dev/play/sonic
+#EXTINF:-1 group-title="-" tvg-logo="", Sports 18 - 1 HD
+https://roar-obiram.emonsa4.workers.dev/play/sports-18-1-hd
+#EXTINF:-1 group-title="-" tvg-logo="", Sports 18 3
+https://roar-obiram.emonsa4.workers.dev/play/sports-18-3
+#EXTINF:-1 group-title="-" tvg-logo="", Star Gold 2
+https://roar-obiram.emonsa4.workers.dev/play/star-gold-2
+#EXTINF:-1 group-title="-" tvg-logo="", Star Gold 2 HD
+https://roar-obiram.emonsa4.workers.dev/play/star-gold-2-hd
+#EXTINF:-1 group-title="-" tvg-logo="", Star Gold Romance
+https://roar-obiram.emonsa4.workers.dev/play/star-gold-romance
+#EXTINF:-1 group-title="-" tvg-logo="", Star Gold Select HD
+https://roar-obiram.emonsa4.workers.dev/play/star-gold-select-hd
+#EXTINF:-1 group-title="-" tvg-logo="", Star Gold Thrills
+https://roar-obiram.emonsa4.workers.dev/play/star-gold-thrills
+#EXTINF:-1 group-title="-" tvg-logo="", Star Pravah HD
+https://roar-obiram.emonsa4.workers.dev/play/star-pravah-hd
+#EXTINF:-1 group-title="-" tvg-logo="", Star Sports 1 HD
+https://roar-obiram.emonsa4.workers.dev/play/star-sports-1-hd
+#EXTINF:-1 group-title="-" tvg-logo="", Star Sports 1 Hindi HD
+https://roar-obiram.emonsa4.workers.dev/play/star-sports-1-hindi-hd
+#EXTINF:-1 group-title="-" tvg-logo="", Star Sports Select 1 HD
+https://roar-obiram.emonsa4.workers.dev/play/star-sports-select-1-hd
+#EXTINF:-1 group-title="-" tvg-logo="", Star Sports Select 2 HD
+https://roar-obiram.emonsa4.workers.dev/play/star-sports-select-2-hd
+#EXTINF:-1 group-title="-" tvg-logo="", Sun Music HD
+https://roar-obiram.emonsa4.workers.dev/play/sun-music-hd
+#EXTINF:-1 group-title="-" tvg-logo="", TLC HD
+https://roar-obiram.emonsa4.workers.dev/play/tlc-hd
+#EXTINF:-1 group-title="-" tvg-logo="", Travelxp HD
+https://roar-obiram.emonsa4.workers.dev/play/travelxp-hd
+#EXTINF:-1 group-title="-" tvg-logo="", Vijay Super
+https://roar-obiram.emonsa4.workers.dev/play/vijay-super
+#EXTINF:-1 group-title="-" tvg-logo="", Zee Bangla Cinema
+https://roar-obiram.emonsa4.workers.dev/play/zee-bangla-cinema
+#EXTINF:-1 group-title="-" tvg-logo="", Zee Cafe HD
+https://roar-obiram.emonsa4.workers.dev/play/zee-cafe-hd
+#EXTINF:-1 group-title="-" tvg-logo="", Zee Cinema HD
+https://roar-obiram.emonsa4.workers.dev/play/zee-cinema-hd
+#EXTINF:-1 group-title="-" tvg-logo="", Zee Marathi HD
+https://roar-obiram.emonsa4.workers.dev/play/zee-marathi-hd
+#EXTINF:-1 group-title="-" tvg-logo="", Zee TV HD
+https://roar-obiram.emonsa4.workers.dev/play/zee-tv-hd
