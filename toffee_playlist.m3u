@@ -2,14 +2,14 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-08-30 18:59:16 (BD Time)
-# 📺 Channels Count: 74
+# 🕒 Last Updated: 2026-08-31 01:50:00 (BD Time)
+# 📺 Channels Count: 75
 #=================================
 #EXTINF:-1 group-title="Family" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png", Toffee TV
 https://toffee-obiramtv.emonsa4.workers.dev/toffee-tv.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://assets-prod.services.toffeelive.com/b60Ss5UBrjBfS2_RJPb8/posters/c68ede73-0be0-41b7-9130-9628a16f2feb.png", Toffee Movies
 https://toffee-obiramtv.emonsa4.workers.dev/toffee-movies.m3u8
-#EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/JS1AqZgBNnOkwJLWlwg-/posters/4672bab6-2a8f-4700-b0e7-b5b71674abf9.png", EPL channel 1
+#EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/JS1AqZgBNnOkwJLWlwg-/posters/621a47e6-a4fb-4b99-982e-3dd0bf38c38e.png", EPL channel 1
 https://toffee-obiramtv.emonsa4.workers.dev/epl-channel-1.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png", WC Match Recap
 https://toffee-obiramtv.emonsa4.workers.dev/wc-match-recap.m3u8
@@ -87,6 +87,8 @@ https://toffee-obiramtv.emonsa4.workers.dev/pogo.m3u8
 https://toffee-obiramtv.emonsa4.workers.dev/discovery-kids.m3u8
 #EXTINF:-1 group-title="Family" tvg-logo="https://assets-prod.services.toffeelive.com/IC5_-JQBv9knK3AHFDXh/posters/36df4012-80f2-4a98-9970-3b663f62093f.webp", Sony YAY
 https://toffee-obiramtv.emonsa4.workers.dev/sony-yay.m3u8
+#EXTINF:-1 group-title="Drama" tvg-logo="https://assets-prod.services.toffeelive.com/kK2aX5UBrjBfS2_RBcKf/posters/ba5dd8dc-4f87-414a-b57f-c9ecdeda5253.png", Zee Bangla
+https://toffee-obiramtv.emonsa4.workers.dev/zee-bangla.m3u8
 #EXTINF:-1 group-title="Drama" tvg-logo="https://assets-prod.services.toffeelive.com/7x0Jd5YBEef-9-uVv_Gy/posters/f9c07bfc-9fde-40d0-91a1-e28c5840f400.png", Zee Anmol
 https://toffee-obiramtv.emonsa4.workers.dev/zee-anmol.m3u8
 #EXTINF:-1 group-title="Comedy" tvg-logo="https://assets-prod.services.toffeelive.com/DK8dd5YBrjBfS2_Ru22e/posters/a4e57fd0-1853-4540-a9bc-0265ee43b5cb.png", Zing
