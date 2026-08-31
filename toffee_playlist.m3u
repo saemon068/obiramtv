@@ -2,7 +2,7 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-08-31 01:50:00 (BD Time)
+# 🕒 Last Updated: 2026-08-31 18:15:46 (BD Time)
 # 📺 Channels Count: 75
 #=================================
 #EXTINF:-1 group-title="Family" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png", Toffee TV
@@ -43,10 +43,6 @@ https://toffee-obiramtv.emonsa4.workers.dev/movie-bangla.m3u8
 https://toffee-obiramtv.emonsa4.workers.dev/nexus-tv.m3u8
 #EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/jehEA54BIxFjn23xAmdw/posters/2c276556-cbcd-4467-b627-4394bb20f250.png", Islamic TV
 https://toffee-obiramtv.emonsa4.workers.dev/islamic-tv.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://assets-prod.services.toffeelive.com/JNQA_58BalKyvLQIhiVD/posters/11e764bf-7969-4dcb-a94c-937a3bde2a7f.png", Saudi Sunnah
-https://toffee-obiramtv.emonsa4.workers.dev/saudi-sunnah.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://assets-prod.services.toffeelive.com/FdT9_p8BalKyvLQIpCUP/posters/6b39f2c6-6fe8-4720-a986-379e09968b5b.png", Saudi Quran
-https://toffee-obiramtv.emonsa4.workers.dev/saudi-quran.m3u8
 #EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/6Hz1PJwBcqxnFHJBhgkV/posters/845f1e3f-987a-47cc-a48d-ee12d8f4d419.png", Desh TV
 https://toffee-obiramtv.emonsa4.workers.dev/desh-tv.m3u8
 #EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/ES_cZZsBNnOkwJLW1Oz1/posters/b872b8f5-cb6b-45a1-a1cd-7609df51d614.png", Independent TV
@@ -69,6 +65,10 @@ https://toffee-obiramtv.emonsa4.workers.dev/france-24.m3u8
 https://toffee-obiramtv.emonsa4.workers.dev/cgtn.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/Uy6Q-JQBv9knK3AHcDUQ/posters/01709bcd-6d53-4710-a64f-bc49cecf1d61.webp", Eurosport HD
 https://toffee-obiramtv.emonsa4.workers.dev/eurosport-hd.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://assets-prod.services.toffeelive.com/JNQA_58BalKyvLQIhiVD/posters/11e764bf-7969-4dcb-a94c-937a3bde2a7f.png", Saudi Sunnah
+https://toffee-obiramtv.emonsa4.workers.dev/saudi-sunnah.m3u8
+#EXTINF:-1 group-title="Documentary" tvg-logo="https://assets-prod.services.toffeelive.com/FdT9_p8BalKyvLQIpCUP/posters/6b39f2c6-6fe8-4720-a986-379e09968b5b.png", Saudi Quran
+https://toffee-obiramtv.emonsa4.workers.dev/saudi-quran.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/py5j-JQBv9knK3AHxDTY/posters/ea3358b9-2bec-4615-a889-daa2e396c74c.webp", Sony Ten Sports 1 HD
 https://toffee-obiramtv.emonsa4.workers.dev/sony-ten-sports-1-hd.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/sy5m-JQBv9knK3AHYTTk/posters/5e40bf0e-633f-4d37-a3b2-3d606f0ac19a.png", Sony Ten Sports 2 HD
