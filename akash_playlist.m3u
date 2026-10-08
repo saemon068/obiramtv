@@ -2,8 +2,8 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-10-08 20:37:46 (BD Time)
-# 📺 Channels Count: 34
+# 🕒 Last Updated: 2026-10-09 02:05:24 (BD Time)
+# 📺 Channels Count: 35
 #=================================
 #EXTINF:-1 group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1784629064327.png",Somoy TV
 https://akashgo-obiramtv.emonsa4.workers.dev/somoy-tv.m3u8
@@ -33,6 +33,8 @@ https://akashgo-obiramtv.emonsa4.workers.dev/channel-9-hd.m3u8
 https://akashgo-obiramtv.emonsa4.workers.dev/deepto-tv-hd.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png",NTV
 https://akashgo-obiramtv.emonsa4.workers.dev/ntv.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735547218986.png",Al Jazeera
+https://akashgo-obiramtv.emonsa4.workers.dev/al-jazeera.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png",Channel I HD
 https://akashgo-obiramtv.emonsa4.workers.dev/channel-i-hd.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1788231546532.png",Bangla Vision
