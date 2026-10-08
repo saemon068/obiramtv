@@ -2,8 +2,8 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-10-07 01:59:43 (BD Time)
-# 📺 Channels Count: 29
+# 🕒 Last Updated: 2026-10-08 20:37:46 (BD Time)
+# 📺 Channels Count: 34
 #=================================
 #EXTINF:-1 group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1784629064327.png",Somoy TV
 https://akashgo-obiramtv.emonsa4.workers.dev/somoy-tv.m3u8
@@ -33,8 +33,6 @@ https://akashgo-obiramtv.emonsa4.workers.dev/channel-9-hd.m3u8
 https://akashgo-obiramtv.emonsa4.workers.dev/deepto-tv-hd.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735560841094.png",NTV
 https://akashgo-obiramtv.emonsa4.workers.dev/ntv.m3u8
-#EXTINF:-1 group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1735547218986.png",Al Jazeera
-https://akashgo-obiramtv.emonsa4.workers.dev/al-jazeera.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1740567626692.png",Channel I HD
 https://akashgo-obiramtv.emonsa4.workers.dev/channel-i-hd.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1788231546532.png",Bangla Vision
@@ -45,6 +43,8 @@ https://akashgo-obiramtv.emonsa4.workers.dev/sports-legends.m3u8
 https://akashgo-obiramtv.emonsa4.workers.dev/party-universe.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770380791303.png",Thunder Er
 https://akashgo-obiramtv.emonsa4.workers.dev/thunder-er.m3u8
+#EXTINF:-1 group-title="Infotainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1791450396186.png",HUM MASALA HD
+https://akashgo-obiramtv.emonsa4.workers.dev/hum-masala-hd.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770378074527.png",Flash Guys HD
 https://akashgo-obiramtv.emonsa4.workers.dev/flash-guys-hd.m3u8
 #EXTINF:-1 group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1746005940155.png",SRK TV
@@ -55,10 +55,20 @@ https://akashgo-obiramtv.emonsa4.workers.dev/nikki.m3u8
 https://akashgo-obiramtv.emonsa4.workers.dev/channel-1.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770313122372.png",Originals
 https://akashgo-obiramtv.emonsa4.workers.dev/originals.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1791449757742.png",HUM TV HD
+https://akashgo-obiramtv.emonsa4.workers.dev/hum-tv-hd.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1791450706877.png",HUM SITARAY HD
+https://akashgo-obiramtv.emonsa4.workers.dev/hum-sitaray-hd.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379573329.png",Funny Junior HD
 https://akashgo-obiramtv.emonsa4.workers.dev/funny-junior-hd.m3u8
+#EXTINF:-1 group-title="News" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1791450888832.png",TRT World HD
+https://akashgo-obiramtv.emonsa4.workers.dev/trt-world-hd.m3u8
 #EXTINF:-1 group-title="Movies" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770347851305.png",Cineedge HD
 https://akashgo-obiramtv.emonsa4.workers.dev/cineedge-hd.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1791451187774.png",SATV HD
+https://akashgo-obiramtv.emonsa4.workers.dev/satv-hd.m3u8
+#EXTINF:-1 group-title="Entertainment" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1791451312208.png",RTV HD
+https://akashgo-obiramtv.emonsa4.workers.dev/rtv-hd.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770379038530.png",BuddyStar HD
 https://akashgo-obiramtv.emonsa4.workers.dev/buddystar-hd.m3u8
 #EXTINF:-1 group-title="Kids" tvg-logo="https://tstatic.akash-go.com/cms-ui/images/custom-content/1770381107924.png",Smarty
