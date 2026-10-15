@@ -2,7 +2,7 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-10-15 15:53:20 (BD Time)
+# 🕒 Last Updated: 2026-10-15 20:28:37 (BD Time)
 # 📺 Channels Count: 83
 #=================================
 #EXTINF:-1 group-title="Family" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png", Toffee TV
@@ -23,8 +23,8 @@ https://toffee-obiramtv.emonsa4.workers.dev/epl-channel-4.m3u8
 https://toffee-obiramtv.emonsa4.workers.dev/epl-channel-5.m3u8
 #EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/F9UM56ABalKyvLQIr9B1/posters/26081e64-671e-44a8-95ba-a692bfaae49c.jpeg", AWSN TV
 https://toffee-obiramtv.emonsa4.workers.dev/awsn-tv.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/HHnAgJkBcqxnFHJBabwO/posters/feb54585-d123-4815-b548-ef7014df6e5d.png", FC | Live 1
-https://toffee-obiramtv.emonsa4.workers.dev/fc-live-1.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/HHnAgJkBcqxnFHJBabwO/posters/feb54585-d123-4815-b548-ef7014df6e5d.png", BFL | Live 1
+https://toffee-obiramtv.emonsa4.workers.dev/bfl-live-1.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png", WC Match Recap
 https://toffee-obiramtv.emonsa4.workers.dev/wc-match-recap.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://assets-prod.services.toffeelive.com/VC6Q-JQBv9knK3AHhTXt/posters/63e79814-8fcf-4c3e-bb66-408b2a402613.webp", CNN
