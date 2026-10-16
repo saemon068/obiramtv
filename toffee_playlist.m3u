@@ -2,8 +2,8 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-10-16 17:38:12 (BD Time)
-# 📺 Channels Count: 84
+# 🕒 Last Updated: 2026-10-17 03:50:22 (BD Time)
+# 📺 Channels Count: 83
 #=================================
 #EXTINF:-1 group-title="Family" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png", Toffee TV
 https://toffee-obiramtv.emonsa4.workers.dev/toffee-tv.m3u8
@@ -25,8 +25,6 @@ https://toffee-obiramtv.emonsa4.workers.dev/epl-channel-2.m3u8
 https://toffee-obiramtv.emonsa4.workers.dev/epl-channel-3.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/OyEz-ZgBEef-9-uVnhcx/posters/065c754d-3080-47cf-a2f0-1e3cc5f3e849.png", EPL Channel 4
 https://toffee-obiramtv.emonsa4.workers.dev/epl-channel-4.m3u8
-#EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/6CHi_5gBEef-9-uV-Bx_/posters/97d10d6c-95a5-4b31-8871-50e46d3c81fc.png", EPL Channel 5
-https://toffee-obiramtv.emonsa4.workers.dev/epl-channel-5.m3u8
 #EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/F9UM56ABalKyvLQIr9B1/posters/26081e64-671e-44a8-95ba-a692bfaae49c.jpeg", AWSN TV
 https://toffee-obiramtv.emonsa4.workers.dev/awsn-tv.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://assets-prod.services.toffeelive.com/VC6Q-JQBv9knK3AHhTXt/posters/63e79814-8fcf-4c3e-bb66-408b2a402613.webp", CNN
