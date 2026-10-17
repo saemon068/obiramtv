@@ -64,10 +64,10 @@ jobs:
           # ==========================================
           # ৪টি লিংক প্রসেস করা হচ্ছে
           # ==========================================
-          process_playlist "akash" "https://akashgo-obiramtv.emonsa4.workers.dev/akash_secret_list_v1.m3u" "akash_playlist.m3u"
+        
           process_playlist "toffee" "https://toffee-obiramtv.emonsa4.workers.dev/obiram_secret_list_v1.m3u" "toffee_playlist.m3u"
           process_playlist "ay" "https://ay-obiram.emonsa4.workers.dev/akash_secret_list_v1.m3u" "ay_playlist.m3u"
-          process_playlist "roar" "https://roar-obiram.emonsa4.workers.dev/obiram-vip-data" "roar_playlist.m3u"
+         
 
           # ==========================================
           # গিটহাবে শুধু মেইন ৪টি ফাইল সেভ করা হবে
