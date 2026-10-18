@@ -2,8 +2,8 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-10-17 19:12:13 (BD Time)
-# 📺 Channels Count: 80
+# 🕒 Last Updated: 2026-10-18 11:51:44 (BD Time)
+# 📺 Channels Count: 81
 #=================================
 #EXTINF:-1 group-title="Family" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png", Toffee TV
 https://toffee-obiramtv.emonsa4.workers.dev/toffee-tv.m3u8
@@ -13,12 +13,14 @@ https://toffee-obiramtv.emonsa4.workers.dev/toffee-movies.m3u8
 https://toffee-obiramtv.emonsa4.workers.dev/wc-match-recap.m3u8
 #EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/JS1AqZgBNnOkwJLWlwg-/posters/d2301924-1416-420b-a47b-6ec278261d70.png", EPL channel 1
 https://toffee-obiramtv.emonsa4.workers.dev/epl-channel-1.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/Mi1QqZgBNnOkwJLWxggo/posters/cb06d808-dcfc-4af0-b6c6-0d33263c73a7.png", EPL channel 2
+#EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/Mi1QqZgBNnOkwJLWxggo/posters/00c9ee6e-1210-48a7-a2b9-0316dd2ad2d2.png", EPL channel 2
 https://toffee-obiramtv.emonsa4.workers.dev/epl-channel-2.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/Pi1TqZgBNnOkwJLWVggf/posters/3bdc3803-a9c8-4908-a3f5-0f30a4d0ba4f.png", EPL channel 3
+#EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/Pi1TqZgBNnOkwJLWVggf/posters/e1d291f9-5d0a-49a9-b896-58f13f29b077.png", EPL channel 3
 https://toffee-obiramtv.emonsa4.workers.dev/epl-channel-3.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/OyEz-ZgBEef-9-uVnhcx/posters/065c754d-3080-47cf-a2f0-1e3cc5f3e849.png", EPL Channel 4
+#EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/OyEz-ZgBEef-9-uVnhcx/posters/7f048099-d379-4a41-a99b-9a3dddc928fc.png", EPL Channel 4
 https://toffee-obiramtv.emonsa4.workers.dev/epl-channel-4.m3u8
+#EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/6CHi_5gBEef-9-uV-Bx_/posters/97d10d6c-95a5-4b31-8871-50e46d3c81fc.png", EPL Channel 5
+https://toffee-obiramtv.emonsa4.workers.dev/epl-channel-5.m3u8
 #EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/F9UM56ABalKyvLQIr9B1/posters/26081e64-671e-44a8-95ba-a692bfaae49c.jpeg", AWSN TV
 https://toffee-obiramtv.emonsa4.workers.dev/awsn-tv.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://assets-prod.services.toffeelive.com/VC6Q-JQBv9knK3AHhTXt/posters/63e79814-8fcf-4c3e-bb66-408b2a402613.webp", CNN
