@@ -2,8 +2,8 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-10-19 12:28:16 (BD Time)
-# 📺 Channels Count: 76
+# 🕒 Last Updated: 2026-10-20 01:29:43 (BD Time)
+# 📺 Channels Count: 80
 #=================================
 #EXTINF:-1 group-title="Family" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png", Toffee TV
 https://toffee-obiramtv.emonsa4.workers.dev/toffee-tv.m3u8
@@ -11,8 +11,16 @@ https://toffee-obiramtv.emonsa4.workers.dev/toffee-tv.m3u8
 https://toffee-obiramtv.emonsa4.workers.dev/toffee-movies.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png", WC Match Recap
 https://toffee-obiramtv.emonsa4.workers.dev/wc-match-recap.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/HHnAgJkBcqxnFHJBabwO/posters/3c86f68e-6dbb-4c05-9e47-445c65633ccc.png", BFL | Live 1
+https://toffee-obiramtv.emonsa4.workers.dev/bfl-live-1.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/MXnGgJkBcqxnFHJBILyR/posters/f8781d12-0f49-4897-8426-7406f0ae93f2.png", FC | Live 2
+https://toffee-obiramtv.emonsa4.workers.dev/fc-live-2.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/LnlKhJkBcqxnFHJBU8GM/posters/d0d2f903-5843-4de4-bbc5-7317866f78e2.png", BFL | Live 3
+https://toffee-obiramtv.emonsa4.workers.dev/bfl-live-3.m3u8
 #EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/F9UM56ABalKyvLQIr9B1/posters/26081e64-671e-44a8-95ba-a692bfaae49c.jpeg", AWSN TV
 https://toffee-obiramtv.emonsa4.workers.dev/awsn-tv.m3u8
+#EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/itdbVKEBalKyvLQI94RR/posters/f92c276c-543c-40db-b9f0-a53b86c497a2.png", SAFF Live 1
+https://toffee-obiramtv.emonsa4.workers.dev/saff-live-1.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://assets-prod.services.toffeelive.com/VC6Q-JQBv9knK3AHhTXt/posters/63e79814-8fcf-4c3e-bb66-408b2a402613.webp", CNN
 https://toffee-obiramtv.emonsa4.workers.dev/cnn.m3u8
 #EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/Xi_Ga5oBNnOkwJLWkhKP/posters/ef2899d5-1ae0-4fee-aee5-45f9b0b3ba80.png", Somoy TV
