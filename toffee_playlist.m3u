@@ -2,8 +2,8 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-10-25 12:52:51 (BD Time)
-# 📺 Channels Count: 82
+# 🕒 Last Updated: 2026-10-25 22:05:10 (BD Time)
+# 📺 Channels Count: 78
 #=================================
 #EXTINF:-1 group-title="Family" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png", Toffee TV
 https://toffee-obiramtv.emonsa4.workers.dev/toffee-tv.m3u8
@@ -11,14 +11,6 @@ https://toffee-obiramtv.emonsa4.workers.dev/toffee-tv.m3u8
 https://toffee-obiramtv.emonsa4.workers.dev/toffee-movies.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png", WC Match Recap
 https://toffee-obiramtv.emonsa4.workers.dev/wc-match-recap.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/LnlKhJkBcqxnFHJBU8GM/posters/ec4cb52b-a5cf-4eba-8f03-7fc73f75bf55.png", FC | Live 3
-https://toffee-obiramtv.emonsa4.workers.dev/fc-live-3.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/Mi1QqZgBNnOkwJLWxggo/posters/4ce2003f-eab5-43d6-b9c7-45f53ee72efa.png", EPL channel 2
-https://toffee-obiramtv.emonsa4.workers.dev/epl-channel-2.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/Pi1TqZgBNnOkwJLWVggf/posters/6d382f56-0635-4919-a43d-4ac7e165e5ab.png", EPL channel 3
-https://toffee-obiramtv.emonsa4.workers.dev/epl-channel-3.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/OyEz-ZgBEef-9-uVnhcx/posters/6e9a0442-fadc-4a3c-9f7d-0c054a89f5d3.png", EPL Channel 4
-https://toffee-obiramtv.emonsa4.workers.dev/epl-channel-4.m3u8
 #EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/6CHi_5gBEef-9-uV-Bx_/posters/1adc1c66-8c67-4e6c-856a-51a7ffc006a1.png", EPL Channel 5
 https://toffee-obiramtv.emonsa4.workers.dev/epl-channel-5.m3u8
 #EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/F9UM56ABalKyvLQIr9B1/posters/26081e64-671e-44a8-95ba-a692bfaae49c.jpeg", AWSN TV
