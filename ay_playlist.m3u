@@ -2,8 +2,8 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-10-17 11:49:23 (BD Time)
-# 📺 Channels Count: 232
+# 🕒 Last Updated: 2026-11-03 08:04:03 (BD Time)
+# 📺 Channels Count: 233
 #=================================
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_fb867854a7203c153946b83ab4e972e6_playmist_ananda_tv_400x400.jpg",Ananda TV
 https://ay-obiram.emonsa4.workers.dev/ananda-tv.m3u8
@@ -275,6 +275,8 @@ https://ay-obiram.emonsa4.workers.dev/sony-aath.m3u8
 https://ay-obiram.emonsa4.workers.dev/tv9-bangla.m3u8
 #EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_281d2359842d306ac384314f30059648_playmist_zee_24_ghanta_400x400.jpg",Zee 24 Ghanta
 https://ay-obiram.emonsa4.workers.dev/zee-24-ghanta.m3u8
+#EXTINF:-1 group-title="Indian Bangla" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-06-24/1388170186b34ba8e86eb48111d369d8.jpg",Zee Bangla Sonar
+https://ay-obiram.emonsa4.workers.dev/zee-bangla-sonar.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_523e2066fb11ded3d8340292d0082138_playmist_and_pictures_hd_400x400.jpg",& Pictures
 https://ay-obiram.emonsa4.workers.dev/pictures.m3u8
 #EXTINF:-1 group-title="Hindi" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_320caef1d7d4c16d902ae73584767638_playmist_9x_jalwa_400x400.jpg",9x Jalwa
