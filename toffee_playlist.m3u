@@ -2,8 +2,8 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-11-02 15:59:42 (BD Time)
-# 📺 Channels Count: 76
+# 🕒 Last Updated: 2026-11-03 15:25:39 (BD Time)
+# 📺 Channels Count: 74
 #=================================
 #EXTINF:-1 group-title="Family" tvg-logo="https://assets-prod.services.toffeelive.com/DNMXs5UBm1RY_In7IJ72/posters/737b5c6e-8435-4cd8-81de-16a499fa6f4e.png", Toffee TV
 https://toffee-obiramtv.emonsa4.workers.dev/toffee-tv.m3u8
@@ -11,7 +11,7 @@ https://toffee-obiramtv.emonsa4.workers.dev/toffee-tv.m3u8
 https://toffee-obiramtv.emonsa4.workers.dev/toffee-movies.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/V__o054BObUt2AG6LL5C/posters/84590b8d-6430-4ba8-a0a5-757bf2f57c05.png", WC Match Recap
 https://toffee-obiramtv.emonsa4.workers.dev/wc-match-recap.m3u8
-#EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/JS1AqZgBNnOkwJLWlwg-/posters/f835bbd5-e392-4f3c-94e4-aa3cd6c3911b.png", EPL channel 1
+#EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/JS1AqZgBNnOkwJLWlwg-/posters/74a3b409-4bc6-4055-8960-cd27cb7ccc1f.png", EPL channel 1
 https://toffee-obiramtv.emonsa4.workers.dev/epl-channel-1.m3u8
 #EXTINF:-1 group-title="Live Action" tvg-logo="https://assets-prod.services.toffeelive.com/F9UM56ABalKyvLQIr9B1/posters/26081e64-671e-44a8-95ba-a692bfaae49c.jpeg", AWSN TV
 https://toffee-obiramtv.emonsa4.workers.dev/awsn-tv.m3u8
@@ -61,8 +61,6 @@ https://toffee-obiramtv.emonsa4.workers.dev/channel-news-asia.m3u8
 https://toffee-obiramtv.emonsa4.workers.dev/trt-world.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://assets-prod.services.toffeelive.com/7oPt_p8BJIOHmUelhXWj/posters/d6328092-9437-4806-8dc7-d00732d56832.png", DW
 https://toffee-obiramtv.emonsa4.workers.dev/dw.m3u8
-#EXTINF:-1 group-title="Documentary" tvg-logo="https://assets-prod.services.toffeelive.com/S9bzFaEBalKyvLQIrh3b/posters/f400a8bc-d83c-40f8-93e8-206314ad332d.png", Al Jazeera
-https://toffee-obiramtv.emonsa4.workers.dev/al-jazeera.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://assets-prod.services.toffeelive.com/CNT2_p8BalKyvLQIBSUG/posters/1e937055-a014-4274-bb69-b1b56d18c434.png", Russia Today
 https://toffee-obiramtv.emonsa4.workers.dev/russia-today.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://assets-prod.services.toffeelive.com/G4ML_58BJIOHmUelNXZr/posters/becc2fba-4ed5-4f43-af2d-3c1ea2b4ee57.png", France 24
@@ -75,10 +73,6 @@ https://toffee-obiramtv.emonsa4.workers.dev/eurosport-hd.m3u8
 https://toffee-obiramtv.emonsa4.workers.dev/saudi-sunnah.m3u8
 #EXTINF:-1 group-title="Documentary" tvg-logo="https://assets-prod.services.toffeelive.com/FdT9_p8BalKyvLQIpCUP/posters/6b39f2c6-6fe8-4720-a986-379e09968b5b.png", Saudi Quran
 https://toffee-obiramtv.emonsa4.workers.dev/saudi-quran.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/py5j-JQBv9knK3AHxDTY/posters/ea3358b9-2bec-4615-a889-daa2e396c74c.webp", Sony Ten Sports 1 HD
-https://toffee-obiramtv.emonsa4.workers.dev/sony-ten-sports-1-hd.m3u8
-#EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/sy5m-JQBv9knK3AHYTTk/posters/5e40bf0e-633f-4d37-a3b2-3d606f0ac19a.png", Sony Ten Sports 2 HD
-https://toffee-obiramtv.emonsa4.workers.dev/sony-ten-sports-2-hd.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/vi5n-JQBv9knK3AHqzTC/posters/d171fd4d-0369-4213-b0c5-e241974f5459.png", Sony Ten Sports 5 HD
 https://toffee-obiramtv.emonsa4.workers.dev/sony-ten-sports-5-hd.m3u8
 #EXTINF:-1 group-title="Sports" tvg-logo="https://assets-prod.services.toffeelive.com/ra2x_pQBrjBfS2_RWG9l/posters/795170c2-ec78-457e-9fa0-54a23d23361c.webp", Sony Ten Cricket
@@ -147,6 +141,8 @@ https://toffee-obiramtv.emonsa4.workers.dev/animal-planet-hd.m3u8
 https://toffee-obiramtv.emonsa4.workers.dev/sony-bbc-earth-hd.m3u8
 #EXTINF:-1 group-title="Adventure" tvg-logo="https://assets-prod.services.toffeelive.com/KC6x-JQBv9knK3AHqjYc/posters/55e554f1-dbbb-47bd-97fe-fca878726c4c.webp", Discovery HD
 https://toffee-obiramtv.emonsa4.workers.dev/discovery-hd.m3u8
+#EXTINF:-1 group-title="Adventure" tvg-logo="https://assets-prod.services.toffeelive.com/KS6x-JQBv9knK3AHwDZy/posters/6594d216-aaca-4eee-b6f5-bbc6b80feb15.webp", Discovery
+https://toffee-obiramtv.emonsa4.workers.dev/discovery.m3u8
 #EXTINF:-1 group-title="Science Fiction" tvg-logo="https://assets-prod.services.toffeelive.com/AS6s-JQBv9knK3AHDTZb/posters/eab8fd0f-9351-464c-b45e-332f38b49f4b.webp", Discovery Science
 https://toffee-obiramtv.emonsa4.workers.dev/discovery-science.m3u8
 #EXTINF:-1 group-title="Adventure" tvg-logo="https://assets-prod.services.toffeelive.com/Ay6s-JQBv9knK3AHJTY1/posters/e8f65578-e82d-4e4a-a1ff-073becc5bd71.webp", Discovery Turbo
