@@ -2,8 +2,8 @@
 #=================================
 # 🖥️ Developed by: S.A.Emon
 # 🔗 Telegram: https://t.me/Obiram_tv
-# 🕒 Last Updated: 2026-11-03 08:04:03 (BD Time)
-# 📺 Channels Count: 233
+# 🕒 Last Updated: 2026-11-05 15:52:56 (BD Time)
+# 📺 Channels Count: 234
 #=================================
 #EXTINF:-1 group-title="Bangla" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-02/images_fb867854a7203c153946b83ab4e972e6_playmist_ananda_tv_400x400.jpg",Ananda TV
 https://ay-obiram.emonsa4.workers.dev/ananda-tv.m3u8
@@ -455,6 +455,8 @@ https://ay-obiram.emonsa4.workers.dev/eman-channel.m3u8
 https://ay-obiram.emonsa4.workers.dev/g-series.m3u8
 #EXTINF:-1 group-title="Urdhu" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-16/images_ec64adf4b1ed1539485f005a4eeb4ad5_playmist_geo_ent400x400.jpg",Geo ENT
 https://ay-obiram.emonsa4.workers.dev/geo-ent.m3u8
+#EXTINF:-1 group-title="Live TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-11-05/images_868f4d3f6f0045f3563707cd0187548f_playmist_hum_tv_logo.jpg",Hum TV
+https://ay-obiram.emonsa4.workers.dev/hum-tv.m3u8
 #EXTINF:-1 group-title="Religious" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-07-15/images_bf2a332556cb4c5da9861e7b981aac1d_playmist_islam.jpg",Islam TV
 https://ay-obiram.emonsa4.workers.dev/islam-tv.m3u8
 #EXTINF:-1 group-title="Live TV" tvg-logo="https://web.aynaott.com/storage/019dd92f-107c-7056-9e79-e5233f6e51d9/uploads/images/2026-04-09/images_db7e2ba86e75cc789ccffacd59521127_playmist_oman_sports_tv_hd400x400.jpg",Oman Sports TV HD
