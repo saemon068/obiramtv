@@ -237,6 +237,13 @@
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Frozen-2013.jpg",
     "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2013/Frozen/fanart.jpg"
   },
+  "Golam-2024.png": {
+    "title": "Golam (2024)",
+    "year": "2024",
+    "file": "Golam-2024.png",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Golam-2024.png",
+    "sourceUrl": "http://103.203.93.6/Kollywood%20(Tamil)/2024/Golam/Image-2024-08-10T143003.429-185x278.png"
+  },
   "Gold-2017.png": {
     "title": "Gold (2017)",
     "year": "2017",
@@ -285,6 +292,13 @@
     "file": "Kalinga-2024.jpg",
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Kalinga-2024.jpg",
     "sourceUrl": "http://103.203.93.6/Kollywood%20(Tamil)/2024/Kalinga/y62MzCi3Auwb1T4aGDPNE2gLyIE-185x278.jpg"
+  },
+  "Kanguva-2024.jpg": {
+    "title": "Kanguva (2024)",
+    "year": "2024",
+    "file": "Kanguva-2024.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Kanguva-2024.jpg",
+    "sourceUrl": "http://103.203.93.6/Kollywood%20(Tamil)/2024/Kanguva/1ZXWgh0Z67q2QOErAxO0RkFdffs-185x278.jpg"
   },
   "King-Aurthur-2017.jpg": {
     "title": "King Aurthur (2017)",
@@ -349,12 +363,26 @@
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Love-Bites-2013.jpg",
     "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2013/Love%20Bites/fanart.jpg"
   },
+  "Lucky-Baskhar-2024.jpg": {
+    "title": "Lucky Baskhar (2024)",
+    "year": "2024",
+    "file": "Lucky-Baskhar-2024.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Lucky-Baskhar-2024.jpg",
+    "sourceUrl": "http://103.203.93.6/Kollywood%20(Tamil)/2024/Lucky%20Baskhar/a47JQFl9L7VDa79tEvnTOJe0rPa-185x278.jpg"
+  },
   "Maaman-Dual-2025.jpg": {
     "title": "Maaman Dual (2025)",
     "year": "2025",
     "file": "Maaman-Dual-2025.jpg",
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Maaman-Dual-2025.jpg",
     "sourceUrl": "http://103.203.93.19/Action%20Movie%20(Mixed)/2025/Maaman.2025.Dual.720p.HEVC/a0BsRj9qQu8L2arBAHcbbfrVrB7-185x278.jpg"
+  },
+  "Martin-2024.jpg": {
+    "title": "Martin (2024)",
+    "year": "2024",
+    "file": "Martin-2024.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Martin-2024.jpg",
+    "sourceUrl": "http://103.203.93.6/Kollywood%20(Tamil)/2024/Martin/m.JPG"
   },
   "Mass-Jathara-Dub-2025.jpg": {
     "title": "Mass Jathara Dub (2025)",
@@ -516,6 +544,20 @@
     "file": "Rust-Road-Dual-2023.jpg",
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Rust-Road-Dual-2023.jpg",
     "sourceUrl": "http://103.203.93.19/Action%20Movie%20(Mixed)/2025/Rust.Road.2023.Dual.720p.HEVC/eUdinvlcHGRFl9zUT5mzFpYzScY-185x278.jpg"
+  },
+  "SIR-2024.png": {
+    "title": "SIR (2024)",
+    "year": "2024",
+    "file": "SIR-2024.png",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/SIR-2024.png",
+    "sourceUrl": "http://103.203.93.6/Kollywood%20(Tamil)/2024/SIR/Image-2024-12-12T003356.345-185x278.png"
+  },
+  "Sammathame-2024.jpg": {
+    "title": "Sammathame (2024)",
+    "year": "2024",
+    "file": "Sammathame-2024.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Sammathame-2024.jpg",
+    "sourceUrl": "http://103.203.93.6/Kollywood%20(Tamil)/2024/Sammathame/sMclqCrMGcAP4N2OdM8m09dcNrw-185x278.jpg"
   },
   "Saving-Banksy-2017.jpg": {
     "title": "Saving Banksy (2017)",
