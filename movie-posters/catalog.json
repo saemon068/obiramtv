@@ -55,6 +55,13 @@
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Atlantis-End-Of-A-World-Birth-Of-A-Legend-2013.jpg",
     "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2013/Atlantis%20End%20of%20a%20World%20Birth%20of%20a%20Legend/fanart.jpg"
   },
+  "Avatar-2013.jpg": {
+    "title": "Avatar (2013)",
+    "year": "2013",
+    "file": "Avatar-2013.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Avatar-2013.jpg",
+    "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2013/Avatar/fanart.jpg"
+  },
   "Avatar-Edition-Dual-2009.jpg": {
     "title": "Avatar Edition Dual (2009)",
     "year": "2009",
@@ -201,6 +208,27 @@
     "file": "Dorian-Gray-2013.jpg",
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Dorian-Gray-2013.jpg",
     "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2013/Dorian%20Gray/fanart.jpg"
+  },
+  "Enemies-Closer-2013.jpg": {
+    "title": "Enemies Closer (2013)",
+    "year": "2013",
+    "file": "Enemies-Closer-2013.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Enemies-Closer-2013.jpg",
+    "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2013/Enemies%20Closer/fanart.jpg"
+  },
+  "Escap-Plan-2013.jpg": {
+    "title": "Escap Plan (2013)",
+    "year": "2013",
+    "file": "Escap-Plan-2013.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Escap-Plan-2013.jpg",
+    "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2013/Escap%20Plan/fanart.jpg"
+  },
+  "Evil-Dead-2013.jpg": {
+    "title": "Evil Dead (2013)",
+    "year": "2013",
+    "file": "Evil-Dead-2013.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Evil-Dead-2013.jpg",
+    "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2013/Evil%20Dead/fanart.jpg"
   },
   "Frozen-2013.jpg": {
     "title": "Frozen (2013)",
@@ -698,6 +726,13 @@
     "file": "Wolf-Creek-2-Hindi-2-0-English-5-1-2013.jpg",
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Wolf-Creek-2-Hindi-2-0-English-5-1-2013.jpg",
     "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2013/Wolf%20Creek%202%202013%20BluRay%201080p%20Hindi%202.0%20%20English%205.1%20x264%20ESub/uELzdTzPOpZwSFqBbwpjuKE7UW3.jpg"
+  },
+  "World-War-Z-2013.jpg": {
+    "title": "World War Z (2013)",
+    "year": "2013",
+    "file": "World-War-Z-2013.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/World-War-Z-2013.jpg",
+    "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2013/World%20War%20Z/fanart.jpg"
   },
   "X-Men-Apocalypse-2016.jpg": {
     "title": "X-Men- Apocalypse (2016)",
