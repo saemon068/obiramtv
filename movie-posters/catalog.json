@@ -139,6 +139,20 @@
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Dhurandhar-Hindi-2025.jpg",
     "sourceUrl": "http://103.203.93.19/Action%20Movie%20(Mixed)/2025/Dhurandhar%202025%20Hindi%20HDTC%20720p/xqyyOSF2OB6LsgeV6X2ACFTkvf-185x278.jpg"
   },
+  "Diablo-Dual-2025.jpg": {
+    "title": "Diablo Dual (2025)",
+    "year": "2025",
+    "file": "Diablo-Dual-2025.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Diablo-Dual-2025.jpg",
+    "sourceUrl": "http://103.203.93.19/Action%20Movie%20(Mixed)/2025/Diablo.2025.Dual.720p.HEVC/qhHXBt9y24YHJOkmtfsmB7JtTBp-185x278.jpg"
+  },
+  "Frozen-2013.jpg": {
+    "title": "Frozen (2013)",
+    "year": "2013",
+    "file": "Frozen-2013.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Frozen-2013.jpg",
+    "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2013/Frozen/fanart.jpg"
+  },
   "Gold-2017.png": {
     "title": "Gold (2017)",
     "year": "2017",
@@ -272,6 +286,13 @@
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Mr-And-Mrs-SMith-DC-Dual-2005.jpg",
     "sourceUrl": "http://103.203.93.19/Action%20Movie%20(Mixed)/2025/Mr.and.Mrs.SMith.2005.DC.Dual.720p.HEVC/fbSxmAyFLYMOR7WcCBfHGCZZzlu-185x278.jpg"
   },
+  "Mr-Deeds-2013.jpg": {
+    "title": "Mr. Deeds (2013)",
+    "year": "2013",
+    "file": "Mr-Deeds-2013.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Mr-Deeds-2013.jpg",
+    "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2013/Mr.%20Deeds/fanart.jpg"
+  },
   "My-Beloved-Bodyguard-Dual-2025.jpg": {
     "title": "My Beloved Bodyguard Dual (2025)",
     "year": "2025",
@@ -383,6 +404,13 @@
     "file": "Sniper-The-Last-Stand-Dual-2025.jpg",
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Sniper-The-Last-Stand-Dual-2025.jpg",
     "sourceUrl": "http://103.203.93.19/Action%20Movie%20(Mixed)/2025/Sniper.The.Last.Stand.2025.Dual.720p.HEVC/TVvIyCsFCmLk9MRLbAZi4X8f32-185x278.jpg"
+  },
+  "Tere-Ishk-Mein-V2-Hindi-Clean-2025.png": {
+    "title": "Tere Ishk Mein V2 Hindi Clean (2025)",
+    "year": "2025",
+    "file": "Tere-Ishk-Mein-V2-Hindi-Clean-2025.png",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Tere-Ishk-Mein-V2-Hindi-Clean-2025.png",
+    "sourceUrl": "http://103.203.93.19/Action%20Movie%20(Mixed)/2025/Tere.Ishk.Mein.2025.V2.HDTC.Hindi.Clean.720p/Image-2025-11-28T195111.317-185x278.png"
   },
   "The-Angry-Birds-Movie-2016.jpg": {
     "title": "The Angry Birds Movie (2016)",
@@ -531,12 +559,26 @@
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/White-Island-2016.jpg",
     "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2016/White%20Island/fanart.jpg"
   },
+  "White-Squall-2013.png": {
+    "title": "White Squall (2013)",
+    "year": "2013",
+    "file": "White-Squall-2013.png",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/White-Squall-2013.png",
+    "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2013/White%20Squall/clearlogo.png"
+  },
   "Who-Gets-The-Dog-2016.png": {
     "title": "Who Gets the Dog (2016)",
     "year": "2016",
     "file": "Who-Gets-The-Dog-2016.png",
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Who-Gets-The-Dog-2016.png",
     "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2016/Who%20Gets%20the%20Dog/clearlogo.png"
+  },
+  "Wolf-Creek-2-Hindi-2-0-English-5-1-2013.jpg": {
+    "title": "Wolf Creek 2 Hindi 2 0 English 5 1 (2013)",
+    "year": "2013",
+    "file": "Wolf-Creek-2-Hindi-2-0-English-5-1-2013.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Wolf-Creek-2-Hindi-2-0-English-5-1-2013.jpg",
+    "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2013/Wolf%20Creek%202%202013%20BluRay%201080p%20Hindi%202.0%20%20English%205.1%20x264%20ESub/uELzdTzPOpZwSFqBbwpjuKE7UW3.jpg"
   },
   "X-Men-Apocalypse-2016.jpg": {
     "title": "X-Men- Apocalypse (2016)",
