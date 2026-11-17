@@ -34,6 +34,13 @@
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Alarum-Dual-2025.jpg",
     "sourceUrl": "http://103.203.93.19/Action%20Movie%20(Mixed)/2025/Alarum.2025.Dual.720p.HEVC/ckyYZf5cGTSOwF8LWIRqeThyh18-185x278.jpg"
   },
+  "Amaran-2024.jpg": {
+    "title": "Amaran (2024)",
+    "year": "2024",
+    "file": "Amaran-2024.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Amaran-2024.jpg",
+    "sourceUrl": "http://103.203.93.6/Kollywood%20(Tamil)/2024/Amaran/kcspKUpofalIuPgAndZOMJz0hwg-185x278.jpg"
+  },
   "Americana-Dual-2023.jpg": {
     "title": "Americana Dual (2023)",
     "year": "2023",
@@ -152,6 +159,13 @@
     "file": "Captain-Underpants-2017.jpg",
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Captain-Underpants-2017.jpg",
     "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2017/Captain%20Underpants/fanart.jpg"
+  },
+  "Chhichhore-Hindi-2019.jpg": {
+    "title": "Chhichhore Hindi (2019)",
+    "year": "2019",
+    "file": "Chhichhore-Hindi-2019.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Chhichhore-Hindi-2019.jpg",
+    "sourceUrl": "http://103.203.93.4/Bollywood%20(Hindi)/2019/Chhichhore%202019%20WebRip%20Hindi%20720p%20x264%20AAC%20ESub%20-/wlhoqgco2ltfBtVU77qhHAHRQm0-185x278.jpg"
   },
   "Curse-Of-The-Mayans-2013.jpg": {
     "title": "Curse Of The Mayans (2013)",
@@ -293,6 +307,13 @@
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Handsome-A-Netflix-Mystery-Movie-2017.png",
     "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2017/Handsome-%20A%20Netflix%20Mystery%20Movie/clearlogo.png"
   },
+  "Iqbal-WEB-900MB-2005.jpg": {
+    "title": "Iqbal WEB- 900MB (2005)",
+    "year": "2005",
+    "file": "Iqbal-WEB-900MB-2005.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Iqbal-WEB-900MB-2005.jpg",
+    "sourceUrl": "http://103.203.93.4/Bollywood%20(Hindi)/2019/Iqbal.2005.720p.WEB-HD.x264.900MB/oPdtscy3BYDsM83wddWkmQxcTEg.jpg"
+  },
   "Jatadhara-Dual-2025.png": {
     "title": "Jatadhara Dual (2025)",
     "year": "2025",
@@ -376,6 +397,13 @@
     "file": "Lady-Expendables-2017.jpg",
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Lady-Expendables-2017.jpg",
     "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2017/Lady%20Expendables/poster.jpg"
+  },
+  "Last-World-War-2024.jpg": {
+    "title": "Last World War (2024)",
+    "year": "2024",
+    "file": "Last-World-War-2024.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Last-World-War-2024.jpg",
+    "sourceUrl": "http://103.203.93.6/Kollywood%20(Tamil)/2024/Last%20World%20War/tJOfISYey4xqo4DtcVVf9x1AwxW-185x278.jpg"
   },
   "Law-Abiding-Citizen-2013.jpg": {
     "title": "Law abiding citizen (2013)",
@@ -685,12 +713,26 @@
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Sunflower-Shopia-Loren-2013.jpg",
     "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2013/Sunflower%20Shopia%20Loren/poster.jpg"
   },
+  "Super-30-Hindi-2019.jpg": {
+    "title": "Super 30 Hindi (2019)",
+    "year": "2019",
+    "file": "Super-30-Hindi-2019.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Super-30-Hindi-2019.jpg",
+    "sourceUrl": "http://103.203.93.4/Bollywood%20(Hindi)/2019/Super%2030%202019%20WebRip%20Hindi%20720p%20x264%20AAC%20ESub%20-/5Gs6FSbnIUAklCzEgnQroqhdJiF-185x278.jpg"
+  },
   "Swag-2024.jpg": {
     "title": "Swag (2024)",
     "year": "2024",
     "file": "Swag-2024.jpg",
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Swag-2024.jpg",
     "sourceUrl": "http://103.203.93.6/Kollywood%20(Tamil)/2024/Swag/MV5BOTAzOGE3MTctN2VlZi00ZWFlLThlYjQtYmM3NDdmOWQ3ZmNiXkEyXkFqcGc@._V1_SX300.jpg"
+  },
+  "Taxi-Driver.jpg": {
+    "title": "Taxi Driver",
+    "year": "",
+    "file": "Taxi-Driver.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Taxi-Driver.jpg",
+    "sourceUrl": "http://103.203.93.6/Korian%20Movie%20Series/Taxi%20Driver%20%20Season%201/Taxi%20Driver%20%20Season%201/m7X3xCvCrVujfGTk9lKnXT2WGKS-185x278.jpg"
   },
   "Tenant-2024.png": {
     "title": "Tenant (2024)",
