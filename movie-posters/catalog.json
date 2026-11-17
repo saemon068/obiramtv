@@ -1,4 +1,11 @@
 {
+  "A-Time-For-Bravery-Dual-2025.jpg": {
+    "title": "A Time For Bravery Dual (2025)",
+    "year": "2025",
+    "file": "A-Time-For-Bravery-Dual-2025.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/A-Time-For-Bravery-Dual-2025.jpg",
+    "sourceUrl": "http://103.203.93.19/Action%20Movie%20(Mixed)/2025/A.Time.For.Bravery.2025.Dual.720p.HEVC/qKKG22O5pFxqglG0oMjWTjQWCNl-185x278%20(1).jpg"
+  },
   "Akhanda-2-Hindi-LiNE-2025.jpg": {
     "title": "Akhanda-2 Hindi LiNE (2025)",
     "year": "2025",
@@ -19,6 +26,13 @@
     "file": "Beacon-Point-2016.jpg",
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Beacon-Point-2016.jpg",
     "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2016/Beacon%20Point/fanart.jpg"
+  },
+  "Brat-Dual-2025.jpg": {
+    "title": "Brat Dual (2025)",
+    "year": "2025",
+    "file": "Brat-Dual-2025.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Brat-Dual-2025.jpg",
+    "sourceUrl": "http://103.203.93.19/Action%20Movie%20(Mixed)/2025/Brat%20(2025)%20Dual%20720p%20HEVC/y6NVUbgHIz3SmrRSLU4xlfzL2Mi-185x278.jpg"
   },
   "Breaking-Bad-The-Movie-2017.jpg": {
     "title": "Breaking Bad The Movie (2017)",
@@ -188,6 +202,13 @@
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Oggy-And-The-Cockroaches-2013.jpg",
     "sourceUrl": "http://103.203.93.4/Cartoon%20Animation%20(Mixed)/2025/Oggy%20and%20the%20Cockroaches%20(2013)%20WEB-DL%20%5BHindi%20ORG%5D%20720p/images.jpg"
   },
+  "Osiris-Dual-2025.jpg": {
+    "title": "Osiris Dual (2025)",
+    "year": "2025",
+    "file": "Osiris-Dual-2025.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Osiris-Dual-2025.jpg",
+    "sourceUrl": "http://103.203.93.19/Action%20Movie%20(Mixed)/2025/Osiris%202025%20Dual%20720p%20HEVC/3YtZHtXPNG5AleisgEatEfZOT2w-185x278.jpg"
+  },
   "Passengers-2016.jpg": {
     "title": "Passengers (2016)",
     "year": "2016",
@@ -244,6 +265,13 @@
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/The-Conjuring-2-Dual-2016.jpg",
     "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2016/The%20Conjuring%202%202016%20Dual%20720p%20HEVC/dmmhToa3hWjZqo8ZxyORuMVVRUO-185x278.jpg"
   },
+  "The-Great-Flood-Multi-2025-2.png": {
+    "title": "The Great Flood Multi (2025)",
+    "year": "2025",
+    "file": "The-Great-Flood-Multi-2025-2.png",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/The-Great-Flood-Multi-2025-2.png",
+    "sourceUrl": "http://103.203.93.19/Action%20Movie%20(Mixed)/2025/The.Great.Flood.2025.Multi.720p.HEVC/image-2025-12-19T172157.258.png"
+  },
   "The-LEGO-Ninjago-Movie-2017.png": {
     "title": "The LEGO Ninjago Movie (2017)",
     "year": "2017",
@@ -272,12 +300,26 @@
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/The-Osiris-Child-2016.png",
     "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2016/The.Osiris%20Child/clearlogo.png"
   },
+  "USS-Indianapolis-Men-Of-Courage-2016.jpg": {
+    "title": "USS Indianapolis Men of Courage (2016)",
+    "year": "2016",
+    "file": "USS-Indianapolis-Men-Of-Courage-2016.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/USS-Indianapolis-Men-Of-Courage-2016.jpg",
+    "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2016/USS%20Indianapolis%20Men%20of%20Courage/fanart.jpg"
+  },
   "Vanished-Left-Behind-Next-Generation-2016.jpg": {
     "title": "Vanished- Left Behind - Next Generation (2016)",
     "year": "2016",
     "file": "Vanished-Left-Behind-Next-Generation-2016.jpg",
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Vanished-Left-Behind-Next-Generation-2016.jpg",
     "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2016/Vanished-%20Left%20Behind%20-%20Next%20Generation/Vanished-%20Left%20Behind%20-%20Next%20Generation%20-%20HD%20720p-fanart.jpg"
+  },
+  "Viking-Legacy-2016.jpg": {
+    "title": "Viking Legacy (2016)",
+    "year": "2016",
+    "file": "Viking-Legacy-2016.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Viking-Legacy-2016.jpg",
+    "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2016/Viking%20Legacy/fanart.jpg"
   },
   "War-Dogs-2016.jpg": {
     "title": "War Dogs (2016)",
