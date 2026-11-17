@@ -6,6 +6,27 @@
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Akhanda-2-Hindi-LiNE-2025.jpg",
     "sourceUrl": "http://103.203.93.19/Action%20Movie%20(Mixed)/2025/Akhanda-2.2025.HDTC.Hindi.LiNE.720p.HEVC/iZkEt5EjNkk0wdQvdWZrw2hSjs5-185x278.jpg"
   },
+  "Breaking-Bad-The-Movie-2017.jpg": {
+    "title": "Breaking Bad The Movie (2017)",
+    "year": "2017",
+    "file": "Breaking-Bad-The-Movie-2017.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Breaking-Bad-The-Movie-2017.jpg",
+    "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2017/Breaking%20Bad%20The%20Movie/poster.jpg"
+  },
+  "Captain-Underpants-2017.jpg": {
+    "title": "Captain Underpants (2017)",
+    "year": "2017",
+    "file": "Captain-Underpants-2017.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Captain-Underpants-2017.jpg",
+    "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2017/Captain%20Underpants/fanart.jpg"
+  },
+  "Cute-Little-Buggers-2017.jpg": {
+    "title": "Cute Little Buggers (2017)",
+    "year": "2017",
+    "file": "Cute-Little-Buggers-2017.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Cute-Little-Buggers-2017.jpg",
+    "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2017/Cute%20Little%20Buggers/fanart.jpg"
+  },
   "DC-Hindi-LiNE-2026.jpg": {
     "title": "DC Hindi-LiNE (2026)",
     "year": "2026",
@@ -76,6 +97,13 @@
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Legend-Of-The-Naked-Fighter-2017.jpg",
     "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2017/Legend%20Of%20The%20Naked%20Fighter/poster.jpg"
   },
+  "Legends-Of-The-Hidden-Temple-2016.jpg": {
+    "title": "Legends of the Hidden Temple (2016)",
+    "year": "2016",
+    "file": "Legends-Of-The-Hidden-Temple-2016.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Legends-Of-The-Hidden-Temple-2016.jpg",
+    "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2016/Legends%20of%20the%20Hidden%20Temple/fanart.jpg"
+  },
   "Lost-In-The-Pacific-2017.jpg": {
     "title": "Lost in the pacific (2017)",
     "year": "2017",
@@ -139,11 +167,25 @@
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Saving-Banksy-2017.jpg",
     "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2017/Saving%20Banksy/fanart.jpg"
   },
+  "The-Angry-Birds-Movie-2016.jpg": {
+    "title": "The Angry Birds Movie (2016)",
+    "year": "2016",
+    "file": "The-Angry-Birds-Movie-2016.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/The-Angry-Birds-Movie-2016.jpg",
+    "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2016/The%20Angry%20Birds%20Movie/fanart.jpg"
+  },
   "The-LEGO-Ninjago-Movie-2017.png": {
     "title": "The LEGO Ninjago Movie (2017)",
     "year": "2017",
     "file": "The-LEGO-Ninjago-Movie-2017.png",
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/The-LEGO-Ninjago-Movie-2017.png",
     "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2017/The%20LEGO%20Ninjago%20Movie/clearlogo.png"
+  },
+  "The-Mountain-II-2016.jpg": {
+    "title": "The Mountain II (2016)",
+    "year": "2016",
+    "file": "The-Mountain-II-2016.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/The-Mountain-II-2016.jpg",
+    "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2016/The.Mountain.II.2016.1080p.WEBRip.x264-%5BYTS.AM%5D/download.jpg"
   }
 }
