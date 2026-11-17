@@ -20,6 +20,13 @@
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Cafe-Umbrella-Bengali-IScreen-2026.jpg",
     "sourceUrl": "http://103.203.93.4/Dhallywood%20(Bangladeshi)/2026/Cafe%20Umbrella%20(2026)%20Bengali%20iScreen%20720p/cafe-umbrella-2026-bengali-isc_5H1Qa8JR.jpg"
   },
+  "Death-Note-2025.jpg": {
+    "title": "Death Note (2025)",
+    "year": "2025",
+    "file": "Death-Note-2025.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Death-Note-2025.jpg",
+    "sourceUrl": "http://103.203.93.4/Cartoon%20Animation%20(Mixed)/2025/Death%20Note%20S01E02%20720p%20x265%2010bit%20BluRay%20Multi%20Audio/at1Dep4erbbnuYNJ1ZK6tQqRczL-185x278.jpg"
+  },
   "Evangelion-3-33-2012.jpg": {
     "title": "Evangelion 3 33 (2012)",
     "year": "2012",
@@ -40,6 +47,13 @@
     "file": "Hes-All-That-Dual-2021.jpg",
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Hes-All-That-Dual-2021.jpg",
     "sourceUrl": "http://103.203.93.19/Comedy%20Zone%20(Mixed)/2020/He's%20All%20That%20(2021)%20Dual%20WEB-DL/kW3AG5NHoyq52dcSbMiFB6LyHvk.jpg"
+  },
+  "Lilo-And-Stitch-Dual-2025.jpg": {
+    "title": "Lilo and Stitch Dual (2025)",
+    "year": "2025",
+    "file": "Lilo-And-Stitch-Dual-2025.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Lilo-And-Stitch-Dual-2025.jpg",
+    "sourceUrl": "http://103.203.93.4/Cartoon%20Animation%20(Mixed)/2025/Lilo.and.Stitch.2025.Dual.720p.HEVC/gdLU0J81mjcYEMFUqb6WiLYYr7j-185x278.jpg"
   },
   "Malik-Bengali-Utshob-2026.jpg": {
     "title": "Malik Bengali Utshob (2026)",
@@ -69,6 +83,13 @@
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Mutny-2026.jpg",
     "sourceUrl": "http://103.203.93.19/Action%20Movie%20(Mixed)/2026/Mutny.2026.720p.WEB-DL.x265/pu2VxGlpGwffOx292w18b1tv96j-185x278.jpg"
   },
+  "Ne-Zha-2-IT-2025.jpg": {
+    "title": "Ne Zha 2 iT (2025)",
+    "year": "2025",
+    "file": "Ne-Zha-2-IT-2025.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Ne-Zha-2-IT-2025.jpg",
+    "sourceUrl": "http://103.203.93.4/Cartoon%20Animation%20(Mixed)/2025/Ne%20Zha%202%20(2025)%20WEB-DL%20%5BHindi-Chinese%5D%20iT%20720p%20HEVC%20ESub/nezha-2025.jpg"
+  },
   "Omanush-Holo-Manush-Bengali-EW-2026.jpg": {
     "title": "Omanush Holo Manush Bengali EW (2026)",
     "year": "2026",
@@ -96,6 +117,13 @@
     "file": "Pilla-Zamindar-Telugu-2011.jpg",
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Pilla-Zamindar-Telugu-2011.jpg",
     "sourceUrl": "http://103.203.93.6/Kollywood%20(Tamil)/2011/Pilla%20Zamindar%202011%20Telugu%20720p%20BRRiP%20x264/2M9TBSdDjMzf7MOLCN2FfFyq3Dz.jpg"
+  },
+  "Ploey-2018.jpg": {
+    "title": "Ploey (2018)",
+    "year": "2018",
+    "file": "Ploey-2018.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Ploey-2018.jpg",
+    "sourceUrl": "http://103.203.93.4/Cartoon%20Animation%20(Mixed)/2025/Ploey%20(2018)%20BluRay%20%5BHindi-English%5D%20720p%20ESub/ploey-you-never-fly-alone-2018-full-movie-watch-online-hd-print-free-download.jpg"
   },
   "Pressure-Cooker-Bengali-2026.jpg": {
     "title": "Pressure Cooker Bengali (2026)",
@@ -138,6 +166,13 @@
     "file": "The-Emoji-Movie-2017.jpg",
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/The-Emoji-Movie-2017.jpg",
     "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2017/The%20Emoji%20Movie/fanart.jpg"
+  },
+  "The-Glassworker-2024.jpg": {
+    "title": "The Glassworker (2024)",
+    "year": "2024",
+    "file": "The-Glassworker-2024.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/The-Glassworker-2024.jpg",
+    "sourceUrl": "http://103.203.93.4/Cartoon%20Animation%20(Mixed)/2025/The%20Glassworker%20(2024)%20WEBRip%20%5BUrdu-English%5D%20720p%20ESub/MV5BNjQzZTE2YWUtZTliOC00ZmUyLWE4ZmUtMjNhZmZlMDg0NDYzXkEyXkFqcGc@._V1_.jpg"
   },
   "The-Golden-Monk-2017.jpg": {
     "title": "The Golden Monk (2017)",
