@@ -132,6 +132,13 @@
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Brooklyns-Finest-2013.png",
     "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2013/Brooklyns%20Finest/clearlogo.png"
   },
+  "Buddy-2024.jpg": {
+    "title": "Buddy (2024)",
+    "year": "2024",
+    "file": "Buddy-2024.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Buddy-2024.jpg",
+    "sourceUrl": "http://103.203.93.6/Kollywood%20(Tamil)/2024/Buddy/4kBQXF9Yxkqje4Ss43vHDwqDHtu-185x278.jpg"
+  },
   "Captain-Underpants-2017.jpg": {
     "title": "Captain Underpants (2017)",
     "year": "2017",
@@ -314,12 +321,26 @@
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Kingsglaive-Final-Fantasy-2016.png",
     "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2016/Kingsglaive.Final.Fantasy/clearlogo.png"
   },
+  "Kishkindha-Kaandam-2024.jpg": {
+    "title": "Kishkindha Kaandam (2024)",
+    "year": "2024",
+    "file": "Kishkindha-Kaandam-2024.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Kishkindha-Kaandam-2024.jpg",
+    "sourceUrl": "http://103.203.93.6/Kollywood%20(Tamil)/2024/Kishkindha%20Kaandam/rniBYHDRs6e8qMkPr4D4ZE5uMhF-185x278.jpg"
+  },
   "Kiss-And-Kil-2017.jpg": {
     "title": "Kiss and Kil (2017)",
     "year": "2017",
     "file": "Kiss-And-Kil-2017.jpg",
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Kiss-And-Kil-2017.jpg",
     "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2017/Kiss%20and%20Kil/fanart.jpg"
+  },
+  "Kondal-2024.jpg": {
+    "title": "Kondal (2024)",
+    "year": "2024",
+    "file": "Kondal-2024.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Kondal-2024.jpg",
+    "sourceUrl": "http://103.203.93.6/Kollywood%20(Tamil)/2024/Kondal/zLbnXZWIzKU9pmrGdzuwkHluGz9-185x278.jpg"
   },
   "Lady-Expendables-2017.jpg": {
     "title": "Lady Expendables (2017)",
@@ -397,6 +418,13 @@
     "file": "Masterminds-2016.jpg",
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Masterminds-2016.jpg",
     "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2016/Masterminds/fanart.jpg"
+  },
+  "Matka-2024.png": {
+    "title": "Matka (2024)",
+    "year": "2024",
+    "file": "Matka-2024.png",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Matka-2024.png",
+    "sourceUrl": "http://103.203.93.6/Kollywood%20(Tamil)/2024/Matka/Image-2024-11-15T025859.214-185x248.png"
   },
   "Memoirs-Of-A-Murderer-2017.jpg": {
     "title": "Memoirs of a Murderer (2017)",
@@ -615,6 +643,13 @@
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Sunflower-Shopia-Loren-2013.jpg",
     "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2013/Sunflower%20Shopia%20Loren/poster.jpg"
   },
+  "Swag-2024.jpg": {
+    "title": "Swag (2024)",
+    "year": "2024",
+    "file": "Swag-2024.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Swag-2024.jpg",
+    "sourceUrl": "http://103.203.93.6/Kollywood%20(Tamil)/2024/Swag/MV5BOTAzOGE3MTctN2VlZi00ZWFlLThlYjQtYmM3NDdmOWQ3ZmNiXkEyXkFqcGc@._V1_SX300.jpg"
+  },
   "Tenant-2024.png": {
     "title": "Tenant (2024)",
     "year": "2024",
@@ -726,6 +761,13 @@
     "file": "USS-Indianapolis-Men-Of-Courage-2016.jpg",
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/USS-Indianapolis-Men-Of-Courage-2016.jpg",
     "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2016/USS%20Indianapolis%20Men%20of%20Courage/fanart.jpg"
+  },
+  "Vajra-Kavachadhara-Govinda-2024.jpg": {
+    "title": "Vajra Kavachadhara Govinda (2024)",
+    "year": "2024",
+    "file": "Vajra-Kavachadhara-Govinda-2024.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Vajra-Kavachadhara-Govinda-2024.jpg",
+    "sourceUrl": "http://103.203.93.6/Kollywood%20(Tamil)/2024/Vajra%20Kavachadhara%20Govinda/MV5BM2NjNjBjMzEtZmRhYy00OWJmLTkzZDUtOTcwMGEzNjJkYzQ0XkEyXkFqcGdeQXVyMTA0MDMwNDEy._V1_SX300.jpg"
   },
   "Vanished-Left-Behind-Next-Generation-2016.jpg": {
     "title": "Vanished- Left Behind - Next Generation (2016)",
