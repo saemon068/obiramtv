@@ -13,6 +13,48 @@
     "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/DC-Hindi-LiNE-2026.jpg",
     "sourceUrl": "http://103.203.93.19/Action%20Movie%20(Mixed)/2026/DC.2026.720p.HDTC.Hindi-LiNE.x265/8NrZDCxr13X8sR1woUTIYDnb4E0-185x278.jpg"
   },
+  "DC-Vixen-2017.jpg": {
+    "title": "DC Vixen (2017)",
+    "year": "2017",
+    "file": "DC-Vixen-2017.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/DC-Vixen-2017.jpg",
+    "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2017/DC%20Vixen/poster.jpg"
+  },
+  "Dance-Academy-2017.jpg": {
+    "title": "Dance Academy (2017)",
+    "year": "2017",
+    "file": "Dance-Academy-2017.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Dance-Academy-2017.jpg",
+    "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2017/Dance%20Academy/fanart.jpg"
+  },
+  "Gold-2017.png": {
+    "title": "Gold (2017)",
+    "year": "2017",
+    "file": "Gold-2017.png",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Gold-2017.png",
+    "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2017/Gold/clearlogo.png"
+  },
+  "Gong-Shou-Dao-2017.jpg": {
+    "title": "Gong Shou Dao (2017)",
+    "year": "2017",
+    "file": "Gong-Shou-Dao-2017.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Gong-Shou-Dao-2017.jpg",
+    "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2017/Gong%20Shou%20Dao/fanart.jpg"
+  },
+  "Handsome-A-Netflix-Mystery-Movie-2017.png": {
+    "title": "Handsome- A Netflix Mystery Movie (2017)",
+    "year": "2017",
+    "file": "Handsome-A-Netflix-Mystery-Movie-2017.png",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/Handsome-A-Netflix-Mystery-Movie-2017.png",
+    "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2017/Handsome-%20A%20Netflix%20Mystery%20Movie/clearlogo.png"
+  },
+  "King-Aurthur-2017.jpg": {
+    "title": "King Aurthur (2017)",
+    "year": "2017",
+    "file": "King-Aurthur-2017.jpg",
+    "cdn": "https://cdn.jsdelivr.net/gh/saemon068/obiramtv@main/movie-posters/King-Aurthur-2017.jpg",
+    "sourceUrl": "http://103.203.93.3/Hollywood%20(English)/2017/King%20Aurthur/poster.jpg"
+  },
   "Kiss-And-Kil-2017.jpg": {
     "title": "Kiss and Kil (2017)",
     "year": "2017",
